@@ -1,0 +1,5 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1009-complement-of-base-10-integer.java:6:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1009-complement-of-base-10-integer.java:6:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1009-complement-of-base-10-integer.java:13:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1009-complement-of-base-10-integer.java:20:	UnusedAssignment:	The value assigned to variable 'max' is never used
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1009-complement-of-base-10-integer.java:26:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'n'

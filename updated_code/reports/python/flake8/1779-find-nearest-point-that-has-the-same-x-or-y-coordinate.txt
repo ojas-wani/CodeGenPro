@@ -1,0 +1,8 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:12:59: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:12:64: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:12:80: E501 line too long (82 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:14:80: E501 line too long (95 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:15:80: E501 line too long (89 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:21:80: E501 line too long (99 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:24:80: E501 line too long (83 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:34:23: W292 no newline at end of file

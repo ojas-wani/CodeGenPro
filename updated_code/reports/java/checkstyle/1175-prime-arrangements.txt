@@ -1,0 +1,9 @@
+Starting audit...
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:1: Missing package-info.java file. [JavadocPackage]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:3:8: Unused import - java.util.HashMap. [UnusedImports]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:4:8: Unused import - java.util.Map. [UnusedImports]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:7:37: Parameter n should be final. [FinalParameters]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:8:14: Name 'MOD' must match pattern '^[a-z][a-zA-Z0-9]*$'. [LocalVariableName]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:8:20: '1_000_000_007' is a magic number. [MagicNumber]
+Audit done.

@@ -1,0 +1,14 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:3:	UnnecessaryImport:	Unused import 'java.util.Arrays'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:8:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:15:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:17:	MethodArgumentCouldBeFinal:	Parameter 'distance' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:17:	MethodArgumentCouldBeFinal:	Parameter 'start' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:17:	MethodArgumentCouldBeFinal:	Parameter 'destination' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:18:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:18:	LocalVariableCouldBeFinal:	Local variable 'n' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:33:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:34:	LocalVariableCouldBeFinal:	Local variable 'dbbs' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:35:	LocalVariableCouldBeFinal:	Local variable 'distance' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:36:	LocalVariableCouldBeFinal:	Local variable 'start' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:37:	LocalVariableCouldBeFinal:	Local variable 'destination' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1184-distance-between-bus-stops.java:38:	SystemPrintln:	Usage of System.out/err

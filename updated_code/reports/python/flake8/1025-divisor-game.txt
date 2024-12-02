@@ -1,0 +1,3 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1025-divisor-game.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1025-divisor-game.py:2:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1025-divisor-game.py:7:26: W292 no newline at end of file

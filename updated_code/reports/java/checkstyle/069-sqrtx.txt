@@ -1,0 +1,9 @@
+Starting audit...
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\069-sqrtx.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\069-sqrtx.java:1: Missing package-info.java file. [JavadocPackage]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\069-sqrtx.java:1:9: Name 'LMImprovedCodeQuality' must match pattern '^[a-z]+(\.[a-zA-Z_]\w*)*$'. [PackageName]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\069-sqrtx.java:10: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\069-sqrtx.java:11:8: Unused @param tag for 'x'. [JavadocMethod]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\069-sqrtx.java:14:23: Parameter finalX should be final. [FinalParameters]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\069-sqrtx.java:14:27: Expected @param tag for 'finalX'. [JavadocMethod]
+Audit done.

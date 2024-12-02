@@ -1,0 +1,9 @@
+Starting audit...
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1399-count-largest-group.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1399-count-largest-group.java:1: Missing package-info.java file. [JavadocPackage]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1399-count-largest-group.java:3: Line is longer than 80 characters (found 86). [LineLength]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1399-count-largest-group.java:8:9: Name 'Programming' must match pattern '^[a-z]+(\.[a-zA-Z_]\w*)*$'. [PackageName]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1399-count-largest-group.java:13: First sentence should end with a period. [JavadocStyle]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1399-count-largest-group.java:19:34: Parameter n should be final. [FinalParameters]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1399-count-largest-group.java:20:31: '37' is a magic number. [MagicNumber]
+Audit done.

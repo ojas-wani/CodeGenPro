@@ -1,0 +1,5 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/028-find-the-index-of-the-first-occurrence-in-a-string.py:3:80: E501 line too long (119 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/028-find-the-index-of-the-first-occurrence-in-a-string.py:10:80: E501 line too long (120 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/028-find-the-index-of-the-first-occurrence-in-a-string.py:14:80: E501 line too long (123 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/028-find-the-index-of-the-first-occurrence-in-a-string.py:21:80: E501 line too long (124 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/028-find-the-index-of-the-first-occurrence-in-a-string.py:30:22: W292 no newline at end of file

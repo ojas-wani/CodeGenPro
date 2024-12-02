@@ -1,0 +1,12 @@
+************* Module 1486-xor-operation-in-an-array
+1486-xor-operation-in-an-array.py:18:0: C0304: Final newline missing (missing-final-newline)
+1486-xor-operation-in-an-array.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1486-xor-operation-in-an-array.py:1:0: C0103: Module name "1486-xor-operation-in-an-array" doesn't conform to snake_case naming style (invalid-name)
+1486-xor-operation-in-an-array.py:6:4: W0105: String statement has no effect (pointless-string-statement)
+1486-xor-operation-in-an-array.py:14:4: C0116: Missing function or method docstring (missing-function-docstring)
+1486-xor-operation-in-an-array.py:14:28: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+1486-xor-operation-in-an-array.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

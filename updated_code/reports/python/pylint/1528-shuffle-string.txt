@@ -1,0 +1,11 @@
+************* Module 1528-shuffle-string
+1528-shuffle-string.py:14:0: C0301: Line too long (115/100) (line-too-long)
+1528-shuffle-string.py:22:0: C0304: Final newline missing (missing-final-newline)
+1528-shuffle-string.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1528-shuffle-string.py:1:0: C0103: Module name "1528-shuffle-string" doesn't conform to snake_case naming style (invalid-name)
+1528-shuffle-string.py:8:29: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1528-shuffle-string.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 1.43/10 (previous run: 0.00/10, +1.43)
+

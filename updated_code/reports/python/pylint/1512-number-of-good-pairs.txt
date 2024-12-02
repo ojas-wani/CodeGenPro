@@ -1,0 +1,15 @@
+************* Module 1512-number-of-good-pairs
+1512-number-of-good-pairs.py:7:0: C0301: Line too long (116/100) (line-too-long)
+1512-number-of-good-pairs.py:42:0: C0304: Final newline missing (missing-final-newline)
+1512-number-of-good-pairs.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1512-number-of-good-pairs.py:1:0: C0103: Module name "1512-number-of-good-pairs" doesn't conform to snake_case naming style (invalid-name)
+1512-number-of-good-pairs.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1512-number-of-good-pairs.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1512-number-of-good-pairs.py:2:0: C0413: Import "from typing import List" should be placed at the top of the module (wrong-import-position)
+1512-number-of-good-pairs.py:18:4: W0105: String statement has no effect (pointless-string-statement)
+1512-number-of-good-pairs.py:27:4: C0103: Method name "numIdenticalPairs" doesn't conform to snake_case naming style (invalid-name)
+1512-number-of-good-pairs.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 1.11/10, -1.11)
+

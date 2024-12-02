@@ -1,0 +1,17 @@
+************* Module 1758-minimum-changes-to-make-alternating-binary-string
+1758-minimum-changes-to-make-alternating-binary-string.py:29:0: C0301: Line too long (109/100) (line-too-long)
+1758-minimum-changes-to-make-alternating-binary-string.py:38:0: C0303: Trailing whitespace (trailing-whitespace)
+1758-minimum-changes-to-make-alternating-binary-string.py:41:0: C0301: Line too long (109/100) (line-too-long)
+1758-minimum-changes-to-make-alternating-binary-string.py:55:0: C0304: Final newline missing (missing-final-newline)
+1758-minimum-changes-to-make-alternating-binary-string.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1758-minimum-changes-to-make-alternating-binary-string.py:1:0: C0103: Module name "1758-minimum-changes-to-make-alternating-binary-string" doesn't conform to snake_case naming style (invalid-name)
+1758-minimum-changes-to-make-alternating-binary-string.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1758-minimum-changes-to-make-alternating-binary-string.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1758-minimum-changes-to-make-alternating-binary-string.py:37:8: W0107: Unnecessary pass statement (unnecessary-pass)
+1758-minimum-changes-to-make-alternating-binary-string.py:39:29: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1758-minimum-changes-to-make-alternating-binary-string.py:39:4: E0102: method already defined line 27 (function-redefined)
+1758-minimum-changes-to-make-alternating-binary-string.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

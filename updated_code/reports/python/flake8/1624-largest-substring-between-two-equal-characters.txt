@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1624-largest-substring-between-two-equal-characters.py:3:80: E501 line too long (126 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1624-largest-substring-between-two-equal-characters.py:8:80: E501 line too long (94 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1624-largest-substring-between-two-equal-characters.py:9:80: E501 line too long (82 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1624-largest-substring-between-two-equal-characters.py:10:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1624-largest-substring-between-two-equal-characters.py:11:80: E501 line too long (118 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1624-largest-substring-between-two-equal-characters.py:12:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1624-largest-substring-between-two-equal-characters.py:13:80: E501 line too long (190 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1624-largest-substring-between-two-equal-characters.py:14:80: E501 line too long (95 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1624-largest-substring-between-two-equal-characters.py:15:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1624-largest-substring-between-two-equal-characters.py:20:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1624-largest-substring-between-two-equal-characters.py:26:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1624-largest-substring-between-two-equal-characters.py:27:23: W292 no newline at end of file

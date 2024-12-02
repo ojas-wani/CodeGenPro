@@ -1,0 +1,16 @@
+************* Module 070-climbing-stairs
+070-climbing-stairs.py:5:0: C0303: Trailing whitespace (trailing-whitespace)
+070-climbing-stairs.py:33:0: C0304: Final newline missing (missing-final-newline)
+070-climbing-stairs.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+070-climbing-stairs.py:1:0: C0103: Module name "070-climbing-stairs" doesn't conform to snake_case naming style (invalid-name)
+070-climbing-stairs.py:10:8: W0107: Unnecessary pass statement (unnecessary-pass)
+070-climbing-stairs.py:12:27: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+070-climbing-stairs.py:24:8: C0103: Variable name "a" doesn't conform to snake_case naming style (invalid-name)
+070-climbing-stairs.py:24:11: C0103: Variable name "b" doesn't conform to snake_case naming style (invalid-name)
+070-climbing-stairs.py:26:12: C0103: Variable name "a" doesn't conform to snake_case naming style (invalid-name)
+070-climbing-stairs.py:26:15: C0103: Variable name "b" doesn't conform to snake_case naming style (invalid-name)
+070-climbing-stairs.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 2.14/10 (previous run: 2.14/10, +0.00)
+

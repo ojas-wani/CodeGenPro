@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1351-count-negative-numbers-in-a-sorted-matrix.java:4:	UnnecessaryImport:	Unused import 'java.util.Arrays'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1351-count-negative-numbers-in-a-sorted-matrix.java:9:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1351-count-negative-numbers-in-a-sorted-matrix.java:16:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1351-count-negative-numbers-in-a-sorted-matrix.java:16:	MethodArgumentCouldBeFinal:	Parameter 'grid' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1351-count-negative-numbers-in-a-sorted-matrix.java:18:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1351-count-negative-numbers-in-a-sorted-matrix.java:21:	LocalVariableCouldBeFinal:	Local variable 'row' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1351-count-negative-numbers-in-a-sorted-matrix.java:22:	LocalVariableCouldBeFinal:	Local variable 'col' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1351-count-negative-numbers-in-a-sorted-matrix.java:26:	ShortVariable:	Avoid variables with short names like i
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1351-count-negative-numbers-in-a-sorted-matrix.java:26:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1351-count-negative-numbers-in-a-sorted-matrix.java:26:	ShortVariable:	Avoid variables with short names like j

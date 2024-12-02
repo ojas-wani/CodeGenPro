@@ -1,0 +1,13 @@
+************* Module 1656-design-an-ordered-stream
+1656-design-an-ordered-stream.py:33:0: C0304: Final newline missing (missing-final-newline)
+1656-design-an-ordered-stream.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1656-design-an-ordered-stream.py:1:0: C0103: Module name "1656-design-an-ordered-stream" doesn't conform to snake_case naming style (invalid-name)
+1656-design-an-ordered-stream.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1656-design-an-ordered-stream.py:12:8: C0103: Attribute name "n" doesn't conform to snake_case naming style (invalid-name)
+1656-design-an-ordered-stream.py:5:23: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+1656-design-an-ordered-stream.py:15:21: C0103: Argument name "idKey" doesn't conform to snake_case naming style (invalid-name)
+1656-design-an-ordered-stream.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 3.33/10 (previous run: 0.00/10, +3.33)
+

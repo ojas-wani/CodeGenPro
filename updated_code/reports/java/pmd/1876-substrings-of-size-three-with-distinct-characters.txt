@@ -1,0 +1,8 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1876-substrings-of-size-three-with-distinct-characters.java:7:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1876-substrings-of-size-three-with-distinct-characters.java:9:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1876-substrings-of-size-three-with-distinct-characters.java:12:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1876-substrings-of-size-three-with-distinct-characters.java:17:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1876-substrings-of-size-three-with-distinct-characters.java:17:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1876-substrings-of-size-three-with-distinct-characters.java:20:	LocalVariableCouldBeFinal:	Local variable 'set' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1876-substrings-of-size-three-with-distinct-characters.java:20:	AvoidInstantiatingObjectsInLoops:	Avoid instantiating new objects inside loops
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1876-substrings-of-size-three-with-distinct-characters.java:23:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements

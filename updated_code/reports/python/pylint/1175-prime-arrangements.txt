@@ -1,0 +1,20 @@
+************* Module 1175-prime-arrangements
+1175-prime-arrangements.py:5:0: C0301: Line too long (124/100) (line-too-long)
+1175-prime-arrangements.py:11:0: C0301: Line too long (125/100) (line-too-long)
+1175-prime-arrangements.py:15:0: C0301: Line too long (107/100) (line-too-long)
+1175-prime-arrangements.py:49:0: C0304: Final newline missing (missing-final-newline)
+1175-prime-arrangements.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1175-prime-arrangements.py:1:0: C0103: Module name "1175-prime-arrangements" doesn't conform to snake_case naming style (invalid-name)
+1175-prime-arrangements.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1175-prime-arrangements.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1175-prime-arrangements.py:2:0: C0115: Missing class docstring (missing-class-docstring)
+1175-prime-arrangements.py:7:8: W0107: Unnecessary pass statement (unnecessary-pass)
+1175-prime-arrangements.py:9:33: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+1175-prime-arrangements.py:17:8: C0103: Variable name "MOD" doesn't conform to snake_case naming style (invalid-name)
+1175-prime-arrangements.py:34:8: W0105: String statement has no effect (pointless-string-statement)
+1175-prime-arrangements.py:42:8: W0105: String statement has no effect (pointless-string-statement)
+1175-prime-arrangements.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 2.40/10 (previous run: 5.50/10, -3.10)
+

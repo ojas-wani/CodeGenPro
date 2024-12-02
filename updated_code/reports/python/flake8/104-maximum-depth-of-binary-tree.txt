@@ -1,0 +1,3 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/104-maximum-depth-of-binary-tree.py:3:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/104-maximum-depth-of-binary-tree.py:10:40: F821 undefined name 'TreeNode'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/104-maximum-depth-of-binary-tree.py:28:52: W292 no newline at end of file

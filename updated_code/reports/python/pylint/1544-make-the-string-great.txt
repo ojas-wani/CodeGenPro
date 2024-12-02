@@ -1,0 +1,28 @@
+************* Module 1544-make-the-string-great
+1544-make-the-string-great.py:39:0: C0304: Final newline missing (missing-final-newline)
+1544-make-the-string-great.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1544-make-the-string-great.py:1:0: C0103: Module name "1544-make-the-string-great" doesn't conform to snake_case naming style (invalid-name)
+1544-make-the-string-great.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1544-make-the-string-great.py:1:0: E0602: Undefined variable 'py' (undefined-variable)
+1544-make-the-string-great.py:2:0: C0413: Import "import string" should be placed at the top of the module (wrong-import-position)
+1544-make-the-string-great.py:5:0: C0115: Missing class docstring (missing-class-docstring)
+1544-make-the-string-great.py:6:4: C0116: Missing function or method docstring (missing-function-docstring)
+1544-make-the-string-great.py:6:4: C0103: Method name "makeGood" doesn't conform to snake_case naming style (invalid-name)
+1544-make-the-string-great.py:6:23: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1544-make-the-string-great.py:6:23: W0621: Redefining name 's' from outer scope (line 37) (redefined-outer-name)
+1544-make-the-string-great.py:5:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+1544-make-the-string-great.py:16:0: C0115: Missing class docstring (missing-class-docstring)
+1544-make-the-string-great.py:17:4: C0116: Missing function or method docstring (missing-function-docstring)
+1544-make-the-string-great.py:17:41: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1544-make-the-string-great.py:17:41: W0621: Redefining name 's' from outer scope (line 37) (redefined-outer-name)
+1544-make-the-string-great.py:16:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+1544-make-the-string-great.py:27:0: C0116: Missing function or method docstring (missing-function-docstring)
+1544-make-the-string-great.py:27:31: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1544-make-the-string-great.py:27:31: W0621: Redefining name 's' from outer scope (line 37) (redefined-outer-name)
+1544-make-the-string-great.py:37:0: C0103: Constant name "s" doesn't conform to UPPER_CASE naming style (invalid-name)
+1544-make-the-string-great.py:38:0: C0103: Constant name "output" doesn't conform to UPPER_CASE naming style (invalid-name)
+1544-make-the-string-great.py:2:0: W0611: Unused import string (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 0.36/10 (previous run: 0.00/10, +0.36)
+

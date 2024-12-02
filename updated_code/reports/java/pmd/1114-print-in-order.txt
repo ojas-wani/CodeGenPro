@@ -1,0 +1,18 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:5:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:5:	ShortClassName:	Avoid short class names like Foo
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:5:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:6:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:6:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:7:	ImmutableField:	Field 'lock' may be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:7:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:8:	ImmutableField:	Field 'con1' may be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:8:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:8:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:8:	ImmutableField:	Field 'con2' may be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:10:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:20:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:20:	MethodArgumentCouldBeFinal:	Parameter 'printFirst' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:31:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:31:	MethodArgumentCouldBeFinal:	Parameter 'printSecond' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:45:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1114-print-in-order.java:45:	MethodArgumentCouldBeFinal:	Parameter 'printThird' is not assigned and could be declared final

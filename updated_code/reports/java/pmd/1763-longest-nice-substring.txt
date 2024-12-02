@@ -1,0 +1,13 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1763-longest-nice-substring.java:6:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1763-longest-nice-substring.java:14:	CognitiveComplexity:	The method 'longestNiceSubstring(String)' has a cognitive complexity of 22, current threshold is 15
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1763-longest-nice-substring.java:14:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1763-longest-nice-substring.java:14:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1763-longest-nice-substring.java:15:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1763-longest-nice-substring.java:16:	ShortVariable:	Avoid variables with short names like ca
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1763-longest-nice-substring.java:16:	LocalVariableCouldBeFinal:	Local variable 'ca' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1763-longest-nice-substring.java:17:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1763-longest-nice-substring.java:21:	UnnecessaryCast:	Unnecessary cast (int)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1763-longest-nice-substring.java:22:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1763-longest-nice-substring.java:23:	AssignmentInOperand:	Avoid assignments in operands
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1763-longest-nice-substring.java:28:	ConfusingTernary:	Avoid if (x != y) ..; else ..;
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1763-longest-nice-substring.java:33:	AvoidReassigningLoopVariables:	Avoid reassigning the loop control variable 'i'

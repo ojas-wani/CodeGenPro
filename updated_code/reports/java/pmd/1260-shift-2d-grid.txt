@@ -1,0 +1,15 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:4:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:4:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:4:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:12:	MethodArgumentCouldBeFinal:	Parameter 'grid' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:12:	ShortVariable:	Avoid variables with short names like k
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:14:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:17:	ShortVariable:	Avoid variables with short names like m
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:17:	LocalVariableCouldBeFinal:	Local variable 'm' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:18:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:18:	LocalVariableCouldBeFinal:	Local variable 'n' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:19:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'k'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:21:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:23:	LocalVariableCouldBeFinal:	Local variable 'row' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:23:	AvoidInstantiatingObjectsInLoops:	Avoid instantiating new objects inside loops
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1260-shift-2d-grid.java:32:	LocalVariableCouldBeFinal:	Local variable 'index' could be declared final

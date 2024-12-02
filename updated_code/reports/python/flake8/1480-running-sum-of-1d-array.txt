@@ -1,0 +1,6 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1480-running-sum-of-1d-array.py:3:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1480-running-sum-of-1d-array.py:6:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1480-running-sum-of-1d-array.py:10:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1480-running-sum-of-1d-array.py:14:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1480-running-sum-of-1d-array.py:17:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1480-running-sum-of-1d-array.py:26:22: W292 no newline at end of file

@@ -1,0 +1,3 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/067-add-binary.py:4:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/067-add-binary.py:8:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/067-add-binary.py:12:42: W292 no newline at end of file

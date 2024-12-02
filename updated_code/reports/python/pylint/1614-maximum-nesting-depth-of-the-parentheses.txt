@@ -1,0 +1,10 @@
+************* Module 1614-maximum-nesting-depth-of-the-parentheses
+1614-maximum-nesting-depth-of-the-parentheses.py:29:0: C0304: Final newline missing (missing-final-newline)
+1614-maximum-nesting-depth-of-the-parentheses.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1614-maximum-nesting-depth-of-the-parentheses.py:1:0: C0103: Module name "1614-maximum-nesting-depth-of-the-parentheses" doesn't conform to snake_case naming style (invalid-name)
+1614-maximum-nesting-depth-of-the-parentheses.py:7:24: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1614-maximum-nesting-depth-of-the-parentheses.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 5.45/10 (previous run: 0.00/10, +5.45)
+

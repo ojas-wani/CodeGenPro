@@ -1,0 +1,15 @@
+************* Module 1025-divisor-game
+1025-divisor-game.py:7:0: C0304: Final newline missing (missing-final-newline)
+1025-divisor-game.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1025-divisor-game.py:1:0: C0103: Module name "1025-divisor-game" doesn't conform to snake_case naming style (invalid-name)
+1025-divisor-game.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1025-divisor-game.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1025-divisor-game.py:2:0: C0115: Missing class docstring (missing-class-docstring)
+1025-divisor-game.py:3:4: C0116: Missing function or method docstring (missing-function-docstring)
+1025-divisor-game.py:3:4: C0103: Method name "divisorGame" doesn't conform to snake_case naming style (invalid-name)
+1025-divisor-game.py:3:26: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+1025-divisor-game.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

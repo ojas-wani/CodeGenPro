@@ -1,0 +1,6 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1078-occurrences-after-bigram.java:9:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1078-occurrences-after-bigram.java:18:	MethodArgumentCouldBeFinal:	Parameter 'text' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1078-occurrences-after-bigram.java:18:	MethodArgumentCouldBeFinal:	Parameter 'first' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1078-occurrences-after-bigram.java:18:	MethodArgumentCouldBeFinal:	Parameter 'second' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1078-occurrences-after-bigram.java:19:	LocalVariableCouldBeFinal:	Local variable 'words' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1078-occurrences-after-bigram.java:20:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final

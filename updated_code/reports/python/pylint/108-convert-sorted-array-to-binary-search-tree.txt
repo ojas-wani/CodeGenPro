@@ -1,0 +1,16 @@
+************* Module 108-convert-sorted-array-to-binary-search-tree
+108-convert-sorted-array-to-binary-search-tree.py:27:0: C0304: Final newline missing (missing-final-newline)
+108-convert-sorted-array-to-binary-search-tree.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+108-convert-sorted-array-to-binary-search-tree.py:1:0: C0103: Module name "108-convert-sorted-array-to-binary-search-tree" doesn't conform to snake_case naming style (invalid-name)
+108-convert-sorted-array-to-binary-search-tree.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+108-convert-sorted-array-to-binary-search-tree.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+108-convert-sorted-array-to-binary-search-tree.py:2:0: C0413: Import "from typing import List, Optional" should be placed at the top of the module (wrong-import-position)
+108-convert-sorted-array-to-binary-search-tree.py:5:0: C0115: Missing class docstring (missing-class-docstring)
+108-convert-sorted-array-to-binary-search-tree.py:5:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+108-convert-sorted-array-to-binary-search-tree.py:11:0: C0115: Missing class docstring (missing-class-docstring)
+108-convert-sorted-array-to-binary-search-tree.py:12:4: C0103: Method name "sortedArrayToBST" doesn't conform to snake_case naming style (invalid-name)
+108-convert-sorted-array-to-binary-search-tree.py:11:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.62/10 (previous run: 0.00/10, +0.62)
+

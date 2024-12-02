@@ -1,0 +1,11 @@
+Starting audit...
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1486-xor-operation-in-an-array.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1486-xor-operation-in-an-array.java:1: Missing package-info.java file. [JavadocPackage]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1486-xor-operation-in-an-array.java:2: Line is longer than 80 characters (found 107). [LineLength]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1486-xor-operation-in-an-array.java:8:8: Unused import - java.util.Arrays. [UnusedImports]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1486-xor-operation-in-an-array.java:19:29: Parameter n should be final. [FinalParameters]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1486-xor-operation-in-an-array.java:19:36: Parameter start should be final. [FinalParameters]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1486-xor-operation-in-an-array.java:28:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1486-xor-operation-in-an-array.java:28:29: Parameter args should be final. [FinalParameters]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1486-xor-operation-in-an-array.java:30:17: '5' is a magic number. [MagicNumber]
+Audit done.

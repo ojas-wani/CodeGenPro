@@ -1,0 +1,13 @@
+************* Module 069-sqrtx
+069-sqrtx.py:4:0: C0301: Line too long (104/100) (line-too-long)
+069-sqrtx.py:25:0: C0304: Final newline missing (missing-final-newline)
+069-sqrtx.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+069-sqrtx.py:1:0: C0103: Module name "069-sqrtx" doesn't conform to snake_case naming style (invalid-name)
+069-sqrtx.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+069-sqrtx.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+069-sqrtx.py:2:11: C0103: Argument name "x" doesn't conform to snake_case naming style (invalid-name)
+069-sqrtx.py:18:8: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 0.77/10 (previous run: 0.77/10, +0.00)
+

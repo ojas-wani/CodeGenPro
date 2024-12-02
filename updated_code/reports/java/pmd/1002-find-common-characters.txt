@@ -1,0 +1,14 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:3:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:3:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:3:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:10:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:12:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:12:	MethodArgumentCouldBeFinal:	Parameter 'words' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:14:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:17:	UseConcurrentHashMap:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:20:	LocalVariableCouldBeFinal:	Local variable 'word' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:21:	AvoidInstantiatingObjectsInLoops:	Avoid instantiating new objects inside loops
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:22:	LocalVariableCouldBeFinal:	Local variable 'ch' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:29:	LocalVariableCouldBeFinal:	Local variable 'entry' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:35:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1002-find-common-characters.java:36:	LocalVariableCouldBeFinal:	Local variable 'entry' could be declared final

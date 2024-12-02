@@ -1,0 +1,1 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1287-element-appearing-more-than-25-in-sorted-array.py:1:11: E999 SyntaxError: invalid syntax

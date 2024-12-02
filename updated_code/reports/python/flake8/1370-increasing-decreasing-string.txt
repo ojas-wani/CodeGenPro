@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1370-increasing-decreasing-string.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1370-increasing-decreasing-string.py:2:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1370-increasing-decreasing-string.py:4:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1370-increasing-decreasing-string.py:9:80: E501 line too long (84 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1370-increasing-decreasing-string.py:10:80: E501 line too long (134 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1370-increasing-decreasing-string.py:12:80: E501 line too long (83 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1370-increasing-decreasing-string.py:13:80: E501 line too long (133 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1370-increasing-decreasing-string.py:43:5: F811 redefinition of unused 'sort_string' from line 5
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1370-increasing-decreasing-string.py:44:34: W292 no newline at end of file

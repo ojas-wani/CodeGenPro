@@ -1,0 +1,16 @@
+************* Module 1592-rearrange-spaces-between-words
+1592-rearrange-spaces-between-words.py:16:0: C0301: Line too long (153/100) (line-too-long)
+1592-rearrange-spaces-between-words.py:42:0: C0304: Final newline missing (missing-final-newline)
+1592-rearrange-spaces-between-words.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1592-rearrange-spaces-between-words.py:1:0: C0103: Module name "1592-rearrange-spaces-between-words" doesn't conform to snake_case naming style (invalid-name)
+1592-rearrange-spaces-between-words.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1592-rearrange-spaces-between-words.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1592-rearrange-spaces-between-words.py:2:0: C0413: Import "import re" should be placed at the top of the module (wrong-import-position)
+1592-rearrange-spaces-between-words.py:12:8: W0107: Unnecessary pass statement (unnecessary-pass)
+1592-rearrange-spaces-between-words.py:14:4: C0103: Method name "reorderSpaces" doesn't conform to snake_case naming style (invalid-name)
+1592-rearrange-spaces-between-words.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+1592-rearrange-spaces-between-words.py:2:0: W0611: Unused import re (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 2.86/10 (previous run: 0.00/10, +2.86)
+

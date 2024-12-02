@@ -1,0 +1,10 @@
+************* Module 1859-sorting-the-sentence
+1859-sorting-the-sentence.py:30:0: C0304: Final newline missing (missing-final-newline)
+1859-sorting-the-sentence.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1859-sorting-the-sentence.py:1:0: C0103: Module name "1859-sorting-the-sentence" doesn't conform to snake_case naming style (invalid-name)
+1859-sorting-the-sentence.py:9:8: W0107: Unnecessary pass statement (unnecessary-pass)
+1859-sorting-the-sentence.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 5.83/10 (previous run: 0.91/10, +4.92)
+

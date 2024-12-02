@@ -1,0 +1,6 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1137-n-th-tribonacci-number.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1137-n-th-tribonacci-number.py:2:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1137-n-th-tribonacci-number.py:12:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1137-n-th-tribonacci-number.py:26:80: E501 line too long (161 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1137-n-th-tribonacci-number.py:29:1: E305 expected 2 blank lines after class or function definition, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1137-n-th-tribonacci-number.py:31:36: W292 no newline at end of file

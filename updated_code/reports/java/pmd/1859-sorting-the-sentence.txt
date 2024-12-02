@@ -1,0 +1,11 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1859-sorting-the-sentence.java:2:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1859-sorting-the-sentence.java:8:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1859-sorting-the-sentence.java:8:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1859-sorting-the-sentence.java:11:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1859-sorting-the-sentence.java:16:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1859-sorting-the-sentence.java:16:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1859-sorting-the-sentence.java:18:	LocalVariableCouldBeFinal:	Local variable 'words' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1859-sorting-the-sentence.java:24:	ShortVariable:	Avoid variables with short names like sb
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1859-sorting-the-sentence.java:24:	LocalVariableCouldBeFinal:	Local variable 'sb' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1859-sorting-the-sentence.java:27:	LocalVariableCouldBeFinal:	Local variable 'word' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1859-sorting-the-sentence.java:28:	AppendCharacterWithChar:	Avoid appending characters as strings in StringBuffer.append.

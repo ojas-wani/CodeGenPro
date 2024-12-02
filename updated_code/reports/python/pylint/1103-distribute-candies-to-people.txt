@@ -1,0 +1,15 @@
+************* Module 1103-distribute-candies-to-people
+1103-distribute-candies-to-people.py:41:0: C0304: Final newline missing (missing-final-newline)
+1103-distribute-candies-to-people.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1103-distribute-candies-to-people.py:1:0: C0103: Module name "1103-distribute-candies-to-people" doesn't conform to snake_case naming style (invalid-name)
+1103-distribute-candies-to-people.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1103-distribute-candies-to-people.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1103-distribute-candies-to-people.py:2:0: C0413: Import "from typing import List" should be placed at the top of the module (wrong-import-position)
+1103-distribute-candies-to-people.py:16:4: C0103: Method name "distributeCandies" doesn't conform to snake_case naming style (invalid-name)
+1103-distribute-candies-to-people.py:28:11: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+1103-distribute-candies-to-people.py:33:16: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+1103-distribute-candies-to-people.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 1.76/10 (previous run: 4.12/10, -2.35)
+

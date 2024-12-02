@@ -1,0 +1,18 @@
+************* Module 1417-reformat-the-string
+1417-reformat-the-string.py:29:0: C0303: Trailing whitespace (trailing-whitespace)
+1417-reformat-the-string.py:32:0: C0303: Trailing whitespace (trailing-whitespace)
+1417-reformat-the-string.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+1417-reformat-the-string.py:38:0: C0301: Line too long (149/100) (line-too-long)
+1417-reformat-the-string.py:40:0: C0303: Trailing whitespace (trailing-whitespace)
+1417-reformat-the-string.py:45:0: C0303: Trailing whitespace (trailing-whitespace)
+1417-reformat-the-string.py:46:0: C0304: Final newline missing (missing-final-newline)
+1417-reformat-the-string.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1417-reformat-the-string.py:1:0: C0103: Module name "1417-reformat-the-string" doesn't conform to snake_case naming style (invalid-name)
+1417-reformat-the-string.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1417-reformat-the-string.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1417-reformat-the-string.py:13:23: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1417-reformat-the-string.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 1.90/10 (previous run: 7.31/10, -5.40)
+

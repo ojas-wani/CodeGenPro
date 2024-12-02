@@ -1,0 +1,1925 @@
+[
+    {
+        "file_name": "001-two-sum.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 20:\tUseConcurrentHashMap:\tIf you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "009-palindrome-number.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.io.*'\n",
+            "line 19:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'x'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "013-roman-to-integer.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "014-longest-common-prefix.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "020-valid-parentheses.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 22:\tLooseCoupling:\tAvoid using implementation types like 'Stack'; use the interface instead\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "021-merge-two-sorted-lists.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "026-remove-duplicates-from-sorted-array.txt",
+        "flake8": [
+            "line 25:1: F811 redefinition of unused 'Solution' from line 1\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "027-remove-element.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 1:\tPackageCase:\tPackage name contains upper case characters\n"
+        ],
+        "checkstyle": [
+            "line 1:9: Name 'comCODE' must match pattern '^[a-z]+(\\.[a-zA-Z_]\\w*)*$'. [PackageName]\n"
+        ]
+    },
+    {
+        "file_name": "028-find-the-index-of-the-first-occurrence-in-a-string.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "035-search-insert-position.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n",
+            "line 16:9: Each variable declaration must be in its own statement. [MultipleVariableDeclarations]\n",
+            "line 25:13: '}' at column 13 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]\n",
+            "line 29:13: '}' at column 13 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]\n"
+        ]
+    },
+    {
+        "file_name": "058-length-of-last-word.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "066-plus-one.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "067-add-binary.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line  Lexical error in file 'LLM-Improved-Code-Quality\\test_data\\temp2\\updated_code\\code\\java\\067-add-binary.java' at line 30, column 37: \"\\'\" (39), after : \"\\'\" (in lexical state DEFAULT)\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "069-sqrtx.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 1:\tPackageCase:\tPackage name contains upper case characters\n",
+            "line 21:\tUnusedAssignment:\tThe initializer for variable 'mid' is never used (overwritten on line 23)\n"
+        ],
+        "checkstyle": [
+            "line 1:9: Name 'LMImprovedCodeQuality' must match pattern '^[a-z]+(\\.[a-zA-Z_]\\w*)*$'. [PackageName]\n"
+        ]
+    },
+    {
+        "file_name": "070-climbing-stairs.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "083-remove-duplicates-from-sorted-list.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 7:\tUncommentedEmptyConstructor:\tDocument empty constructor\n",
+            "line 28:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'head'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "088-merge-sorted-array.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "094-binary-tree-inorder-traversal.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "100-same-tree.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnnecessary import from the current package 'com.code.TreeNode'\n"
+        ],
+        "checkstyle": [
+            "line 3:1: Redundant import from the same package - com.code.TreeNode. [RedundantImport]\n"
+        ]
+    },
+    {
+        "file_name": "1002-find-common-characters.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 17:\tUseConcurrentHashMap:\tIf you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1005-maximize-sum-of-array-after-k-negations.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 19:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'k'\n",
+            "line 41:\tUnusedLocalVariable:\tAvoid unused local variables such as 'sum'.\n",
+            "line 46:\tUnusedAssignment:\tThe value assigned to variable 'sum' is never used\n",
+            "line 49:\tUnusedLocalVariable:\tAvoid unused local variables such as 'sum'.\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1009-complement-of-base-10-integer.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 20:\tUnusedAssignment:\tThe value assigned to variable 'max' is never used\n",
+            "line 26:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'n'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "101-symmetric-tree.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tSimplifyBooleanReturns:\tThis if statement can be replaced by `return {condition} || {elseBranch};`\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1013-partition-array-into-three-parts-with-equal-sum.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 14:\tForLoopCanBeForeach:\tThis for loop can be replaced by a foreach loop\n",
+            "line 23:\tForLoopCanBeForeach:\tThis for loop can be replaced by a foreach loop\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1018-binary-prefix-divisible-by-5.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1021-remove-outermost-parentheses.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1022-sum-of-root-to-leaf-binary-numbers.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 10:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'sum'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1025-divisor-game.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 9:\tPackageCase:\tPackage name contains upper case characters\n",
+            "line 11:\tUnnecessaryImport:\tUnused import 'java.util.Scanner'\n",
+            "line 19:\tConfusingTernary:\tAvoid if (x != y) ..; else ..;\n",
+            "line 19:\tSimplifyBooleanReturns:\tThis if statement can be replaced by `return !{condition};`\n"
+        ],
+        "checkstyle": [
+            "line 9:9: Name 'divisorGame' must match pattern '^[a-z]+(\\.[a-zA-Z_]\\w*)*$'. [PackageName]\n",
+            "line 11:8: Unused import - java.util.Scanner. [UnusedImports]\n",
+            "line 19:9: Conditional logic can be removed. [SimplifyBooleanReturn]\n"
+        ]
+    },
+    {
+        "file_name": "1030-matrix-cells-in-distance-order.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1037-valid-boomerang.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 31:\tSimplifyBooleanReturns:\tThis if statement can be replaced by `return !{condition};`\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "104-maximum-depth-of-binary-tree.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 4:\tUnnecessaryImport:\tUnused import 'javafx.util.Pair'\n",
+            "line 13:\tUnnecessaryConstructor:\tAvoid unnecessary constructors - the compiler will generate these for you\n",
+            "line 13:\tUncommentedEmptyConstructor:\tDocument empty constructor\n"
+        ],
+        "checkstyle": [
+            "line 4:8: Unused import - javafx.util.Pair. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1046-last-stone-weight.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 18:\tLooseCoupling:\tAvoid using implementation types like 'PriorityQueue'; use the interface instead\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1047-remove-all-adjacent-duplicates-in-string.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1051-height-checker.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 1:\tPackageCase:\tPackage name contains upper case characters\n"
+        ],
+        "checkstyle": [
+            "line 1:9: Name 'comSolution' must match pattern '^[a-z]+(\\.[a-zA-Z_]\\w*)*$'. [PackageName]\n"
+        ]
+    },
+    {
+        "file_name": "1071-greatest-common-divisor-of-strings.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1078-occurrences-after-bigram.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "108-convert-sorted-array-to-binary-search-tree.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1089-duplicate-zeros.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 4:\tUnnecessaryImport:\tUnused import 'java.util.ArrayList'\n",
+            "line 5:\tUnnecessaryImport:\tUnused import 'java.util.List'\n"
+        ],
+        "checkstyle": [
+            "line 4:8: Unused import - java.util.ArrayList. [UnusedImports]\n",
+            "line 5:8: Unused import - java.util.List. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "110-balanced-binary-tree.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.concurrent.TimeoutException'\n",
+            "line 12:\tUncommentedEmptyConstructor:\tDocument empty constructor\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1103-distribute-candies-to-people.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 19:\tUnusedLocalVariable:\tAvoid unused local variables such as 'given'.\n",
+            "line 27:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'candies'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1108-defanging-an-ip-address.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 21:\tCloseResource:\tEnsure that resources like this Scanner object are closed after use\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "111-minimum-depth-of-binary-tree.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 9:\tUncommentedEmptyConstructor:\tDocument empty constructor\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1114-print-in-order.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "112-path-sum.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnnecessary import from the current package 'solution.TreeNode'\n",
+            "line 22:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'targetSum'\n",
+            "line 29:\tCollapsibleIfStatements:\tThis if statement could be combined with its parent\n",
+            "line 34:\tCollapsibleIfStatements:\tThis if statement could be combined with its parent\n"
+        ],
+        "checkstyle": [
+            "line 3:1: Redundant import from the same package - solution.TreeNode. [RedundantImport]\n"
+        ]
+    },
+    {
+        "file_name": "1122-relative-sort-array.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 6:\tUseConcurrentHashMap:\tIf you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1128-number-of-equivalent-domino-pairs.txt",
+        "flake8": [
+            "line 31:4: E999 IndentationError: expected an indented block\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 12:\tUseConcurrentHashMap:\tIf you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1137-n-th-tribonacci-number.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1154-day-of-the-year.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1160-find-words-that-can-be-formed-by-characters.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 9:\tAvoidThrowingNullPointerException:\tAvoid throwing null pointer exceptions.\n",
+            "line 13:\tUseConcurrentHashMap:\tIf you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation\n",
+            "line 21:\tUseConcurrentHashMap:\tIf you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1175-prime-arrangements.txt",
+        "flake8": [
+            "line 18:9: E306 expected 1 blank line before a nested definition, found 0\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.HashMap'\n",
+            "line 4:\tUnnecessaryImport:\tUnused import 'java.util.Map'\n",
+            "line 10:\tLinguisticNaming:\tLinguistics Antipattern - The variable 'isPrime' indicates linguistically it is a boolean, but it is 'boolean[]'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.HashMap. [UnusedImports]\n",
+            "line 4:8: Unused import - java.util.Map. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "118-pascals-triangle.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 10:\tUnnecessaryConstructor:\tAvoid unnecessary constructors - the compiler will generate these for you\n",
+            "line 10:\tUncommentedEmptyConstructor:\tDocument empty constructor\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1184-distance-between-bus-stops.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1185-day-of-the-week.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1189-maximum-number-of-balloons.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n",
+            "line 18:\tUseLocaleWithCaseConversions:\tWhen doing a String.toLowerCase()/toUpperCase() call, use a Locale\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "119-pascals-triangle-ii.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1200-minimum-absolute-difference.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 5:\tUseUtilityClass:\tThis utility class has a non-private constructor\n"
+        ],
+        "checkstyle": [
+            "line 5:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]\n"
+        ]
+    },
+    {
+        "file_name": "1207-unique-number-of-occurrences.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 21:\tLooseCoupling:\tAvoid using implementation types like 'HashMap'; use the interface instead\n",
+            "line 35:\tCompareObjectsWithEquals:\tUse equals() to compare object references.\n",
+            "line 35:\tCompareObjectsWithEquals:\tUse equals() to compare object references.\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "121-best-time-to-buy-and-sell-stock.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1217-minimum-cost-to-move-chips-to-the-same-position.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1221-split-a-string-in-balanced-strings.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 38:\tCloseResource:\tEnsure that resources like this Scanner object are closed after use\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1232-check-if-it-is-a-straight-line.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "125-valid-palindrome.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1252-cells-with-odd-values-in-a-matrix.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 4:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n",
+            "line 36:\tUnusedLocalVariable:\tAvoid unused local variables such as 'matrix'.\n"
+        ],
+        "checkstyle": [
+            "line 4:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1260-shift-2d-grid.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 19:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'k'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1266-minimum-time-visiting-all-points.txt",
+        "flake8": [
+            "line 1:1: F401 'math' imported but unused\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1275-find-winner-on-a-tic-tac-toe-game.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 1:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n",
+            "line 48:\tSimplifyBooleanReturns:\tThis if statement can be replaced by `return {condition};`\n",
+            "line 58:\tLiteralsFirstInComparisons:\tPosition literals first in String comparisons\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1281-subtract-the-product-and-sum-of-digits-of-an-integer.txt",
+        "flake8": [
+            "line 22:1: E999 SyntaxError: invalid syntax\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 17:\tCloseResource:\tEnsure that resources like this Scanner object are closed after use\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1287-element-appearing-more-than-25-in-sorted-array.txt",
+        "flake8": [
+            "line 1:11: E999 SyntaxError: invalid syntax\n"
+        ],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1290-convert-binary-number-in-a-linked-list-to-integer.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1295-find-numbers-with-even-number-of-digits.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1299-replace-elements-with-greatest-element-on-right-side.txt",
+        "flake8": [
+            "line 31:13: F841 local variable 'temp' is assigned to but never used\n"
+        ],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1304-find-n-unique-integers-sum-up-to-zero.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1309-decrypt-string-from-alphabet-to-integer-mapping.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.ArrayList'\n",
+            "line 4:\tUnnecessaryImport:\tUnused import 'java.util.List'\n",
+            "line 14:\tLiteralsFirstInComparisons:\tPosition literals first in String comparisons\n",
+            "line 17:\tLiteralsFirstInComparisons:\tPosition literals first in String comparisons\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.ArrayList. [UnusedImports]\n",
+            "line 4:8: Unused import - java.util.List. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1313-decompress-run-length-encoded-list.txt",
+        "flake8": [
+            "line 23:43: E999 SyntaxError: invalid syntax\n"
+        ],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1317-convert-integer-to-the-sum-of-two-no-zero-integers.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1323-maximum-69-number.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 9:\tPackageCase:\tPackage name contains upper case characters\n",
+            "line 11:\tUnnecessaryImport:\tUnused import 'java.util.Scanner'\n"
+        ],
+        "checkstyle": [
+            "line 9:9: Name 'WhateverpackageNameYouWant' must match pattern '^[a-z]+(\\.[a-zA-Z_]\\w*)*$'. [PackageName]\n",
+            "line 11:8: Unused import - java.util.Scanner. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1331-rank-transform-of-an-array.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 1:\tPackageCase:\tPackage name contains upper case characters\n",
+            "line 10:\tUseConcurrentHashMap:\tIf you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1332-remove-palindromic-subsequences.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 27:\tCloseResource:\tEnsure that resources like this Scanner object are closed after use\n"
+        ],
+        "checkstyle": [
+            "line 12:9: Each variable declaration must be in its own statement. [MultipleVariableDeclarations]\n"
+        ]
+    },
+    {
+        "file_name": "1337-the-k-weakest-rows-in-a-matrix.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1342-number-of-steps-to-reduce-a-number-to-zero.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 15:\tUnusedLocalVariable:\tAvoid unused local variables such as 'originalNum'.\n",
+            "line 18:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'num'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1346-check-if-n-and-its-double-exist.txt",
+        "flake8": [
+            "line 1:5: E999 SyntaxError: invalid syntax\n"
+        ],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1351-count-negative-numbers-in-a-sorted-matrix.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 4:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 4:8: Unused import - java.util.Arrays. [UnusedImports]\n",
+            "line 26:9: Each variable declaration must be in its own statement. [MultipleVariableDeclarations]\n"
+        ]
+    },
+    {
+        "file_name": "1356-sort-integers-by-the-number-of-1-bits.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 19:\tConfusingTernary:\tAvoid if (x != y) ..; else ..;\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "136-single-number.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1360-number-of-days-between-two-dates.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1365-how-many-numbers-are-smaller-than-the-current-number.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 12:\tUseConcurrentHashMap:\tIf you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1370-increasing-decreasing-string.txt",
+        "flake8": [
+            "line 43:5: F811 redefinition of unused 'sort_string' from line 5\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 2:\tUnnecessaryImport:\tUnused import 'java.lang.System'\n"
+        ],
+        "checkstyle": [
+            "line 2:1: Redundant import from the java.lang package - java.lang.System. [RedundantImport]\n",
+            "line 2:8: Unused import - java.lang.System. [UnusedImports]\n",
+            "line 13:9: Each variable declaration must be in its own statement. [MultipleVariableDeclarations]\n"
+        ]
+    },
+    {
+        "file_name": "1374-generate-a-string-with-characters-that-have-odd-counts.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 12:\tUnnecessaryImport:\tUnused import 'java.time.Duration'\n",
+            "line 13:\tUnnecessaryImport:\tUnused import 'java.time.Instant'\n"
+        ],
+        "checkstyle": [
+            "line 12:8: Unused import - java.time.Duration. [UnusedImports]\n",
+            "line 13:8: Unused import - java.time.Instant. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1380-lucky-numbers-in-a-matrix.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1385-find-the-distance-value-between-two-arrays.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1389-create-target-array-in-the-given-order.txt",
+        "flake8": [
+            "line 19:80: E999 SyntaxError: invalid syntax\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1394-find-lucky-integer-in-an-array.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1399-count-largest-group.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 8:\tPackageCase:\tPackage name contains upper case characters\n"
+        ],
+        "checkstyle": [
+            "line 8:9: Name 'Programming' must match pattern '^[a-z]+(\\.[a-zA-Z_]\\w*)*$'. [PackageName]\n"
+        ]
+    },
+    {
+        "file_name": "1403-minimum-subsequence-in-non-increasing-order.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": [
+            "line 11:9: Each variable declaration must be in its own statement. [MultipleVariableDeclarations]\n",
+            "line 12:57: ';' is followed by whitespace. [EmptyForIteratorPad]\n"
+        ]
+    },
+    {
+        "file_name": "1408-string-matching-in-an-array.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "141-linked-list-cycle.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1413-minimum-value-to-get-positive-step-by-step-sum.txt",
+        "flake8": [
+            "line 26:1: E999 SyntaxError: illegal target for annotation\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 19:\tUnusedLocalVariable:\tAvoid unused local variables such as 'tempNum'.\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1417-reformat-the-string.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1422-maximum-score-after-splitting-a-string.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 17:\tUnusedLocalVariable:\tAvoid unused local variables such as 'ones'.\n",
+            "line 20:\tUnusedLocalVariable:\tAvoid unused local variables such as 'rightZeros'.\n",
+            "line 23:\tUnusedLocalVariable:\tAvoid unused local variables such as 'rightOnesCount'.\n",
+            "line 26:\tUnusedLocalVariable:\tAvoid unused local variables such as 'onesCount'.\n",
+            "line 26:\tUnusedLocalVariable:\tAvoid unused local variables such as 'zerosCount'.\n"
+        ],
+        "checkstyle": [
+            "line 17:9: Each variable declaration must be in its own statement. [MultipleVariableDeclarations]\n",
+            "line 20:9: Each variable declaration must be in its own statement. [MultipleVariableDeclarations]\n",
+            "line 26:9: Each variable declaration must be in its own statement. [MultipleVariableDeclarations]\n"
+        ]
+    },
+    {
+        "file_name": "1431-kids-with-the-greatest-number-of-candies.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1436-destination-city.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1437-check-if-all-1s-are-at-least-length-k-places-away.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "144-binary-tree-preorder-traversal.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 37:\tLooseCoupling:\tAvoid using implementation types like 'Stack'; use the interface instead\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1446-consecutive-characters.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 7:\tUnnecessaryImport:\tUnused import 'java.util.*'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "145-binary-tree-postorder-traversal.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 10:\tUseDiamondOperator:\tExplicit type arguments can be replaced by a diamond: `new ArrayList<>()`\n",
+            "line 13:\tLooseCoupling:\tAvoid using implementation types like 'Stack'; use the interface instead\n",
+            "line 13:\tUseDiamondOperator:\tExplicit type arguments can be replaced by a diamond: `new Stack<>()`\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1450-number-of-students-doing-homework-at-a-given-time.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n",
+            "line 21:\tUselessParentheses:\tUseless parentheses.\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.txt",
+        "flake8": [
+            "line 32:9: F841 local variable 'search_word_len' is assigned to but never used\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 16:\tLinguisticNaming:\tLinguistics Antipattern - The method 'isPrefixOfWord' indicates linguistically it returns a boolean, but it returns 'int'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1460-make-two-arrays-equal-by-reversing-subarrays.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1464-maximum-product-of-two-elements-in-an-array.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1470-shuffle-the-array.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1475-final-prices-with-a-special-discount-in-a-shop.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 7:\tUnusedAssignment:\tThe initializer for variable 'res' is never used (overwritten on line 8)\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1480-running-sum-of-1d-array.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1486-xor-operation-in-an-array.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 8:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 8:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1491-average-salary-excluding-the-minimum-and-maximum-salary.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1496-path-crossing.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 9:\tLooseCoupling:\tAvoid using implementation types like 'HashSet'; use the interface instead\n",
+            "line 12:\tSwitchStmtsShouldHaveDefault:\tSwitch statements or expressions should be exhaustive, add a default case (or missing enum branches)\n"
+        ],
+        "checkstyle": [
+            "line 8:9: Each variable declaration must be in its own statement. [MultipleVariableDeclarations]\n",
+            "line 12:13: switch without \"default\" clause. [MissingSwitchDefault]\n"
+        ]
+    },
+    {
+        "file_name": "1502-can-make-arithmetic-progression-from-sequence.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 5:\tPackageCase:\tPackage name contains upper case characters\n"
+        ],
+        "checkstyle": [
+            "line 5:9: Name 'LLMImprovedCodeQuality' must match pattern '^[a-z]+(\\.[a-zA-Z_]\\w*)*$'. [PackageName]\n"
+        ]
+    },
+    {
+        "file_name": "1507-reformat-date.txt",
+        "flake8": [
+            "line 1:5: E999 SyntaxError: invalid syntax\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1512-number-of-good-pairs.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 18:\tForLoopCanBeForeach:\tThis for loop can be replaced by a foreach loop\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1518-water-bottles.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 1:\tPackageCase:\tPackage name contains upper case characters\n"
+        ],
+        "checkstyle": [
+            "line 1:9: Name 'LLMImprovedCodeQuality' must match pattern '^[a-z]+(\\.[a-zA-Z_]\\w*)*$'. [PackageName]\n"
+        ]
+    },
+    {
+        "file_name": "1523-count-odd-numbers-in-an-interval-range.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 1:\tUnnecessaryImport:\tUnused import 'java.util.*'\n",
+            "line 18:\tUnnecessaryLocalBeforeReturn:\tConsider simply returning the value vs storing it in local variable 'oddCount'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1528-shuffle-string.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1534-count-good-triplets.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1539-kth-missing-positive-number.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n",
+            "line 15:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'k'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1544-make-the-string-great.txt",
+        "flake8": [
+            "line 2:1: F401 'string' imported but unused\n"
+        ],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1550-three-consecutive-odds.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1556-thousand-separator.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 14:\tPrematureDeclaration:\tDeclaration of 'THOUSAND_SEPARATOR' can be moved closer to its usages\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1560-most-visited-sector-in-a-circular-track.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1566-detect-pattern-of-length-m-repeated-k-or-more-times.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1572-matrix-diagonal-sum.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 4:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 4:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1576-replace-all-s-to-avoid-consecutive-repeating-characters.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1582-special-positions-in-a-binary-matrix.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1588-sum-of-all-odd-length-subarrays.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1592-rearrange-spaces-between-words.txt",
+        "flake8": [
+            "line 2:1: F401 're' imported but unused\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.regex.Pattern'\n",
+            "line 4:\tUnnecessaryImport:\tUnused import 'java.util.regex.Matcher'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.regex.Pattern. [UnusedImports]\n",
+            "line 4:8: Unused import - java.util.regex.Matcher. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1598-crawler-log-folder.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 8:\tLooseCoupling:\tAvoid using implementation types like 'Stack'; use the interface instead\n",
+            "line 11:\tConfusingTernary:\tAvoid if (x != y) ..; else ..;\n",
+            "line 11:\tLiteralsFirstInComparisons:\tPosition literals first in String comparisons\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "160-intersection-of-two-linked-lists.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1603-design-parking-system.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1608-special-array-with-x-elements-greater-than-or-equal-x.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 19:\tCollapsibleIfStatements:\tThis if statement could be combined with its parent\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1614-maximum-nesting-depth-of-the-parentheses.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 13:\tLooseCoupling:\tAvoid using implementation types like 'Stack'; use the interface instead\n",
+            "line 25:\tCollapsibleIfStatements:\tThis if statement could be combined with its parent\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1619-mean-of-array-after-removing-some-elements.txt",
+        "flake8": [
+            "line 12:5: F401 'math' imported but unused\n"
+        ],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1624-largest-substring-between-two-equal-characters.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 1:\tPackageCase:\tPackage name contains upper case characters\n",
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.HashMap'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.HashMap. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1629-slowest-key.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1636-sort-array-by-increasing-frequency.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 5:\tPackageCase:\tPackage name contains upper case characters\n",
+            "line 12:\tReturnEmptyCollectionRatherThanNull:\tReturn an empty collection rather than null.\n",
+            "line 21:\tUseConcurrentHashMap:\tIf you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation\n"
+        ],
+        "checkstyle": [
+            "line 5:9: Name 'JavaAssignments' must match pattern '^[a-z]+(\\.[a-zA-Z_]\\w*)*$'. [PackageName]\n"
+        ]
+    },
+    {
+        "file_name": "1640-check-array-formation-through-concatenation.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 7:\tUnusedLocalVariable:\tAvoid unused local variables such as 'used'.\n"
+        ],
+        "checkstyle": [
+            "line 10:45: ';' is followed by whitespace. [EmptyForIteratorPad]\n"
+        ]
+    },
+    {
+        "file_name": "1646-get-maximum-in-generated-array.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 20:\tAvoidArrayLoops:\tArrays.copyOf or System.arraycopy are more efficient\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1652-defuse-the-bomb.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 14:\tUnusedAssignment:\tThe initializer for variable 'sum' is never used (overwritten on line 17)\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1656-design-an-ordered-stream.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1662-check-if-two-string-arrays-are-equivalent.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1668-maximum-repeating-substring.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1672-richest-customer-wealth.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1678-goal-parser-interpretation.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.utilStringBuilder'\n",
+            "line 17:\tLiteralsFirstInComparisons:\tPosition literals first in String comparisons\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "168-excel-sheet-column-title.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 5:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'columnNumber'\n",
+            "line 13:\tUseUtilityClass:\tThis utility class has a non-private constructor\n"
+        ],
+        "checkstyle": [
+            "line 13:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]\n"
+        ]
+    },
+    {
+        "file_name": "1684-count-the-number-of-consistent-strings.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 1:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n",
+            "line 17:\tUnnecessaryCast:\tUnnecessary cast (int)\n",
+            "line 28:\tUnnecessaryCast:\tUnnecessary cast (int)\n"
+        ],
+        "checkstyle": [
+            "line 1:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1688-count-of-matches-in-tournament.txt",
+        "flake8": [
+            "line 3:1: F401 'unittest' imported but unused\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 36:\tCloseResource:\tEnsure that resources like this Scanner object are closed after use\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "169-majority-element.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 5:\tLooseCoupling:\tAvoid using implementation types like 'HashMap'; use the interface instead\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1694-reformat-phone-number.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 15:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'number'\n",
+            "line 22:\tUseCollectionIsEmpty:\tSubstitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()\n",
+            "line 26:\tAvoidThrowingRawExceptionTypes:\tAvoid throwing raw exception types.\n",
+            "line 31:\tAvoidThrowingRawExceptionTypes:\tAvoid throwing raw exception types.\n",
+            "line 41:\tAppendCharacterWithChar:\tAvoid appending characters as strings in StringBuffer.append.\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1700-number-of-students-unable-to-eat-lunch.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 1:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 1:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1704-determine-if-string-halves-are-alike.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n",
+            "line 48:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'c'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "171-excel-sheet-column-number.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 22:\tUnusedLocalVariable:\tAvoid unused local variables such as 'temp'.\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1710-maximum-units-on-a-truck.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 26:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'truckSize'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1716-calculate-money-in-leetcode-bank.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1720-decode-xored-array.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1725-number-of-rectangles-that-can-form-the-largest-square.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1732-find-the-highest-altitude.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1736-latest-time-by-replacing-hidden-digits.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1742-maximum-number-of-balls-in-a-box.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 12:\tUseConcurrentHashMap:\tIf you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1748-sum-of-unique-elements.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1752-check-if-array-is-sorted-and-rotated.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 17:\tSimplifyBooleanReturns:\tThis if statement can be replaced by `return {condition};`\n"
+        ],
+        "checkstyle": [
+            "line 1:9: Name 'problem1752' must match pattern '^[a-z]+(\\.[a-zA-Z_]\\w*)*$'. [PackageName]\n",
+            "line 17:17: Conditional logic can be removed. [SimplifyBooleanReturn]\n"
+        ]
+    },
+    {
+        "file_name": "1758-minimum-changes-to-make-alternating-binary-string.txt",
+        "flake8": [
+            "line 39:5: F811 redefinition of unused 'min_operations' from line 27\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 1:\tPackageCase:\tPackage name contains upper case characters\n"
+        ],
+        "checkstyle": [
+            "line 1:9: Name 'llmImprovedCodeQuality' must match pattern '^[a-z]+(\\.[a-zA-Z_]\\w*)*$'. [PackageName]\n"
+        ]
+    },
+    {
+        "file_name": "1763-longest-nice-substring.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 21:\tUnnecessaryCast:\tUnnecessary cast (int)\n",
+            "line 23:\tAssignmentInOperand:\tAvoid assignments in operands\n",
+            "line 28:\tConfusingTernary:\tAvoid if (x != y) ..; else ..;\n"
+        ],
+        "checkstyle": [
+            "line 17:9: Each variable declaration must be in its own statement. [MultipleVariableDeclarations]\n",
+            "line 23:34: Inner assignments should be avoided. [InnerAssignment]\n"
+        ]
+    },
+    {
+        "file_name": "1768-merge-strings-alternately.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.time.LocalDate'\n",
+            "line 4:\tUnnecessaryImport:\tUnused import 'java.time.format.DateTimeFormatter'\n",
+            "line 19:\tConsecutiveAppendsShouldReuse:\tStringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.\n",
+            "line 22:\tConsecutiveAppendsShouldReuse:\tStringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.time.LocalDate. [UnusedImports]\n",
+            "line 4:8: Unused import - java.time.format.DateTimeFormatter. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1773-count-items-matching-a-rule.txt",
+        "flake8": [
+            "line 24:5: E999 SyntaxError: invalid syntax\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 9:\tLiteralsFirstInComparisons:\tPosition literals first in String comparisons\n",
+            "line 11:\tLiteralsFirstInComparisons:\tPosition literals first in String comparisons\n",
+            "line 13:\tLiteralsFirstInComparisons:\tPosition literals first in String comparisons\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1784-check-if-binary-string-has-at-most-one-segment-of-ones.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1790-check-if-one-string-swap-can-make-strings-equal.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 19:\tPrematureDeclaration:\tDeclaration of 'diff2' can be moved closer to its usages\n"
+        ],
+        "checkstyle": [
+            "line 19:9: Each variable declaration must be in its own statement. [MultipleVariableDeclarations]\n"
+        ]
+    },
+    {
+        "file_name": "1791-find-center-of-star-graph.txt",
+        "flake8": [
+            "line 27:9: F841 local variable 'n' is assigned to but never used\n"
+        ],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1796-second-largest-digit-in-a-string.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 1:\tPackageCase:\tPackage name contains upper case characters\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1800-maximum-ascending-subarray-sum.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.ArrayList'\n",
+            "line 4:\tUnnecessaryImport:\tUnused import 'java.util.List'\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.ArrayList. [UnusedImports]\n",
+            "line 4:8: Unused import - java.util.List. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1805-number-of-different-integers-in-a-string.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1812-determine-color-of-a-chessboard-square.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnnecessary import from the java.lang package 'java.lang.String'\n"
+        ],
+        "checkstyle": [
+            "line 3:1: Redundant import from the java.lang package - java.lang.String. [RedundantImport]\n",
+            "line 3:8: Unused import - java.lang.String. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1816-truncate-sentence.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n",
+            "line 18:\tAppendCharacterWithChar:\tAvoid appending characters as strings in StringBuffer.append.\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1822-sign-of-the-product-of-an-array.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1827-minimum-operations-to-make-the-array-increasing.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1832-check-if-the-sentence-is-pangram.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 4:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": [
+            "line 4:8: Unused import - java.util.Arrays. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1837-sum-of-digits-in-base-k.txt",
+        "flake8": [
+            "line 1:13: E999 SyntaxError: invalid syntax\n"
+        ],
+        "pylint": [],
+        "pmd": [
+            "line 1:\tPackageCase:\tPackage name contains upper case characters\n",
+            "line 19:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'n'\n",
+            "line 28:\tCloseResource:\tEnsure that resources like this Scanner object are closed after use\n"
+        ],
+        "checkstyle": [
+            "line 1:9: Name 'llmImprovedCodeQuality.testData.temp2.code.java' must match pattern '^[a-z]+(\\.[a-zA-Z_]\\w*)*$'. [PackageName]\n"
+        ]
+    },
+    {
+        "file_name": "1844-replace-all-digits-with-characters.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 18:\tConfusingTernary:\tAvoid if (x != y) ..; else ..;\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1848-minimum-distance-to-the-target-element.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1854-maximum-population-year.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.Arrays'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1859-sorting-the-sentence.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 28:\tAppendCharacterWithChar:\tAvoid appending characters as strings in StringBuffer.append.\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1863-sum-of-all-subset-xor-totals.txt",
+        "flake8": [
+            "line 20:9: E306 expected 1 blank line before a nested definition, found 0\n"
+        ],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1869-longer-contiguous-segments-of-ones-than-zeros.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1876-substrings-of-size-three-with-distinct-characters.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1880-check-if-word-equals-summation-of-two-words.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 3:\tUnnecessaryImport:\tUnused import 'java.util.regex.Pattern'\n",
+            "line 19:\tUselessParentheses:\tUseless parentheses.\n"
+        ],
+        "checkstyle": [
+            "line 3:8: Unused import - java.util.regex.Pattern. [UnusedImports]\n"
+        ]
+    },
+    {
+        "file_name": "1886-determine-whether-matrix-can-be-obtained-by-rotation.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 20:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'mat'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1893-check-if-all-the-integers-in-a-range-are-covered.txt",
+        "flake8": [
+            "line 1:5: E999 SyntaxError: invalid syntax\n"
+        ],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1897-redistribute-characters-to-make-all-strings-equal.txt",
+        "flake8": [
+            "line 31:1: F811 redefinition of unused 'Solution' from line 2\n"
+        ],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "190-reverse-bits.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 12:\tAvoidReassigningParameters:\tAvoid reassigning parameters such as 'n'\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1903-largest-odd-number-in-string.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    },
+    {
+        "file_name": "1909-remove-one-element-to-make-the-array-strictly-increasing.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [
+            "line 13:\tAvoidDeeplyNestedIfStmts:\tDeeply nested if..then statements are hard to read\n",
+            "line 13:\tCollapsibleIfStatements:\tThis if statement could be combined with its parent\n"
+        ],
+        "checkstyle": []
+    },
+    {
+        "file_name": "191-number-of-1-bits.txt",
+        "flake8": [],
+        "pylint": [],
+        "pmd": [],
+        "checkstyle": []
+    }
+]

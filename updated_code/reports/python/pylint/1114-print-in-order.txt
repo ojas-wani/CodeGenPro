@@ -1,0 +1,15 @@
+************* Module 1114-print-in-order
+1114-print-in-order.py:32:0: C0304: Final newline missing (missing-final-newline)
+1114-print-in-order.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1114-print-in-order.py:1:0: C0103: Module name "1114-print-in-order" doesn't conform to snake_case naming style (invalid-name)
+1114-print-in-order.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1114-print-in-order.py:10:4: C0116: Missing function or method docstring (missing-function-docstring)
+1114-print-in-order.py:10:20: C0103: Argument name "printFirst" doesn't conform to snake_case naming style (invalid-name)
+1114-print-in-order.py:17:4: C0116: Missing function or method docstring (missing-function-docstring)
+1114-print-in-order.py:17:21: C0103: Argument name "printSecond" doesn't conform to snake_case naming style (invalid-name)
+1114-print-in-order.py:26:4: C0116: Missing function or method docstring (missing-function-docstring)
+1114-print-in-order.py:26:20: C0103: Argument name "printThird" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 5.22/10, +1.21)
+

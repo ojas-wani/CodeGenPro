@@ -1,0 +1,28 @@
+************* Module 1221-split-a-string-in-balanced-strings
+1221-split-a-string-in-balanced-strings.py:4:0: C0301: Line too long (119/100) (line-too-long)
+1221-split-a-string-in-balanced-strings.py:6:0: C0303: Trailing whitespace (trailing-whitespace)
+1221-split-a-string-in-balanced-strings.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+1221-split-a-string-in-balanced-strings.py:13:0: C0303: Trailing whitespace (trailing-whitespace)
+1221-split-a-string-in-balanced-strings.py:16:0: C0301: Line too long (151/100) (line-too-long)
+1221-split-a-string-in-balanced-strings.py:24:0: C0303: Trailing whitespace (trailing-whitespace)
+1221-split-a-string-in-balanced-strings.py:49:0: C0304: Final newline missing (missing-final-newline)
+1221-split-a-string-in-balanced-strings.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1221-split-a-string-in-balanced-strings.py:1:0: C0103: Module name "1221-split-a-string-in-balanced-strings" doesn't conform to snake_case naming style (invalid-name)
+1221-split-a-string-in-balanced-strings.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1221-split-a-string-in-balanced-strings.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1221-split-a-string-in-balanced-strings.py:2:0: C0103: Class name "balanced_string_splitter" doesn't conform to PascalCase naming style (invalid-name)
+1221-split-a-string-in-balanced-strings.py:12:8: W0107: Unnecessary pass statement (unnecessary-pass)
+1221-split-a-string-in-balanced-strings.py:14:36: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1221-split-a-string-in-balanced-strings.py:27:12: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+1221-split-a-string-in-balanced-strings.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+1221-split-a-string-in-balanced-strings.py:35:0: W0104: Statement seems to have no effect (pointless-statement)
+1221-split-a-string-in-balanced-strings.py:35:0: E0602: Undefined variable 'Python' (undefined-variable)
+1221-split-a-string-in-balanced-strings.py:36:0: C0413: Import "import unittest" should be placed at the top of the module (wrong-import-position)
+1221-split-a-string-in-balanced-strings.py:37:0: E0401: Unable to import 'balanced_string_splitter' (import-error)
+1221-split-a-string-in-balanced-strings.py:37:0: C0413: Import "from balanced_string_splitter import balanced_string_split" should be placed at the top of the module (wrong-import-position)
+1221-split-a-string-in-balanced-strings.py:39:0: C0115: Missing class docstring (missing-class-docstring)
+1221-split-a-string-in-balanced-strings.py:41:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 1.82/10, -1.82)
+

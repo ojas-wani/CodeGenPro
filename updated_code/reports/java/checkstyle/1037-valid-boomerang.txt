@@ -1,0 +1,13 @@
+Starting audit...
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:1: Missing package-info.java file. [JavadocPackage]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:11: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:12: Line is longer than 80 characters (found 92). [LineLength]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:15:32: Parameter points should be final. [FinalParameters]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:16:30: '3' is a magic number. [MagicNumber]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:17: Line is longer than 80 characters (found 92). [LineLength]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:21:58: '3' is a magic number. [MagicNumber]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:26: Line is longer than 80 characters (found 93). [LineLength]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:27: Line is longer than 80 characters (found 93). [LineLength]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:28: Line is longer than 80 characters (found 93). [LineLength]
+Audit done.

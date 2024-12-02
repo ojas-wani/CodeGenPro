@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1281-subtract-the-product-and-sum-of-digits-of-an-integer.java:10:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1281-subtract-the-product-and-sum-of-digits-of-an-integer.java:11:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1281-subtract-the-product-and-sum-of-digits-of-an-integer.java:11:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1281-subtract-the-product-and-sum-of-digits-of-an-integer.java:11:	MethodArgumentCouldBeFinal:	Parameter 'n' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1281-subtract-the-product-and-sum-of-digits-of-an-integer.java:14:	LocalVariableCouldBeFinal:	Local variable 'temp' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1281-subtract-the-product-and-sum-of-digits-of-an-integer.java:17:	CloseResource:	Ensure that resources like this Scanner object are closed after use
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1281-subtract-the-product-and-sum-of-digits-of-an-integer.java:17:	LocalVariableCouldBeFinal:	Local variable 'scanner' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1281-subtract-the-product-and-sum-of-digits-of-an-integer.java:20:	LocalVariableCouldBeFinal:	Local variable 'digit' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1281-subtract-the-product-and-sum-of-digits-of-an-integer.java:30:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1281-subtract-the-product-and-sum-of-digits-of-an-integer.java:31:	LocalVariableCouldBeFinal:	Local variable 'solution' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1281-subtract-the-product-and-sum-of-digits-of-an-integer.java:32:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1281-subtract-the-product-and-sum-of-digits-of-an-integer.java:33:	SystemPrintln:	Usage of System.out/err

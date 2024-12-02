@@ -1,0 +1,9 @@
+************* Module 1742-maximum-number-of-balls-in-a-box
+1742-maximum-number-of-balls-in-a-box.py:38:0: C0304: Final newline missing (missing-final-newline)
+1742-maximum-number-of-balls-in-a-box.py:1:0: C0103: Module name "1742-maximum-number-of-balls-in-a-box" doesn't conform to snake_case naming style (invalid-name)
+1742-maximum-number-of-balls-in-a-box.py:17:8: W0107: Unnecessary pass statement (unnecessary-pass)
+1742-maximum-number-of-balls-in-a-box.py:6:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 6.67/10 (previous run: 0.00/10, +6.67)
+

@@ -1,0 +1,14 @@
+************* Module 1422-maximum-score-after-splitting-a-string
+1422-maximum-score-after-splitting-a-string.py:35:0: C0304: Final newline missing (missing-final-newline)
+1422-maximum-score-after-splitting-a-string.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1422-maximum-score-after-splitting-a-string.py:1:0: C0103: Module name "1422-maximum-score-after-splitting-a-string" doesn't conform to snake_case naming style (invalid-name)
+1422-maximum-score-after-splitting-a-string.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1422-maximum-score-after-splitting-a-string.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1422-maximum-score-after-splitting-a-string.py:18:4: C0103: Method name "maxScore" doesn't conform to snake_case naming style (invalid-name)
+1422-maximum-score-after-splitting-a-string.py:18:23: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1422-maximum-score-after-splitting-a-string.py:32:8: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+1422-maximum-score-after-splitting-a-string.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

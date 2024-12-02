@@ -1,0 +1,6 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1047-remove-all-adjacent-duplicates-in-string.py:8:13: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1047-remove-all-adjacent-duplicates-in-string.py:9:80: E501 line too long (123 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1047-remove-all-adjacent-duplicates-in-string.py:9:124: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1047-remove-all-adjacent-duplicates-in-string.py:10:80: E501 line too long (114 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1047-remove-all-adjacent-duplicates-in-string.py:17:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1047-remove-all-adjacent-duplicates-in-string.py:37:30: W292 no newline at end of file

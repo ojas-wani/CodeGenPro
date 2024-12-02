@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:3:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:3:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:3:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:4:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:6:	CommentSize:	Comment is too large: Too many lines
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:13:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:15:	CognitiveComplexity:	The method 'modifyString(String)' has a cognitive complexity of 23, current threshold is 15
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:15:	CyclomaticComplexity:	The method 'modifyString(String)' has a cyclomatic complexity of 10.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:15:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:15:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:16:	LocalVariableCouldBeFinal:	Local variable 'arr' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:18:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements

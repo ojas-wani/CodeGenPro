@@ -1,0 +1,14 @@
+************* Module 1566-detect-pattern-of-length-m-repeated-k-or-more-times
+1566-detect-pattern-of-length-m-repeated-k-or-more-times.py:31:0: C0304: Final newline missing (missing-final-newline)
+1566-detect-pattern-of-length-m-repeated-k-or-more-times.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1566-detect-pattern-of-length-m-repeated-k-or-more-times.py:1:0: C0103: Module name "1566-detect-pattern-of-length-m-repeated-k-or-more-times" doesn't conform to snake_case naming style (invalid-name)
+1566-detect-pattern-of-length-m-repeated-k-or-more-times.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1566-detect-pattern-of-length-m-repeated-k-or-more-times.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1566-detect-pattern-of-length-m-repeated-k-or-more-times.py:12:42: C0103: Argument name "m" doesn't conform to snake_case naming style (invalid-name)
+1566-detect-pattern-of-length-m-repeated-k-or-more-times.py:27:31: E0602: Undefined variable '_m' (undefined-variable)
+1566-detect-pattern-of-length-m-repeated-k-or-more-times.py:27:36: E0602: Undefined variable '_m' (undefined-variable)
+1566-detect-pattern-of-length-m-repeated-k-or-more-times.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

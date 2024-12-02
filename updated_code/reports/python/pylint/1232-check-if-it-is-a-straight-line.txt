@@ -1,0 +1,26 @@
+************* Module 1232-check-if-it-is-a-straight-line
+1232-check-if-it-is-a-straight-line.py:8:0: C0301: Line too long (106/100) (line-too-long)
+1232-check-if-it-is-a-straight-line.py:18:0: C0301: Line too long (110/100) (line-too-long)
+1232-check-if-it-is-a-straight-line.py:25:0: C0303: Trailing whitespace (trailing-whitespace)
+1232-check-if-it-is-a-straight-line.py:28:0: C0303: Trailing whitespace (trailing-whitespace)
+1232-check-if-it-is-a-straight-line.py:31:0: C0303: Trailing whitespace (trailing-whitespace)
+1232-check-if-it-is-a-straight-line.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+1232-check-if-it-is-a-straight-line.py:38:0: C0303: Trailing whitespace (trailing-whitespace)
+1232-check-if-it-is-a-straight-line.py:42:0: C0304: Final newline missing (missing-final-newline)
+1232-check-if-it-is-a-straight-line.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1232-check-if-it-is-a-straight-line.py:1:0: C0103: Module name "1232-check-if-it-is-a-straight-line" doesn't conform to snake_case naming style (invalid-name)
+1232-check-if-it-is-a-straight-line.py:13:4: C0103: Method name "checkStraightLine" doesn't conform to snake_case naming style (invalid-name)
+1232-check-if-it-is-a-straight-line.py:13:32: W0621: Redefining name 'coordinates' from outer scope (line 41) (redefined-outer-name)
+1232-check-if-it-is-a-straight-line.py:26:8: C0103: Variable name "x1" doesn't conform to snake_case naming style (invalid-name)
+1232-check-if-it-is-a-straight-line.py:26:12: C0103: Variable name "y1" doesn't conform to snake_case naming style (invalid-name)
+1232-check-if-it-is-a-straight-line.py:27:8: C0103: Variable name "x2" doesn't conform to snake_case naming style (invalid-name)
+1232-check-if-it-is-a-straight-line.py:27:12: C0103: Variable name "y2" doesn't conform to snake_case naming style (invalid-name)
+1232-check-if-it-is-a-straight-line.py:32:12: C0103: Variable name "x3" doesn't conform to snake_case naming style (invalid-name)
+1232-check-if-it-is-a-straight-line.py:32:16: C0103: Variable name "y3" doesn't conform to snake_case naming style (invalid-name)
+1232-check-if-it-is-a-straight-line.py:35:12: C0103: Variable name "y2" doesn't conform to snake_case naming style (invalid-name)
+1232-check-if-it-is-a-straight-line.py:35:16: C0103: Variable name "x2" doesn't conform to snake_case naming style (invalid-name)
+1232-check-if-it-is-a-straight-line.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

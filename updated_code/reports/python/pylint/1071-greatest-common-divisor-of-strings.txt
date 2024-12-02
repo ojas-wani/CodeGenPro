@@ -1,0 +1,10 @@
+************* Module 1071-greatest-common-divisor-of-strings
+1071-greatest-common-divisor-of-strings.py:31:0: C0304: Final newline missing (missing-final-newline)
+1071-greatest-common-divisor-of-strings.py:1:0: C0103: Module name "1071-greatest-common-divisor-of-strings" doesn't conform to snake_case naming style (invalid-name)
+1071-greatest-common-divisor-of-strings.py:16:16: C0103: Argument name "a" doesn't conform to snake_case naming style (invalid-name)
+1071-greatest-common-divisor-of-strings.py:16:24: C0103: Argument name "b" doesn't conform to snake_case naming style (invalid-name)
+1071-greatest-common-divisor-of-strings.py:4:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 1.00/10, +5.43)
+

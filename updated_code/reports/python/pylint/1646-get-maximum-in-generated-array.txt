@@ -1,0 +1,11 @@
+************* Module 1646-get-maximum-in-generated-array
+1646-get-maximum-in-generated-array.py:3:0: C0301: Line too long (125/100) (line-too-long)
+1646-get-maximum-in-generated-array.py:35:0: C0304: Final newline missing (missing-final-newline)
+1646-get-maximum-in-generated-array.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1646-get-maximum-in-generated-array.py:1:0: C0103: Module name "1646-get-maximum-in-generated-array" doesn't conform to snake_case naming style (invalid-name)
+1646-get-maximum-in-generated-array.py:15:36: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+1646-get-maximum-in-generated-array.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 5.38/10 (previous run: 2.73/10, +2.66)
+

@@ -1,0 +1,23 @@
+************* Module 1385-find-the-distance-value-between-two-arrays
+1385-find-the-distance-value-between-two-arrays.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+1385-find-the-distance-value-between-two-arrays.py:32:0: C0303: Trailing whitespace (trailing-whitespace)
+1385-find-the-distance-value-between-two-arrays.py:38:0: C0301: Line too long (136/100) (line-too-long)
+1385-find-the-distance-value-between-two-arrays.py:43:0: C0303: Trailing whitespace (trailing-whitespace)
+1385-find-the-distance-value-between-two-arrays.py:50:0: C0303: Trailing whitespace (trailing-whitespace)
+1385-find-the-distance-value-between-two-arrays.py:54:0: C0304: Final newline missing (missing-final-newline)
+1385-find-the-distance-value-between-two-arrays.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1385-find-the-distance-value-between-two-arrays.py:1:0: C0103: Module name "1385-find-the-distance-value-between-two-arrays" doesn't conform to snake_case naming style (invalid-name)
+1385-find-the-distance-value-between-two-arrays.py:7:4: W0105: String statement has no effect (pointless-string-statement)
+1385-find-the-distance-value-between-two-arrays.py:18:4: C0103: Method name "findTheDistanceValue" doesn't conform to snake_case naming style (invalid-name)
+1385-find-the-distance-value-between-two-arrays.py:18:69: C0103: Argument name "d" doesn't conform to snake_case naming style (invalid-name)
+1385-find-the-distance-value-between-two-arrays.py:24:8: W0105: String statement has no effect (pointless-string-statement)
+1385-find-the-distance-value-between-two-arrays.py:28:12: W0105: String statement has no effect (pointless-string-statement)
+1385-find-the-distance-value-between-two-arrays.py:33:12: W0105: String statement has no effect (pointless-string-statement)
+1385-find-the-distance-value-between-two-arrays.py:37:16: W0105: String statement has no effect (pointless-string-statement)
+1385-find-the-distance-value-between-two-arrays.py:44:12: W0105: String statement has no effect (pointless-string-statement)
+1385-find-the-distance-value-between-two-arrays.py:51:8: W0105: String statement has no effect (pointless-string-statement)
+1385-find-the-distance-value-between-two-arrays.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 1.00/10 (previous run: 0.00/10, +1.00)
+

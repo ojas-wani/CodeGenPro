@@ -1,0 +1,19 @@
+************* Module 1790-check-if-one-string-swap-can-make-strings-equal
+1790-check-if-one-string-swap-can-make-strings-equal.py:3:0: C0301: Line too long (189/100) (line-too-long)
+1790-check-if-one-string-swap-can-make-strings-equal.py:8:0: C0301: Line too long (128/100) (line-too-long)
+1790-check-if-one-string-swap-can-make-strings-equal.py:15:0: C0301: Line too long (141/100) (line-too-long)
+1790-check-if-one-string-swap-can-make-strings-equal.py:17:0: C0303: Trailing whitespace (trailing-whitespace)
+1790-check-if-one-string-swap-can-make-strings-equal.py:34:0: C0301: Line too long (140/100) (line-too-long)
+1790-check-if-one-string-swap-can-make-strings-equal.py:38:0: C0301: Line too long (126/100) (line-too-long)
+1790-check-if-one-string-swap-can-make-strings-equal.py:48:0: C0304: Final newline missing (missing-final-newline)
+1790-check-if-one-string-swap-can-make-strings-equal.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1790-check-if-one-string-swap-can-make-strings-equal.py:1:0: C0103: Module name "1790-check-if-one-string-swap-can-make-strings-equal" doesn't conform to snake_case naming style (invalid-name)
+1790-check-if-one-string-swap-can-make-strings-equal.py:6:4: C0103: Method name "areAlmostEqual" doesn't conform to snake_case naming style (invalid-name)
+1790-check-if-one-string-swap-can-make-strings-equal.py:6:29: C0103: Argument name "a" doesn't conform to snake_case naming style (invalid-name)
+1790-check-if-one-string-swap-can-make-strings-equal.py:6:37: C0103: Argument name "b" doesn't conform to snake_case naming style (invalid-name)
+1790-check-if-one-string-swap-can-make-strings-equal.py:27:8: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+1790-check-if-one-string-swap-can-make-strings-equal.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 2.22/10 (previous run: 2.31/10, -0.09)
+

@@ -1,0 +1,2 @@
+************* Module 1128-number-of-equivalent-domino-pairs
+1128-number-of-equivalent-domino-pairs.py:31:4: E0001: Parsing failed: 'expected an indented block (<unknown>, line 31)' (syntax-error)

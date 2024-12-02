@@ -1,0 +1,13 @@
+************* Module 020-valid-parentheses
+020-valid-parentheses.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+020-valid-parentheses.py:33:0: C0303: Trailing whitespace (trailing-whitespace)
+020-valid-parentheses.py:34:0: C0304: Final newline missing (missing-final-newline)
+020-valid-parentheses.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+020-valid-parentheses.py:1:0: C0103: Module name "020-valid-parentheses" doesn't conform to snake_case naming style (invalid-name)
+020-valid-parentheses.py:9:8: W0107: Unnecessary pass statement (unnecessary-pass)
+020-valid-parentheses.py:11:23: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+020-valid-parentheses.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 4.67/10 (previous run: 4.67/10, +0.00)
+

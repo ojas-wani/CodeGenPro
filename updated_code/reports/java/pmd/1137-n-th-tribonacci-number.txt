@@ -1,0 +1,7 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1137-n-th-tribonacci-number.java:8:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1137-n-th-tribonacci-number.java:17:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1137-n-th-tribonacci-number.java:17:	MethodArgumentCouldBeFinal:	Parameter 'n' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1137-n-th-tribonacci-number.java:19:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1137-n-th-tribonacci-number.java:21:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1137-n-th-tribonacci-number.java:23:	ShortVariable:	Avoid variables with short names like dp
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1137-n-th-tribonacci-number.java:23:	LocalVariableCouldBeFinal:	Local variable 'dp' could be declared final

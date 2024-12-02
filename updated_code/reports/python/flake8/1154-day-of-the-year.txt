@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1154-day-of-the-year.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1154-day-of-the-year.py:3:80: E501 line too long (93 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1154-day-of-the-year.py:4:80: E501 line too long (250 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1154-day-of-the-year.py:7:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1154-day-of-the-year.py:9:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1154-day-of-the-year.py:11:80: E501 line too long (123 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1154-day-of-the-year.py:15:80: E501 line too long (104 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1154-day-of-the-year.py:16:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1154-day-of-the-year.py:19:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1154-day-of-the-year.py:30:56: W292 no newline at end of file

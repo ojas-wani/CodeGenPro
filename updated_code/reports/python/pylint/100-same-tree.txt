@@ -1,0 +1,13 @@
+************* Module 100-same-tree
+100-same-tree.py:41:0: C0304: Final newline missing (missing-final-newline)
+100-same-tree.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+100-same-tree.py:1:0: C0103: Module name "100-same-tree" doesn't conform to snake_case naming style (invalid-name)
+100-same-tree.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+100-same-tree.py:3:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+100-same-tree.py:24:27: C0103: Argument name "p" doesn't conform to snake_case naming style (invalid-name)
+100-same-tree.py:24:50: C0103: Argument name "q" doesn't conform to snake_case naming style (invalid-name)
+100-same-tree.py:9:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 4.67/10 (previous run: 4.67/10, +0.00)
+

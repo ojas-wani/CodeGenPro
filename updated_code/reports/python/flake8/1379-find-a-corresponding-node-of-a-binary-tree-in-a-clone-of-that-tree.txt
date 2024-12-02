@@ -1,0 +1,6 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:2:39: F821 undefined name 'TreeNode'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:2:57: F821 undefined name 'TreeNode'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:2:75: F821 undefined name 'TreeNode'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:2:80: E501 line too long (96 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:2:88: F821 undefined name 'TreeNode'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:13:45: W292 no newline at end of file

@@ -1,0 +1,13 @@
+************* Module 1317-convert-integer-to-the-sum-of-two-no-zero-integers
+1317-convert-integer-to-the-sum-of-two-no-zero-integers.py:15:0: C0304: Final newline missing (missing-final-newline)
+1317-convert-integer-to-the-sum-of-two-no-zero-integers.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1317-convert-integer-to-the-sum-of-two-no-zero-integers.py:1:0: C0103: Module name "1317-convert-integer-to-the-sum-of-two-no-zero-integers" doesn't conform to snake_case naming style (invalid-name)
+1317-convert-integer-to-the-sum-of-two-no-zero-integers.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1317-convert-integer-to-the-sum-of-two-no-zero-integers.py:4:4: C0103: Method name "getNoZeroIntegers" doesn't conform to snake_case naming style (invalid-name)
+1317-convert-integer-to-the-sum-of-two-no-zero-integers.py:4:32: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+1317-convert-integer-to-the-sum-of-two-no-zero-integers.py:4:4: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+1317-convert-integer-to-the-sum-of-two-no-zero-integers.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

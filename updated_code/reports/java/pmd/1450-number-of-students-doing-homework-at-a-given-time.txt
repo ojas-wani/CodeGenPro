@@ -1,0 +1,7 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:3:	UnnecessaryImport:	Unused import 'java.util.Arrays'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:8:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:14:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:17:	MethodArgumentCouldBeFinal:	Parameter 'startTime' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:17:	MethodArgumentCouldBeFinal:	Parameter 'endTime' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:17:	MethodArgumentCouldBeFinal:	Parameter 'queryTime' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:21:	UselessParentheses:	Useless parentheses.

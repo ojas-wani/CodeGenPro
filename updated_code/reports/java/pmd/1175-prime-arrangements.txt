@@ -1,0 +1,11 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:3:	UnnecessaryImport:	Unused import 'java.util.HashMap'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:4:	UnnecessaryImport:	Unused import 'java.util.Map'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:6:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:6:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:7:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:7:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:7:	MethodArgumentCouldBeFinal:	Parameter 'n' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:8:	LocalVariableCouldBeFinal:	Local variable 'MOD' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:8:	LocalVariableNamingConventions:	The local variable name 'MOD' doesn't match '[a-z][a-zA-Z0-9]*'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:10:	LinguisticNaming:	Linguistics Antipattern - The variable 'isPrime' indicates linguistically it is a boolean, but it is 'boolean[]'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1175-prime-arrangements.java:10:	LocalVariableCouldBeFinal:	Local variable 'isPrime' could be declared final

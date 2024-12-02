@@ -1,0 +1,18 @@
+************* Module 1710-maximum-units-on-a-truck
+1710-maximum-units-on-a-truck.py:2:0: C0301: Line too long (119/100) (line-too-long)
+1710-maximum-units-on-a-truck.py:3:0: C0301: Line too long (149/100) (line-too-long)
+1710-maximum-units-on-a-truck.py:4:0: C0301: Line too long (119/100) (line-too-long)
+1710-maximum-units-on-a-truck.py:11:0: C0301: Line too long (122/100) (line-too-long)
+1710-maximum-units-on-a-truck.py:19:0: C0301: Line too long (116/100) (line-too-long)
+1710-maximum-units-on-a-truck.py:25:0: C0303: Trailing whitespace (trailing-whitespace)
+1710-maximum-units-on-a-truck.py:28:0: C0303: Trailing whitespace (trailing-whitespace)
+1710-maximum-units-on-a-truck.py:31:0: C0301: Line too long (162/100) (line-too-long)
+1710-maximum-units-on-a-truck.py:35:0: C0301: Line too long (174/100) (line-too-long)
+1710-maximum-units-on-a-truck.py:40:0: C0303: Trailing whitespace (trailing-whitespace)
+1710-maximum-units-on-a-truck.py:41:0: C0304: Final newline missing (missing-final-newline)
+1710-maximum-units-on-a-truck.py:1:0: C0103: Module name "1710-maximum-units-on-a-truck" doesn't conform to snake_case naming style (invalid-name)
+1710-maximum-units-on-a-truck.py:9:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

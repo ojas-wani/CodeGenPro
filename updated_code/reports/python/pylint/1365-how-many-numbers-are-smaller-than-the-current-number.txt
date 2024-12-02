@@ -1,0 +1,12 @@
+************* Module 1365-how-many-numbers-are-smaller-than-the-current-number
+1365-how-many-numbers-are-smaller-than-the-current-number.py:6:0: C0301: Line too long (194/100) (line-too-long)
+1365-how-many-numbers-are-smaller-than-the-current-number.py:12:0: C0304: Final newline missing (missing-final-newline)
+1365-how-many-numbers-are-smaller-than-the-current-number.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1365-how-many-numbers-are-smaller-than-the-current-number.py:1:0: C0103: Module name "1365-how-many-numbers-are-smaller-than-the-current-number" doesn't conform to snake_case naming style (invalid-name)
+1365-how-many-numbers-are-smaller-than-the-current-number.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1365-how-many-numbers-are-smaller-than-the-current-number.py:4:4: C0103: Method name "smallerNumbersThanCurrent" doesn't conform to snake_case naming style (invalid-name)
+1365-how-many-numbers-are-smaller-than-the-current-number.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 1.25/10 (previous run: 0.00/10, +1.25)
+

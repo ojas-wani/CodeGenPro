@@ -1,0 +1,5 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1332-remove-palindromic-subsequences.py:3:80: E501 line too long (103 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1332-remove-palindromic-subsequences.py:12:80: E501 line too long (90 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1332-remove-palindromic-subsequences.py:13:80: E501 line too long (125 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1332-remove-palindromic-subsequences.py:16:1: E305 expected 2 blank lines after class or function definition, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1332-remove-palindromic-subsequences.py:18:60: W292 no newline at end of file

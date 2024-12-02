@@ -1,0 +1,11 @@
+************* Module 1005-maximize-sum-of-array-after-k-negations
+1005-maximize-sum-of-array-after-k-negations.py:28:0: C0304: Final newline missing (missing-final-newline)
+1005-maximize-sum-of-array-after-k-negations.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1005-maximize-sum-of-array-after-k-negations.py:1:0: C0103: Module name "1005-maximize-sum-of-array-after-k-negations" doesn't conform to snake_case naming style (invalid-name)
+1005-maximize-sum-of-array-after-k-negations.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1005-maximize-sum-of-array-after-k-negations.py:4:4: C0103: Method name "largestSumAfterKNegations" doesn't conform to snake_case naming style (invalid-name)
+1005-maximize-sum-of-array-after-k-negations.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 6.00/10 (previous run: 0.77/10, +5.23)
+

@@ -1,0 +1,10 @@
+Starting audit...
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1752-check-if-array-is-sorted-and-rotated.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1752-check-if-array-is-sorted-and-rotated.java:1: Missing package-info.java file. [JavadocPackage]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1752-check-if-array-is-sorted-and-rotated.java:1:9: Name 'problem1752' must match pattern '^[a-z]+(\.[a-zA-Z_]\w*)*$'. [PackageName]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1752-check-if-array-is-sorted-and-rotated.java:6:26: Parameter nums should be final. [FinalParameters]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1752-check-if-array-is-sorted-and-rotated.java:7: Line is longer than 80 characters (found 85). [LineLength]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1752-check-if-array-is-sorted-and-rotated.java:10: Line is longer than 80 characters (found 85). [LineLength]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1752-check-if-array-is-sorted-and-rotated.java:16: Line is longer than 80 characters (found 88). [LineLength]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1752-check-if-array-is-sorted-and-rotated.java:17:17: Conditional logic can be removed. [SimplifyBooleanReturn]
+Audit done.

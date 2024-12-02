@@ -1,0 +1,7 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\190-reverse-bits.java:6:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\190-reverse-bits.java:6:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\190-reverse-bits.java:8:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\190-reverse-bits.java:8:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\190-reverse-bits.java:9:	ShortVariable:	Avoid variables with short names like sb
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\190-reverse-bits.java:9:	LocalVariableCouldBeFinal:	Local variable 'sb' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\190-reverse-bits.java:12:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'n'

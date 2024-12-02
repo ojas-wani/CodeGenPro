@@ -1,0 +1,21 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:2:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:3:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:6:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:12:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:14:80: E501 line too long (101 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:18:80: E501 line too long (101 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:20:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:24:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:27:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:31:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:34:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:35:80: E501 line too long (89 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:36:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:38:80: E501 line too long (80 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:39:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:40:80: E501 line too long (91 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:42:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:44:80: E501 line too long (92 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:46:80: E501 line too long (94 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/111-minimum-depth-of-binary-tree.py:51:4: W292 no newline at end of file

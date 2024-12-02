@@ -1,0 +1,7 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1624-largest-substring-between-two-equal-characters.java:1:	PackageCase:	Package name contains upper case characters
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1624-largest-substring-between-two-equal-characters.java:3:	UnnecessaryImport:	Unused import 'java.util.HashMap'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1624-largest-substring-between-two-equal-characters.java:6:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1624-largest-substring-between-two-equal-characters.java:6:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1624-largest-substring-between-two-equal-characters.java:7:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1624-largest-substring-between-two-equal-characters.java:7:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1624-largest-substring-between-two-equal-characters.java:10:	LocalVariableCouldBeFinal:	Local variable 'map' could be declared final

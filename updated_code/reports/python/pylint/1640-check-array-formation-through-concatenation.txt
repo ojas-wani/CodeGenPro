@@ -1,0 +1,14 @@
+************* Module 1640-check-array-formation-through-concatenation
+1640-check-array-formation-through-concatenation.py:5:0: C0301: Line too long (120/100) (line-too-long)
+1640-check-array-formation-through-concatenation.py:9:0: C0301: Line too long (102/100) (line-too-long)
+1640-check-array-formation-through-concatenation.py:38:0: C0304: Final newline missing (missing-final-newline)
+1640-check-array-formation-through-concatenation.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1640-check-array-formation-through-concatenation.py:1:0: C0103: Module name "1640-check-array-formation-through-concatenation" doesn't conform to snake_case naming style (invalid-name)
+1640-check-array-formation-through-concatenation.py:7:4: C0103: Method name "canFormArray" doesn't conform to snake_case naming style (invalid-name)
+1640-check-array-formation-through-concatenation.py:7:27: W0621: Redefining name 'arr' from outer scope (line 28) (redefined-outer-name)
+1640-check-array-formation-through-concatenation.py:7:43: W0621: Redefining name 'pieces' from outer scope (line 29) (redefined-outer-name)
+1640-check-array-formation-through-concatenation.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 5.91/10 (previous run: 4.17/10, +1.74)
+

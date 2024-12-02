@@ -1,0 +1,3 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1290-convert-binary-number-in-a-linked-list-to-integer.java	-	ParseException: Parse exception in file 'LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1290-convert-binary-number-in-a-linked-list-to-integer.java' at line 7, column 17: Encountered "-".
+Was expecting:
+    ";" ...

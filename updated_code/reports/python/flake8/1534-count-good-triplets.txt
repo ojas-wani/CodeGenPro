@@ -1,0 +1,5 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1534-count-good-triplets.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1534-count-good-triplets.py:2:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1534-count-good-triplets.py:10:80: E501 line too long (82 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1534-count-good-triplets.py:17:80: E501 line too long (88 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1534-count-good-triplets.py:59:19: W292 no newline at end of file

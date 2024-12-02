@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1844-replace-all-digits-with-characters.java:4:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1844-replace-all-digits-with-characters.java:6:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1844-replace-all-digits-with-characters.java:9:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1844-replace-all-digits-with-characters.java:14:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1844-replace-all-digits-with-characters.java:14:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1844-replace-all-digits-with-characters.java:15:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1844-replace-all-digits-with-characters.java:17:	ShortVariable:	Avoid variables with short names like c
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1844-replace-all-digits-with-characters.java:17:	LocalVariableCouldBeFinal:	Local variable 'c' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1844-replace-all-digits-with-characters.java:18:	ConfusingTernary:	Avoid if (x != y) ..; else ..;
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1844-replace-all-digits-with-characters.java:20:	LocalVariableCouldBeFinal:	Local variable 'shift' could be declared final

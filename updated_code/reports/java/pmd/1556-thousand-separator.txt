@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1556-thousand-separator.java:4:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1556-thousand-separator.java:6:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1556-thousand-separator.java:13:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1556-thousand-separator.java:13:	MethodArgumentCouldBeFinal:	Parameter 'n' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1556-thousand-separator.java:14:	LongVariable:	Avoid excessively long variable names like THOUSAND_SEPARATOR
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1556-thousand-separator.java:14:	PrematureDeclaration:	Declaration of 'THOUSAND_SEPARATOR' can be moved closer to its usages
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1556-thousand-separator.java:14:	LocalVariableNamingConventions:	The final local variable name 'THOUSAND_SEPARATOR' doesn't match '[a-z][a-zA-Z0-9]*'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1556-thousand-separator.java:15:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1556-thousand-separator.java:16:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1556-thousand-separator.java:18:	LocalVariableCouldBeFinal:	Local variable 'str' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1556-thousand-separator.java:19:	ShortVariable:	Avoid variables with short names like sb
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1556-thousand-separator.java:19:	LocalVariableCouldBeFinal:	Local variable 'sb' could be declared final

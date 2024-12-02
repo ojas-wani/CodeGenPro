@@ -1,0 +1,11 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1374-generate-a-string-with-characters-that-have-odd-counts.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1374-generate-a-string-with-characters-that-have-odd-counts.py:2:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1374-generate-a-string-with-characters-that-have-odd-counts.py:4:76: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1374-generate-a-string-with-characters-that-have-odd-counts.py:5:77: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1374-generate-a-string-with-characters-that-have-odd-counts.py:8:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1374-generate-a-string-with-characters-that-have-odd-counts.py:11:76: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1374-generate-a-string-with-characters-that-have-odd-counts.py:18:75: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1374-generate-a-string-with-characters-that-have-odd-counts.py:22:80: E501 line too long (94 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1374-generate-a-string-with-characters-that-have-odd-counts.py:25:80: E501 line too long (89 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1374-generate-a-string-with-characters-that-have-odd-counts.py:29:1: E305 expected 2 blank lines after class or function definition, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1374-generate-a-string-with-characters-that-have-odd-counts.py:33:62: W292 no newline at end of file

@@ -1,0 +1,8 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/118-pascals-triangle.py:3:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/118-pascals-triangle.py:6:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/118-pascals-triangle.py:10:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/118-pascals-triangle.py:13:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/118-pascals-triangle.py:16:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/118-pascals-triangle.py:19:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/118-pascals-triangle.py:29:1: E305 expected 2 blank lines after class or function definition, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/118-pascals-triangle.py:32:18: W292 no newline at end of file

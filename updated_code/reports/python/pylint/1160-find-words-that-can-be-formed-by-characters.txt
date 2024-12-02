@@ -1,0 +1,15 @@
+************* Module 1160-find-words-that-can-be-formed-by-characters
+1160-find-words-that-can-be-formed-by-characters.py:15:0: C0303: Trailing whitespace (trailing-whitespace)
+1160-find-words-that-can-be-formed-by-characters.py:36:0: C0304: Final newline missing (missing-final-newline)
+1160-find-words-that-can-be-formed-by-characters.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1160-find-words-that-can-be-formed-by-characters.py:1:0: C0103: Module name "1160-find-words-that-can-be-formed-by-characters" doesn't conform to snake_case naming style (invalid-name)
+1160-find-words-that-can-be-formed-by-characters.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1160-find-words-that-can-be-formed-by-characters.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1160-find-words-that-can-be-formed-by-characters.py:2:0: C0413: Import "from collections import Counter" should be placed at the top of the module (wrong-import-position)
+1160-find-words-that-can-be-formed-by-characters.py:3:0: C0413: Import "from typing import List" should be placed at the top of the module (wrong-import-position)
+1160-find-words-that-can-be-formed-by-characters.py:6:0: W0105: String statement has no effect (pointless-string-statement)
+1160-find-words-that-can-be-formed-by-characters.py:11:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 3.64/10, -3.64)
+

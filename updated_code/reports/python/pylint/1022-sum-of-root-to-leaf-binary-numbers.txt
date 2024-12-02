@@ -1,0 +1,15 @@
+************* Module 1022-sum-of-root-to-leaf-binary-numbers
+1022-sum-of-root-to-leaf-binary-numbers.py:11:0: C0301: Line too long (103/100) (line-too-long)
+1022-sum-of-root-to-leaf-binary-numbers.py:13:0: C0303: Trailing whitespace (trailing-whitespace)
+1022-sum-of-root-to-leaf-binary-numbers.py:21:0: C0303: Trailing whitespace (trailing-whitespace)
+1022-sum-of-root-to-leaf-binary-numbers.py:33:0: C0304: Final newline missing (missing-final-newline)
+1022-sum-of-root-to-leaf-binary-numbers.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1022-sum-of-root-to-leaf-binary-numbers.py:1:0: C0103: Module name "1022-sum-of-root-to-leaf-binary-numbers" doesn't conform to snake_case naming style (invalid-name)
+1022-sum-of-root-to-leaf-binary-numbers.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1022-sum-of-root-to-leaf-binary-numbers.py:3:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+1022-sum-of-root-to-leaf-binary-numbers.py:14:4: C0103: Method name "sumRootToLeaf" doesn't conform to snake_case naming style (invalid-name)
+1022-sum-of-root-to-leaf-binary-numbers.py:18:8: W0201: Attribute 'total' defined outside __init__ (attribute-defined-outside-init)
+
+------------------------------------------------------------------
+Your code has been rated at 4.74/10 (previous run: 0.00/10, +4.74)
+

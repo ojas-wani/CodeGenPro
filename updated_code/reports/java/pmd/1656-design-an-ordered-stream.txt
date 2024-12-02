@@ -1,0 +1,11 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1656-design-an-ordered-stream.java:12:	ImmutableField:	Field 'map' may be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1656-design-an-ordered-stream.java:12:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1656-design-an-ordered-stream.java:13:	ImmutableField:	Field 'chunk' may be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1656-design-an-ordered-stream.java:13:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1656-design-an-ordered-stream.java:20:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1656-design-an-ordered-stream.java:20:	MethodArgumentCouldBeFinal:	Parameter 'n' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1656-design-an-ordered-stream.java:28:	CommentSize:	Comment is too large: Too many lines
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1656-design-an-ordered-stream.java:34:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1656-design-an-ordered-stream.java:37:	MethodArgumentCouldBeFinal:	Parameter 'idKey' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1656-design-an-ordered-stream.java:37:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1656-design-an-ordered-stream.java:39:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

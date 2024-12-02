@@ -1,0 +1,15 @@
+************* Module 1854-maximum-population-year
+1854-maximum-population-year.py:7:0: C0303: Trailing whitespace (trailing-whitespace)
+1854-maximum-population-year.py:13:0: C0301: Line too long (115/100) (line-too-long)
+1854-maximum-population-year.py:18:0: C0303: Trailing whitespace (trailing-whitespace)
+1854-maximum-population-year.py:21:0: C0303: Trailing whitespace (trailing-whitespace)
+1854-maximum-population-year.py:24:0: C0303: Trailing whitespace (trailing-whitespace)
+1854-maximum-population-year.py:33:0: C0303: Trailing whitespace (trailing-whitespace)
+1854-maximum-population-year.py:40:0: C0304: Final newline missing (missing-final-newline)
+1854-maximum-population-year.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1854-maximum-population-year.py:1:0: C0103: Module name "1854-maximum-population-year" doesn't conform to snake_case naming style (invalid-name)
+1854-maximum-population-year.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 5.45/10 (previous run: 0.95/10, +4.50)
+

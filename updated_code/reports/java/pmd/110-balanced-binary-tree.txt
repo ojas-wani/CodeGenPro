@@ -1,0 +1,25 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:3:	UnnecessaryImport:	Unused import 'java.util.concurrent.TimeoutException'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:9:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:9:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'val'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:10:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:10:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'left'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:11:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:11:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'right'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:12:	UncommentedEmptyConstructor:	Document empty constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:12:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'TreeNode()'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:13:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'TreeNode(int)'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:13:	MethodArgumentCouldBeFinal:	Parameter 'val' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:14:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'TreeNode(int, TreeNode, TreeNode)'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:14:	MethodArgumentCouldBeFinal:	Parameter 'val' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:14:	MethodArgumentCouldBeFinal:	Parameter 'left' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:14:	MethodArgumentCouldBeFinal:	Parameter 'right' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:21:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:21:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:28:	MethodArgumentCouldBeFinal:	Parameter 'root' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:30:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:32:	LocalVariableCouldBeFinal:	Local variable 'leftDepth' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:33:	LocalVariableCouldBeFinal:	Local variable 'rightDepth' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:34:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:35:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:40:	MethodArgumentCouldBeFinal:	Parameter 'node' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\110-balanced-binary-tree.java:42:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

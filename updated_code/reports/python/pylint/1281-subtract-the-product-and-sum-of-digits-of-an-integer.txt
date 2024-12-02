@@ -1,0 +1,2 @@
+************* Module 1281-subtract-the-product-and-sum-of-digits-of-an-integer
+1281-subtract-the-product-and-sum-of-digits-of-an-integer.py:22:1: E0001: Parsing failed: 'invalid syntax (<unknown>, line 22)' (syntax-error)

@@ -1,0 +1,10 @@
+************* Module 1518-water-bottles
+1518-water-bottles.py:3:0: C0301: Line too long (112/100) (line-too-long)
+1518-water-bottles.py:36:0: C0304: Final newline missing (missing-final-newline)
+1518-water-bottles.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1518-water-bottles.py:1:0: C0103: Module name "1518-water-bottles" doesn't conform to snake_case naming style (invalid-name)
+1518-water-bottles.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 6.88/10 (previous run: 0.00/10, +6.88)
+

@@ -1,0 +1,20 @@
+************* Module 1037-valid-boomerang
+1037-valid-boomerang.py:10:0: C0301: Line too long (134/100) (line-too-long)
+1037-valid-boomerang.py:21:0: C0301: Line too long (138/100) (line-too-long)
+1037-valid-boomerang.py:25:0: C0303: Trailing whitespace (trailing-whitespace)
+1037-valid-boomerang.py:27:0: C0301: Line too long (104/100) (line-too-long)
+1037-valid-boomerang.py:29:0: C0303: Trailing whitespace (trailing-whitespace)
+1037-valid-boomerang.py:31:0: C0301: Line too long (143/100) (line-too-long)
+1037-valid-boomerang.py:33:0: C0303: Trailing whitespace (trailing-whitespace)
+1037-valid-boomerang.py:37:0: C0303: Trailing whitespace (trailing-whitespace)
+1037-valid-boomerang.py:38:0: C0304: Final newline missing (missing-final-newline)
+1037-valid-boomerang.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1037-valid-boomerang.py:1:0: C0103: Module name "1037-valid-boomerang" doesn't conform to snake_case naming style (invalid-name)
+1037-valid-boomerang.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1037-valid-boomerang.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1037-valid-boomerang.py:2:0: C0413: Import "from typing import List" should be placed at the top of the module (wrong-import-position)
+1037-valid-boomerang.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

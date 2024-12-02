@@ -1,0 +1,9 @@
+************* Module 1848-minimum-distance-to-the-target-element
+1848-minimum-distance-to-the-target-element.py:24:0: C0304: Final newline missing (missing-final-newline)
+1848-minimum-distance-to-the-target-element.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1848-minimum-distance-to-the-target-element.py:1:0: C0103: Module name "1848-minimum-distance-to-the-target-element" doesn't conform to snake_case naming style (invalid-name)
+1848-minimum-distance-to-the-target-element.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 4.29/10 (previous run: 0.00/10, +4.29)
+

@@ -1,0 +1,14 @@
+************* Module 1207-unique-number-of-occurrences
+1207-unique-number-of-occurrences.py:7:0: C0301: Line too long (106/100) (line-too-long)
+1207-unique-number-of-occurrences.py:12:0: C0301: Line too long (106/100) (line-too-long)
+1207-unique-number-of-occurrences.py:16:0: C0304: Final newline missing (missing-final-newline)
+1207-unique-number-of-occurrences.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1207-unique-number-of-occurrences.py:1:0: C0103: Module name "1207-unique-number-of-occurrences" doesn't conform to snake_case naming style (invalid-name)
+1207-unique-number-of-occurrences.py:10:4: W0105: String statement has no effect (pointless-string-statement)
+1207-unique-number-of-occurrences.py:14:4: C0116: Missing function or method docstring (missing-function-docstring)
+1207-unique-number-of-occurrences.py:14:4: C0103: Method name "uniqueOccurrences" doesn't conform to snake_case naming style (invalid-name)
+1207-unique-number-of-occurrences.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

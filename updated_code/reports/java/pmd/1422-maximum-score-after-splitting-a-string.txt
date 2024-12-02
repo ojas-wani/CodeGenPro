@@ -1,0 +1,15 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:4:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:6:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:8:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:13:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:13:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:17:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:17:	UnusedLocalVariable:	Avoid unused local variables such as 'ones'.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:20:	UnusedLocalVariable:	Avoid unused local variables such as 'rightZeros'.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:20:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:23:	UnusedLocalVariable:	Avoid unused local variables such as 'rightOnesCount'.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:26:	UnusedLocalVariable:	Avoid unused local variables such as 'onesCount'.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:26:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:26:	UnusedLocalVariable:	Avoid unused local variables such as 'zerosCount'.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:29:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1422-maximum-score-after-splitting-a-string.java:40:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements

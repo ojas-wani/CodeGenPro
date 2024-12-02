@@ -1,0 +1,12 @@
+************* Module 1784-check-if-binary-string-has-at-most-one-segment-of-ones
+1784-check-if-binary-string-has-at-most-one-segment-of-ones.py:3:0: C0301: Line too long (103/100) (line-too-long)
+1784-check-if-binary-string-has-at-most-one-segment-of-ones.py:32:0: C0304: Final newline missing (missing-final-newline)
+1784-check-if-binary-string-has-at-most-one-segment-of-ones.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1784-check-if-binary-string-has-at-most-one-segment-of-ones.py:1:0: C0103: Module name "1784-check-if-binary-string-has-at-most-one-segment-of-ones" doesn't conform to snake_case naming style (invalid-name)
+1784-check-if-binary-string-has-at-most-one-segment-of-ones.py:11:33: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1784-check-if-binary-string-has-at-most-one-segment-of-ones.py:22:12: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+1784-check-if-binary-string-has-at-most-one-segment-of-ones.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 4.17/10 (previous run: 0.00/10, +4.17)
+

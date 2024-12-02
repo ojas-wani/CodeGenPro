@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1266-minimum-time-visiting-all-points.py:1:1: F401 'math' imported but unused
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1266-minimum-time-visiting-all-points.py:4:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1266-minimum-time-visiting-all-points.py:6:80: E501 line too long (88 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1266-minimum-time-visiting-all-points.py:6:89: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1266-minimum-time-visiting-all-points.py:7:80: E501 line too long (98 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1266-minimum-time-visiting-all-points.py:14:80: E501 line too long (126 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1266-minimum-time-visiting-all-points.py:15:80: E501 line too long (81 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1266-minimum-time-visiting-all-points.py:16:80: E501 line too long (110 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1266-minimum-time-visiting-all-points.py:29:20: W292 no newline at end of file

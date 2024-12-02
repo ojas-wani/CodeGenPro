@@ -1,0 +1,13 @@
+************* Module 1688-count-of-matches-in-tournament
+1688-count-of-matches-in-tournament.py:32:0: C0304: Final newline missing (missing-final-newline)
+1688-count-of-matches-in-tournament.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1688-count-of-matches-in-tournament.py:1:0: C0103: Module name "1688-count-of-matches-in-tournament" doesn't conform to snake_case naming style (invalid-name)
+1688-count-of-matches-in-tournament.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1688-count-of-matches-in-tournament.py:1:0: E0602: Undefined variable 'py' (undefined-variable)
+1688-count-of-matches-in-tournament.py:3:0: C0413: Import "import unittest" should be placed at the top of the module (wrong-import-position)
+1688-count-of-matches-in-tournament.py:5:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+1688-count-of-matches-in-tournament.py:3:0: W0611: Unused import unittest (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 0.77/10 (previous run: 0.00/10, +0.77)
+

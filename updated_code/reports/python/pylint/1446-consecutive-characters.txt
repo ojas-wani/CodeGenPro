@@ -1,0 +1,12 @@
+************* Module 1446-consecutive-characters
+1446-consecutive-characters.py:31:0: C0304: Final newline missing (missing-final-newline)
+1446-consecutive-characters.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1446-consecutive-characters.py:1:0: C0103: Module name "1446-consecutive-characters" doesn't conform to snake_case naming style (invalid-name)
+1446-consecutive-characters.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1446-consecutive-characters.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1446-consecutive-characters.py:10:24: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1446-consecutive-characters.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 2.67/10 (previous run: 3.33/10, -0.67)
+

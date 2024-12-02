@@ -1,0 +1,23 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:3:	UnnecessaryImport:	Unused import 'java.util.Arrays'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:5:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:5:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:7:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:7:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:7:	MethodArgumentCouldBeFinal:	Parameter 'coordinates' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:8:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:9:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:12:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:13:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:16:	ShortVariable:	Avoid variables with short names like dx
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:16:	LocalVariableCouldBeFinal:	Local variable 'dx' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:17:	ShortVariable:	Avoid variables with short names like dy
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:17:	LocalVariableCouldBeFinal:	Local variable 'dy' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:20:	ShortVariable:	Avoid variables with short names like nx
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:20:	LocalVariableCouldBeFinal:	Local variable 'nx' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:21:	ShortVariable:	Avoid variables with short names like ny
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:21:	LocalVariableCouldBeFinal:	Local variable 'ny' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:24:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:31:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:32:	LocalVariableCouldBeFinal:	Local variable 'solution' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:33:	LocalVariableCouldBeFinal:	Local variable 'coordinates' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1232-check-if-it-is-a-straight-line.java:35:	SystemPrintln:	Usage of System.out/err

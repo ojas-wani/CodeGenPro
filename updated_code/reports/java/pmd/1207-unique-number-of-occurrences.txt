@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1207-unique-number-of-occurrences.java:11:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1207-unique-number-of-occurrences.java:11:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1207-unique-number-of-occurrences.java:20:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1207-unique-number-of-occurrences.java:20:	MethodArgumentCouldBeFinal:	Parameter 'arr' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1207-unique-number-of-occurrences.java:21:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1207-unique-number-of-occurrences.java:21:	LocalVariableCouldBeFinal:	Local variable 'countMap' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1207-unique-number-of-occurrences.java:22:	LocalVariableCouldBeFinal:	Local variable 'num' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1207-unique-number-of-occurrences.java:31:	LocalVariableCouldBeFinal:	Local variable 'entry' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1207-unique-number-of-occurrences.java:34:	LocalVariableCouldBeFinal:	Local variable 'existingEntry' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1207-unique-number-of-occurrences.java:35:	CompareObjectsWithEquals:	Use equals() to compare object references.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1207-unique-number-of-occurrences.java:35:	CompareObjectsWithEquals:	Use equals() to compare object references.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1207-unique-number-of-occurrences.java:36:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

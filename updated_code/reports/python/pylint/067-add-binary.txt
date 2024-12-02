@@ -1,0 +1,10 @@
+************* Module 067-add-binary
+067-add-binary.py:12:0: C0304: Final newline missing (missing-final-newline)
+067-add-binary.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+067-add-binary.py:1:0: C0103: Module name "067-add-binary" doesn't conform to snake_case naming style (invalid-name)
+067-add-binary.py:1:15: C0103: Argument name "a" doesn't conform to snake_case naming style (invalid-name)
+067-add-binary.py:1:23: C0103: Argument name "b" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

@@ -1,0 +1,13 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\100-same-tree.java:3:	UnnecessaryImport:	Unnecessary import from the current package 'com.code.TreeNode'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\100-same-tree.java:5:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\100-same-tree.java:5:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\100-same-tree.java:6:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\100-same-tree.java:6:	ShortVariable:	Avoid variables with short names like p
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\100-same-tree.java:6:	MethodArgumentCouldBeFinal:	Parameter 'p' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\100-same-tree.java:6:	ShortVariable:	Avoid variables with short names like q
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\100-same-tree.java:6:	MethodArgumentCouldBeFinal:	Parameter 'q' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\100-same-tree.java:9:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\100-same-tree.java:14:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\100-same-tree.java:18:	LawOfDemeter:	Access to field `val` on foreign value `p` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\100-same-tree.java:18:	LawOfDemeter:	Access to field `val` on foreign value `q` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\100-same-tree.java:19:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

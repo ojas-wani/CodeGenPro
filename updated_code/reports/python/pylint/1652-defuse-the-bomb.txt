@@ -1,0 +1,15 @@
+************* Module 1652-defuse-the-bomb
+1652-defuse-the-bomb.py:27:0: C0303: Trailing whitespace (trailing-whitespace)
+1652-defuse-the-bomb.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+1652-defuse-the-bomb.py:42:0: C0303: Trailing whitespace (trailing-whitespace)
+1652-defuse-the-bomb.py:49:0: C0304: Final newline missing (missing-final-newline)
+1652-defuse-the-bomb.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1652-defuse-the-bomb.py:1:0: C0103: Module name "1652-defuse-the-bomb" doesn't conform to snake_case naming style (invalid-name)
+1652-defuse-the-bomb.py:14:22: W0621: Redefining name 'code' from outer scope (line 47) (redefined-outer-name)
+1652-defuse-the-bomb.py:14:39: W0621: Redefining name 'k' from outer scope (line 48) (redefined-outer-name)
+1652-defuse-the-bomb.py:25:8: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+1652-defuse-the-bomb.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 3.75/10 (previous run: 0.00/10, +3.75)
+

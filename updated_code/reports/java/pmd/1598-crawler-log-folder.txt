@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1598-crawler-log-folder.java:5:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1598-crawler-log-folder.java:5:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1598-crawler-log-folder.java:6:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1598-crawler-log-folder.java:6:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1598-crawler-log-folder.java:6:	MethodArgumentCouldBeFinal:	Parameter 'logs' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1598-crawler-log-folder.java:8:	LooseCoupling:	Avoid using implementation types like 'Stack'; use the interface instead
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1598-crawler-log-folder.java:8:	LocalVariableCouldBeFinal:	Local variable 'depthStack' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1598-crawler-log-folder.java:10:	LocalVariableCouldBeFinal:	Local variable 'log' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1598-crawler-log-folder.java:11:	ConfusingTernary:	Avoid if (x != y) ..; else ..;
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1598-crawler-log-folder.java:11:	LiteralsFirstInComparisons:	Position literals first in String comparisons

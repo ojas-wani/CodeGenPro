@@ -1,0 +1,9 @@
+************* Module 1550-three-consecutive-odds
+1550-three-consecutive-odds.py:22:0: C0304: Final newline missing (missing-final-newline)
+1550-three-consecutive-odds.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1550-three-consecutive-odds.py:1:0: C0103: Module name "1550-three-consecutive-odds" doesn't conform to snake_case naming style (invalid-name)
+1550-three-consecutive-odds.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 4.29/10 (previous run: 0.00/10, +4.29)
+

@@ -1,0 +1,16 @@
+************* Module 1624-largest-substring-between-two-equal-characters
+1624-largest-substring-between-two-equal-characters.py:3:0: C0301: Line too long (126/100) (line-too-long)
+1624-largest-substring-between-two-equal-characters.py:11:0: C0301: Line too long (118/100) (line-too-long)
+1624-largest-substring-between-two-equal-characters.py:13:0: C0301: Line too long (190/100) (line-too-long)
+1624-largest-substring-between-two-equal-characters.py:20:0: C0303: Trailing whitespace (trailing-whitespace)
+1624-largest-substring-between-two-equal-characters.py:26:0: C0303: Trailing whitespace (trailing-whitespace)
+1624-largest-substring-between-two-equal-characters.py:27:0: C0304: Final newline missing (missing-final-newline)
+1624-largest-substring-between-two-equal-characters.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1624-largest-substring-between-two-equal-characters.py:1:0: C0103: Module name "1624-largest-substring-between-two-equal-characters" doesn't conform to snake_case naming style (invalid-name)
+1624-largest-substring-between-two-equal-characters.py:6:4: C0103: Method name "maxLengthBetweenEqualCharacters" doesn't conform to snake_case naming style (invalid-name)
+1624-largest-substring-between-two-equal-characters.py:6:46: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1624-largest-substring-between-two-equal-characters.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

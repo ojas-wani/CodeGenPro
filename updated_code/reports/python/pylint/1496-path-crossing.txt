@@ -1,0 +1,15 @@
+************* Module 1496-path-crossing
+1496-path-crossing.py:35:0: C0304: Final newline missing (missing-final-newline)
+1496-path-crossing.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1496-path-crossing.py:1:0: C0103: Module name "1496-path-crossing" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:21:8: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:21:11: C0103: Variable name "y" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:25:16: C0103: Variable name "y" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:27:16: C0103: Variable name "y" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:29:16: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:31:16: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 4.44/10 (previous run: 0.00/10, +4.44)
+

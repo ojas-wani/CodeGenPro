@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1323-maximum-69-number.java:9:	PackageCase:	Package name contains upper case characters
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1323-maximum-69-number.java:11:	UnnecessaryImport:	Unused import 'java.util.Scanner'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1323-maximum-69-number.java:13:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1323-maximum-69-number.java:13:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1323-maximum-69-number.java:15:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1323-maximum-69-number.java:18:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1323-maximum-69-number.java:20:	MethodArgumentCouldBeFinal:	Parameter 'num' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1323-maximum-69-number.java:23:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1323-maximum-69-number.java:31:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1323-maximum-69-number.java:32:	LocalVariableCouldBeFinal:	Local variable 'sol' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1323-maximum-69-number.java:33:	LocalVariableCouldBeFinal:	Local variable 'num' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1323-maximum-69-number.java:34:	SystemPrintln:	Usage of System.out/err

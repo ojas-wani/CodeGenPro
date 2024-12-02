@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\118-pascals-triangle.java:10:	UnnecessaryConstructor:	Avoid unnecessary constructors - the compiler will generate these for you
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\118-pascals-triangle.java:10:	UncommentedEmptyConstructor:	Document empty constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\118-pascals-triangle.java:10:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\118-pascals-triangle.java:20:	MethodArgumentCouldBeFinal:	Parameter 'numRows' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\118-pascals-triangle.java:23:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\118-pascals-triangle.java:27:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\118-pascals-triangle.java:32:	LocalVariableCouldBeFinal:	Local variable 'row' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\118-pascals-triangle.java:32:	AvoidInstantiatingObjectsInLoops:	Avoid instantiating new objects inside loops
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\118-pascals-triangle.java:39:	LocalVariableCouldBeFinal:	Local variable 'prevRow' could be declared final

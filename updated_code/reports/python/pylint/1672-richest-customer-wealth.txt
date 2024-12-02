@@ -1,0 +1,12 @@
+************* Module 1672-richest-customer-wealth
+1672-richest-customer-wealth.py:19:0: C0301: Line too long (127/100) (line-too-long)
+1672-richest-customer-wealth.py:27:0: C0301: Line too long (121/100) (line-too-long)
+1672-richest-customer-wealth.py:28:0: C0304: Final newline missing (missing-final-newline)
+1672-richest-customer-wealth.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1672-richest-customer-wealth.py:1:0: C0103: Module name "1672-richest-customer-wealth" doesn't conform to snake_case naming style (invalid-name)
+1672-richest-customer-wealth.py:14:4: C0103: Method name "maximumWealth" doesn't conform to snake_case naming style (invalid-name)
+1672-richest-customer-wealth.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 1.25/10 (previous run: 0.00/10, +1.25)
+

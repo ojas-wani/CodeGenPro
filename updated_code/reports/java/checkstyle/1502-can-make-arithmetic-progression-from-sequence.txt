@@ -1,0 +1,9 @@
+Starting audit...
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1502-can-make-arithmetic-progression-from-sequence.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1502-can-make-arithmetic-progression-from-sequence.java:1: Missing package-info.java file. [JavadocPackage]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1502-can-make-arithmetic-progression-from-sequence.java:5:9: Name 'LLMImprovedCodeQuality' must match pattern '^[a-z]+(\.[a-zA-Z_]\w*)*$'. [PackageName]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1502-can-make-arithmetic-progression-from-sequence.java:15: Line is longer than 80 characters (found 99). [LineLength]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1502-can-make-arithmetic-progression-from-sequence.java:16: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1502-can-make-arithmetic-progression-from-sequence.java:18: Line is longer than 80 characters (found 101). [LineLength]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1502-can-make-arithmetic-progression-from-sequence.java:20:49: Parameter arr should be final. [FinalParameters]
+Audit done.

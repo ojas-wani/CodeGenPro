@@ -1,0 +1,15 @@
+************* Module 021-merge-two-sorted-lists
+021-merge-two-sorted-lists.py:12:0: C0301: Line too long (104/100) (line-too-long)
+021-merge-two-sorted-lists.py:33:0: C0304: Final newline missing (missing-final-newline)
+021-merge-two-sorted-lists.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+021-merge-two-sorted-lists.py:1:0: C0103: Module name "021-merge-two-sorted-lists" doesn't conform to snake_case naming style (invalid-name)
+021-merge-two-sorted-lists.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+021-merge-two-sorted-lists.py:4:30: W0622: Redefining built-in 'next' (redefined-builtin)
+021-merge-two-sorted-lists.py:3:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+021-merge-two-sorted-lists.py:12:4: C0103: Method name "mergeTwoLists" doesn't conform to snake_case naming style (invalid-name)
+021-merge-two-sorted-lists.py:28:8: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+021-merge-two-sorted-lists.py:8:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 3.75/10 (previous run: 3.75/10, +0.00)
+

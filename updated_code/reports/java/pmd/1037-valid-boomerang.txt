@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:8:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:12:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:15:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:15:	MethodArgumentCouldBeFinal:	Parameter 'points' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:16:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:21:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:22:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:26:	LocalVariableCouldBeFinal:	Local variable 'slope12' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:27:	LocalVariableCouldBeFinal:	Local variable 'slope23' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:28:	LocalVariableCouldBeFinal:	Local variable 'slope31' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:31:	SimplifyBooleanReturns:	This if statement can be replaced by `return !{condition};`
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1037-valid-boomerang.java:32:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

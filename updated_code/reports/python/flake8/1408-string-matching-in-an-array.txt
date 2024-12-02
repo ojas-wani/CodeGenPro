@@ -1,0 +1,3 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1408-string-matching-in-an-array.py:3:80: E501 line too long (100 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1408-string-matching-in-an-array.py:5:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1408-string-matching-in-an-array.py:19:22: W292 no newline at end of file

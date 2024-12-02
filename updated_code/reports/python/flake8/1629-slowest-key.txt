@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1629-slowest-key.py:3:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1629-slowest-key.py:5:80: E501 line too long (105 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1629-slowest-key.py:9:80: E501 line too long (83 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1629-slowest-key.py:13:80: E501 line too long (102 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1629-slowest-key.py:22:80: E501 line too long (87 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1629-slowest-key.py:26:80: E501 line too long (106 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1629-slowest-key.py:28:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1629-slowest-key.py:31:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1629-slowest-key.py:39:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1629-slowest-key.py:40:22: W292 no newline at end of file

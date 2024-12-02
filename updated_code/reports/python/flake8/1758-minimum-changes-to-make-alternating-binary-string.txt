@@ -1,0 +1,23 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:2:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:4:74: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:6:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:7:13: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:10:80: E501 line too long (97 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:11:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:12:13: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:16:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:21:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:29:80: E501 line too long (109 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:30:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:31:14: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:33:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:34:17: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:38:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:39:5: F811 redefinition of unused 'min_operations' from line 27
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:41:80: E501 line too long (109 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:42:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:43:14: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:45:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:46:17: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:55:20: W292 no newline at end of file

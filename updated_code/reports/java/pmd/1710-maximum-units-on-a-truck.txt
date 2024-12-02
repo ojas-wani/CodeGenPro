@@ -1,0 +1,8 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1710-maximum-units-on-a-truck.java:5:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1710-maximum-units-on-a-truck.java:5:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1710-maximum-units-on-a-truck.java:7:	CommentSize:	Comment is too large: Too many lines
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1710-maximum-units-on-a-truck.java:9:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1710-maximum-units-on-a-truck.java:17:	MethodArgumentCouldBeFinal:	Parameter 'boxTypes' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1710-maximum-units-on-a-truck.java:23:	LocalVariableCouldBeFinal:	Local variable 'boxes' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1710-maximum-units-on-a-truck.java:26:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'truckSize'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1710-maximum-units-on-a-truck.java:27:	ControlStatementBraces:	This statement should have braces

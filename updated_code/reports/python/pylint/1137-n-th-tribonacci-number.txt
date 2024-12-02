@@ -1,0 +1,15 @@
+************* Module 1137-n-th-tribonacci-number
+1137-n-th-tribonacci-number.py:26:0: C0301: Line too long (161/100) (line-too-long)
+1137-n-th-tribonacci-number.py:31:0: C0304: Final newline missing (missing-final-newline)
+1137-n-th-tribonacci-number.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1137-n-th-tribonacci-number.py:1:0: C0103: Module name "1137-n-th-tribonacci-number" doesn't conform to snake_case naming style (invalid-name)
+1137-n-th-tribonacci-number.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1137-n-th-tribonacci-number.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1137-n-th-tribonacci-number.py:2:0: C0103: Function name "Solution" doesn't conform to snake_case naming style (invalid-name)
+1137-n-th-tribonacci-number.py:7:19: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+1137-n-th-tribonacci-number.py:19:8: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+1137-n-th-tribonacci-number.py:7:4: W0612: Unused variable 'tribonacci' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

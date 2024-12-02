@@ -1,0 +1,8 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1356-sort-integers-by-the-number-of-1-bits.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1356-sort-integers-by-the-number-of-1-bits.py:2:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1356-sort-integers-by-the-number-of-1-bits.py:4:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1356-sort-integers-by-the-number-of-1-bits.py:6:80: E501 line too long (123 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1356-sort-integers-by-the-number-of-1-bits.py:7:80: E501 line too long (92 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1356-sort-integers-by-the-number-of-1-bits.py:12:80: E501 line too long (123 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1356-sort-integers-by-the-number-of-1-bits.py:13:80: E501 line too long (96 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1356-sort-integers-by-the-number-of-1-bits.py:21:65: W292 no newline at end of file

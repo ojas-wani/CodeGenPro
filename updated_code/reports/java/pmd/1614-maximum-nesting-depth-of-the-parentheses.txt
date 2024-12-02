@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1614-maximum-nesting-depth-of-the-parentheses.java:5:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1614-maximum-nesting-depth-of-the-parentheses.java:5:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1614-maximum-nesting-depth-of-the-parentheses.java:11:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1614-maximum-nesting-depth-of-the-parentheses.java:11:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1614-maximum-nesting-depth-of-the-parentheses.java:13:	LooseCoupling:	Avoid using implementation types like 'Stack'; use the interface instead
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1614-maximum-nesting-depth-of-the-parentheses.java:13:	LocalVariableCouldBeFinal:	Local variable 'stack' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1614-maximum-nesting-depth-of-the-parentheses.java:17:	LocalVariableCouldBeFinal:	Local variable 'c' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1614-maximum-nesting-depth-of-the-parentheses.java:19:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1614-maximum-nesting-depth-of-the-parentheses.java:23:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1614-maximum-nesting-depth-of-the-parentheses.java:25:	CollapsibleIfStatements:	This if statement could be combined with its parent

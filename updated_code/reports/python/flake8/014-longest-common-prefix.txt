@@ -1,0 +1,13 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/014-longest-common-prefix.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/014-longest-common-prefix.py:2:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/014-longest-common-prefix.py:4:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/014-longest-common-prefix.py:7:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/014-longest-common-prefix.py:8:80: E501 line too long (113 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/014-longest-common-prefix.py:12:80: E501 line too long (80 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/014-longest-common-prefix.py:13:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/014-longest-common-prefix.py:16:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/014-longest-common-prefix.py:22:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/014-longest-common-prefix.py:29:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/014-longest-common-prefix.py:33:1: E305 expected 2 blank lines after class or function definition, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/014-longest-common-prefix.py:34:80: E501 line too long (81 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/014-longest-common-prefix.py:35:77: W292 no newline at end of file

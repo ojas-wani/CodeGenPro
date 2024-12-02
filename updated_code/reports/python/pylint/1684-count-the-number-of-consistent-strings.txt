@@ -1,0 +1,14 @@
+************* Module 1684-count-the-number-of-consistent-strings
+1684-count-the-number-of-consistent-strings.py:32:0: C0304: Final newline missing (missing-final-newline)
+1684-count-the-number-of-consistent-strings.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1684-count-the-number-of-consistent-strings.py:1:0: C0103: Module name "1684-count-the-number-of-consistent-strings" doesn't conform to snake_case naming style (invalid-name)
+1684-count-the-number-of-consistent-strings.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1684-count-the-number-of-consistent-strings.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1684-count-the-number-of-consistent-strings.py:2:0: W0105: String statement has no effect (pointless-string-statement)
+1684-count-the-number-of-consistent-strings.py:8:0: C0413: Import "from typing import List" should be placed at the top of the module (wrong-import-position)
+1684-count-the-number-of-consistent-strings.py:15:4: C0103: Method name "countConsistentStrings" doesn't conform to snake_case naming style (invalid-name)
+1684-count-the-number-of-consistent-strings.py:10:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

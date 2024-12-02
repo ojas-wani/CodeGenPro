@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1431-kids-with-the-greatest-number-of-candies.java:3:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1431-kids-with-the-greatest-number-of-candies.java:3:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1431-kids-with-the-greatest-number-of-candies.java:3:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1431-kids-with-the-greatest-number-of-candies.java:5:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1431-kids-with-the-greatest-number-of-candies.java:7:	MethodArgumentCouldBeFinal:	Parameter 'candies' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1431-kids-with-the-greatest-number-of-candies.java:7:	MethodArgumentCouldBeFinal:	Parameter 'extraCandies' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1431-kids-with-the-greatest-number-of-candies.java:10:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1431-kids-with-the-greatest-number-of-candies.java:13:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1431-kids-with-the-greatest-number-of-candies.java:14:	LocalVariableCouldBeFinal:	Local variable 'maxCandies' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1431-kids-with-the-greatest-number-of-candies.java:17:	LocalVariableCouldBeFinal:	Local variable 'candy' could be declared final

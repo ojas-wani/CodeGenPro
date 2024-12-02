@@ -1,0 +1,18 @@
+************* Module 1636-sort-array-by-increasing-frequency
+1636-sort-array-by-increasing-frequency.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+1636-sort-array-by-increasing-frequency.py:27:0: C0303: Trailing whitespace (trailing-whitespace)
+1636-sort-array-by-increasing-frequency.py:30:0: C0303: Trailing whitespace (trailing-whitespace)
+1636-sort-array-by-increasing-frequency.py:34:0: C0303: Trailing whitespace (trailing-whitespace)
+1636-sort-array-by-increasing-frequency.py:35:0: C0304: Final newline missing (missing-final-newline)
+1636-sort-array-by-increasing-frequency.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1636-sort-array-by-increasing-frequency.py:1:0: C0103: Module name "1636-sort-array-by-increasing-frequency" doesn't conform to snake_case naming style (invalid-name)
+1636-sort-array-by-increasing-frequency.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1636-sort-array-by-increasing-frequency.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1636-sort-array-by-increasing-frequency.py:2:0: C0413: Import "from collections import Counter" should be placed at the top of the module (wrong-import-position)
+1636-sort-array-by-increasing-frequency.py:3:0: C0413: Import "from typing import List" should be placed at the top of the module (wrong-import-position)
+1636-sort-array-by-increasing-frequency.py:11:4: C0103: Method name "frequencySort" doesn't conform to snake_case naming style (invalid-name)
+1636-sort-array-by-increasing-frequency.py:5:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

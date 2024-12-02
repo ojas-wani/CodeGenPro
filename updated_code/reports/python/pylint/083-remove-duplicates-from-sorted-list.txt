@@ -1,0 +1,12 @@
+************* Module 083-remove-duplicates-from-sorted-list
+083-remove-duplicates-from-sorted-list.py:34:0: C0304: Final newline missing (missing-final-newline)
+083-remove-duplicates-from-sorted-list.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+083-remove-duplicates-from-sorted-list.py:1:0: C0103: Module name "083-remove-duplicates-from-sorted-list" doesn't conform to snake_case naming style (invalid-name)
+083-remove-duplicates-from-sorted-list.py:2:0: E0401: Unable to import 'ListNode' (import-error)
+083-remove-duplicates-from-sorted-list.py:12:8: W0107: Unnecessary pass statement (unnecessary-pass)
+083-remove-duplicates-from-sorted-list.py:14:4: C0103: Method name "deleteDuplicates" doesn't conform to snake_case naming style (invalid-name)
+083-remove-duplicates-from-sorted-list.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 3.12/10 (previous run: 3.12/10, +0.00)
+

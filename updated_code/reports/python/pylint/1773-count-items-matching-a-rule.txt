@@ -1,0 +1,2 @@
+************* Module 1773-count-items-matching-a-rule
+1773-count-items-matching-a-rule.py:24:5: E0001: Parsing failed: 'invalid syntax (<unknown>, line 24)' (syntax-error)

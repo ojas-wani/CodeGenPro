@@ -1,0 +1,7 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/094-binary-tree-inorder-traversal.py:5:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/094-binary-tree-inorder-traversal.py:11:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/094-binary-tree-inorder-traversal.py:13:80: E501 line too long (81 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/094-binary-tree-inorder-traversal.py:21:80: E501 line too long (88 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/094-binary-tree-inorder-traversal.py:24:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/094-binary-tree-inorder-traversal.py:42:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/094-binary-tree-inorder-traversal.py:43:22: W292 no newline at end of file

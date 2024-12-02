@@ -1,0 +1,14 @@
+************* Module 1470-shuffle-the-array
+1470-shuffle-the-array.py:8:0: C0303: Trailing whitespace (trailing-whitespace)
+1470-shuffle-the-array.py:22:0: C0304: Final newline missing (missing-final-newline)
+1470-shuffle-the-array.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1470-shuffle-the-array.py:1:0: C0103: Module name "1470-shuffle-the-array" doesn't conform to snake_case naming style (invalid-name)
+1470-shuffle-the-array.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1470-shuffle-the-array.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1470-shuffle-the-array.py:2:0: C0413: Import "from typing import List" should be placed at the top of the module (wrong-import-position)
+1470-shuffle-the-array.py:9:39: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+1470-shuffle-the-array.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

@@ -1,0 +1,20 @@
+************* Module 1450-number-of-students-doing-homework-at-a-given-time
+1450-number-of-students-doing-homework-at-a-given-time.py:18:0: C0301: Line too long (106/100) (line-too-long)
+1450-number-of-students-doing-homework-at-a-given-time.py:19:0: C0301: Line too long (102/100) (line-too-long)
+1450-number-of-students-doing-homework-at-a-given-time.py:20:0: C0301: Line too long (129/100) (line-too-long)
+1450-number-of-students-doing-homework-at-a-given-time.py:35:0: C0301: Line too long (121/100) (line-too-long)
+1450-number-of-students-doing-homework-at-a-given-time.py:41:0: C0304: Final newline missing (missing-final-newline)
+1450-number-of-students-doing-homework-at-a-given-time.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1450-number-of-students-doing-homework-at-a-given-time.py:1:0: C0103: Module name "1450-number-of-students-doing-homework-at-a-given-time" doesn't conform to snake_case naming style (invalid-name)
+1450-number-of-students-doing-homework-at-a-given-time.py:11:8: W0107: Unnecessary pass statement (unnecessary-pass)
+1450-number-of-students-doing-homework-at-a-given-time.py:26:8: W0105: String statement has no effect (pointless-string-statement)
+1450-number-of-students-doing-homework-at-a-given-time.py:29:8: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+1450-number-of-students-doing-homework-at-a-given-time.py:30:12: W0105: String statement has no effect (pointless-string-statement)
+1450-number-of-students-doing-homework-at-a-given-time.py:34:16: W0105: String statement has no effect (pointless-string-statement)
+1450-number-of-students-doing-homework-at-a-given-time.py:39:8: W0101: Unreachable code (unreachable)
+1450-number-of-students-doing-homework-at-a-given-time.py:39:8: W0105: String statement has no effect (pointless-string-statement)
+1450-number-of-students-doing-homework-at-a-given-time.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

@@ -1,0 +1,11 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1046-last-stone-weight.java:10:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1046-last-stone-weight.java:17:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1046-last-stone-weight.java:17:	MethodArgumentCouldBeFinal:	Parameter 'stones' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1046-last-stone-weight.java:18:	LooseCoupling:	Avoid using implementation types like 'PriorityQueue'; use the interface instead
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1046-last-stone-weight.java:18:	ShortVariable:	Avoid variables with short names like pq
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1046-last-stone-weight.java:18:	LocalVariableCouldBeFinal:	Local variable 'pq' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1046-last-stone-weight.java:19:	LocalVariableCouldBeFinal:	Local variable 'stone' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1046-last-stone-weight.java:24:	ShortVariable:	Avoid variables with short names like y
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1046-last-stone-weight.java:24:	LocalVariableCouldBeFinal:	Local variable 'y' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1046-last-stone-weight.java:25:	ShortVariable:	Avoid variables with short names like x
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1046-last-stone-weight.java:25:	LocalVariableCouldBeFinal:	Local variable 'x' could be declared final

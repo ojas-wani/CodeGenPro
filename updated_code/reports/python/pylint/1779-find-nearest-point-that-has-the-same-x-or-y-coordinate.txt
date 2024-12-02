@@ -1,0 +1,16 @@
+************* Module 1779-find-nearest-point-that-has-the-same-x-or-y-coordinate
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:34:0: C0304: Final newline missing (missing-final-newline)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:1:0: C0103: Module name "1779-find-nearest-point-that-has-the-same-x-or-y-coordinate" doesn't conform to snake_case naming style (invalid-name)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:1:0: C0103: Class name "nearest_valid_point_solution" doesn't conform to PascalCase naming style (invalid-name)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:12:34: C0103: Argument name "x" doesn't conform to snake_case naming style (invalid-name)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:12:42: C0103: Argument name "y" doesn't conform to snake_case naming style (invalid-name)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:12:58: E0602: Undefined variable 'List' (undefined-variable)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:12:63: E0602: Undefined variable 'List' (undefined-variable)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:28:16: C0103: Variable name "px" doesn't conform to snake_case naming style (invalid-name)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:28:20: C0103: Variable name "py" doesn't conform to snake_case naming style (invalid-name)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.83/10, -0.83)
+

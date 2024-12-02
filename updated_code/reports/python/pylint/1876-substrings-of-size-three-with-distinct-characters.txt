@@ -1,0 +1,11 @@
+************* Module 1876-substrings-of-size-three-with-distinct-characters
+1876-substrings-of-size-three-with-distinct-characters.py:20:0: C0304: Final newline missing (missing-final-newline)
+1876-substrings-of-size-three-with-distinct-characters.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1876-substrings-of-size-three-with-distinct-characters.py:1:0: C0103: Module name "1876-substrings-of-size-three-with-distinct-characters" doesn't conform to snake_case naming style (invalid-name)
+1876-substrings-of-size-three-with-distinct-characters.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1876-substrings-of-size-three-with-distinct-characters.py:2:36: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1876-substrings-of-size-three-with-distinct-characters.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 2.50/10 (previous run: 0.00/10, +2.50)
+

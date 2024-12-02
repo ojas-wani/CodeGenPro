@@ -1,0 +1,24 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:4:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:5:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:5:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'val'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:6:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:6:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'next'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:7:	UncommentedEmptyConstructor:	Document empty constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:7:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'ListNode()'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:8:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'ListNode(int)'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:8:	MethodArgumentCouldBeFinal:	Parameter 'val' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:9:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'ListNode(int, ListNode)'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:9:	MethodArgumentCouldBeFinal:	Parameter 'val' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:9:	MethodArgumentCouldBeFinal:	Parameter 'next' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:15:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:16:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:18:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:21:	LocalVariableCouldBeFinal:	Local variable 'dummy' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:22:	LawOfDemeter:	Access to field `next` on foreign value `dummy` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:26:	LawOfDemeter:	Access to field `next` on foreign value `head` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:27:	LawOfDemeter:	Access to field `next` on foreign value `head` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:28:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'head'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:28:	LawOfDemeter:	Access to field `next` on foreign value `head` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:30:	LawOfDemeter:	Access to field `next` on foreign value `head` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:32:	LawOfDemeter:	Access to field `next` on foreign value `prev` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\083-remove-duplicates-from-sorted-list.java:34:	LawOfDemeter:	Access to field `next` on foreign value `head` (degree 1)

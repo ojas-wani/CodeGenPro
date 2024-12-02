@@ -1,0 +1,13 @@
+************* Module 1436-destination-city
+1436-destination-city.py:6:0: C0301: Line too long (134/100) (line-too-long)
+1436-destination-city.py:17:0: C0304: Final newline missing (missing-final-newline)
+1436-destination-city.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1436-destination-city.py:1:0: C0103: Module name "1436-destination-city" doesn't conform to snake_case naming style (invalid-name)
+1436-destination-city.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1436-destination-city.py:4:4: C0103: Method name "destCity" doesn't conform to snake_case naming style (invalid-name)
+1436-destination-city.py:14:12: C0103: Variable name "p" doesn't conform to snake_case naming style (invalid-name)
+1436-destination-city.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 1.11/10 (previous run: 0.00/10, +1.11)
+

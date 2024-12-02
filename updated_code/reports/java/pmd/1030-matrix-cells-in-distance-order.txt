@@ -1,0 +1,11 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1030-matrix-cells-in-distance-order.java:2:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1030-matrix-cells-in-distance-order.java:8:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1030-matrix-cells-in-distance-order.java:8:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1030-matrix-cells-in-distance-order.java:10:	CommentSize:	Comment is too large: Too many lines
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1030-matrix-cells-in-distance-order.java:11:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1030-matrix-cells-in-distance-order.java:17:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1030-matrix-cells-in-distance-order.java:19:	MethodArgumentCouldBeFinal:	Parameter 'rows' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1030-matrix-cells-in-distance-order.java:19:	MethodArgumentCouldBeFinal:	Parameter 'cols' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1030-matrix-cells-in-distance-order.java:19:	MethodArgumentCouldBeFinal:	Parameter 'rCenter' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1030-matrix-cells-in-distance-order.java:19:	MethodArgumentCouldBeFinal:	Parameter 'cCenter' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1030-matrix-cells-in-distance-order.java:20:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final

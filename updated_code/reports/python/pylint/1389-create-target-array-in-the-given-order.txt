@@ -1,0 +1,2 @@
+************* Module 1389-create-target-array-in-the-given-order
+1389-create-target-array-in-the-given-order.py:19:80: E0001: Parsing failed: 'invalid syntax (<unknown>, line 19)' (syntax-error)

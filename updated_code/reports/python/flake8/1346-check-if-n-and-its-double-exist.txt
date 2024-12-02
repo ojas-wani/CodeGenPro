@@ -1,0 +1,1 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1346-check-if-n-and-its-double-exist.py:1:5: E999 SyntaxError: invalid syntax

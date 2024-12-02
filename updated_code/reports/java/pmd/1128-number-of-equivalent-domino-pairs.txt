@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1128-number-of-equivalent-domino-pairs.java:9:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1128-number-of-equivalent-domino-pairs.java:10:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1128-number-of-equivalent-domino-pairs.java:10:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1128-number-of-equivalent-domino-pairs.java:10:	MethodArgumentCouldBeFinal:	Parameter 'dominoes' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1128-number-of-equivalent-domino-pairs.java:12:	UseConcurrentHashMap:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1128-number-of-equivalent-domino-pairs.java:12:	LocalVariableCouldBeFinal:	Local variable 'map' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1128-number-of-equivalent-domino-pairs.java:13:	LocalVariableCouldBeFinal:	Local variable 'domino' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1128-number-of-equivalent-domino-pairs.java:15:	LocalVariableCouldBeFinal:	Local variable 'key' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1128-number-of-equivalent-domino-pairs.java:21:	LocalVariableCouldBeFinal:	Local variable 'count' could be declared final

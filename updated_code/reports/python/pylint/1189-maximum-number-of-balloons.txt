@@ -1,0 +1,14 @@
+************* Module 1189-maximum-number-of-balloons
+1189-maximum-number-of-balloons.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+1189-maximum-number-of-balloons.py:25:0: C0303: Trailing whitespace (trailing-whitespace)
+1189-maximum-number-of-balloons.py:26:0: C0304: Final newline missing (missing-final-newline)
+1189-maximum-number-of-balloons.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1189-maximum-number-of-balloons.py:1:0: C0103: Module name "1189-maximum-number-of-balloons" doesn't conform to snake_case naming style (invalid-name)
+1189-maximum-number-of-balloons.py:9:4: C0116: Missing function or method docstring (missing-function-docstring)
+1189-maximum-number-of-balloons.py:9:4: C0103: Method name "maxNumberOfBalloons" doesn't conform to snake_case naming style (invalid-name)
+1189-maximum-number-of-balloons.py:17:15: R1714: Consider merging these comparisons with 'in' by using 'char in ('b', 'a')'. Use a set instead if elements are hashable. (consider-using-in)
+1189-maximum-number-of-balloons.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 4.38/10 (previous run: 0.00/10, +4.38)
+

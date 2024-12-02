@@ -1,0 +1,6 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1103-distribute-candies-to-people.java:7:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1103-distribute-candies-to-people.java:16:	MethodArgumentCouldBeFinal:	Parameter 'numPeople' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1103-distribute-candies-to-people.java:17:	LocalVariableCouldBeFinal:	Local variable 'ans' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1103-distribute-candies-to-people.java:19:	UnusedLocalVariable:	Avoid unused local variables such as 'given'.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1103-distribute-candies-to-people.java:24:	LocalVariableCouldBeFinal:	Local variable 'toGive' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1103-distribute-candies-to-people.java:27:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'candies'

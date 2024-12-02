@@ -1,0 +1,15 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:3:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:9:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:13:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:14:80: E501 line too long (142 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:15:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:21:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:25:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:27:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:29:80: E501 line too long (85 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:33:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:37:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:41:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:44:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:46:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/110-balanced-binary-tree.py:47:40: W292 no newline at end of file

@@ -1,0 +1,21 @@
+************* Module 101-symmetric-tree
+101-symmetric-tree.py:13:0: C0303: Trailing whitespace (trailing-whitespace)
+101-symmetric-tree.py:24:0: C0303: Trailing whitespace (trailing-whitespace)
+101-symmetric-tree.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+101-symmetric-tree.py:43:0: C0301: Line too long (103/100) (line-too-long)
+101-symmetric-tree.py:44:0: C0303: Trailing whitespace (trailing-whitespace)
+101-symmetric-tree.py:45:0: C0304: Final newline missing (missing-final-newline)
+101-symmetric-tree.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+101-symmetric-tree.py:1:0: C0103: Module name "101-symmetric-tree" doesn't conform to snake_case naming style (invalid-name)
+101-symmetric-tree.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+101-symmetric-tree.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+101-symmetric-tree.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+101-symmetric-tree.py:3:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+101-symmetric-tree.py:14:4: C0103: Method name "isSymmetric" doesn't conform to snake_case naming style (invalid-name)
+101-symmetric-tree.py:25:22: C0103: Argument name "t1" doesn't conform to snake_case naming style (invalid-name)
+101-symmetric-tree.py:25:26: C0103: Argument name "t2" doesn't conform to snake_case naming style (invalid-name)
+101-symmetric-tree.py:9:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

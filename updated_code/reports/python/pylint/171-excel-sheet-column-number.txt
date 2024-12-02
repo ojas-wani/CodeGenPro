@@ -1,0 +1,13 @@
+************* Module 171-excel-sheet-column-number
+171-excel-sheet-column-number.py:5:0: C0301: Line too long (109/100) (line-too-long)
+171-excel-sheet-column-number.py:7:0: C0301: Line too long (114/100) (line-too-long)
+171-excel-sheet-column-number.py:8:0: C0301: Line too long (181/100) (line-too-long)
+171-excel-sheet-column-number.py:28:0: C0304: Final newline missing (missing-final-newline)
+171-excel-sheet-column-number.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+171-excel-sheet-column-number.py:1:0: C0103: Module name "171-excel-sheet-column-number" doesn't conform to snake_case naming style (invalid-name)
+171-excel-sheet-column-number.py:12:4: C0103: Method name "titleToNumber" doesn't conform to snake_case naming style (invalid-name)
+171-excel-sheet-column-number.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

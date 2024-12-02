@@ -1,0 +1,13 @@
+************* Module 1869-longer-contiguous-segments-of-ones-than-zeros
+1869-longer-contiguous-segments-of-ones-than-zeros.py:27:0: C0304: Final newline missing (missing-final-newline)
+1869-longer-contiguous-segments-of-ones-than-zeros.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1869-longer-contiguous-segments-of-ones-than-zeros.py:1:0: C0103: Module name "1869-longer-contiguous-segments-of-ones-than-zeros" doesn't conform to snake_case naming style (invalid-name)
+1869-longer-contiguous-segments-of-ones-than-zeros.py:10:41: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1869-longer-contiguous-segments-of-ones-than-zeros.py:15:8: W0127: Assigning the same variable 'max_len' to itself (self-assigning-variable)
+1869-longer-contiguous-segments-of-ones-than-zeros.py:24:4: C0116: Missing function or method docstring (missing-function-docstring)
+1869-longer-contiguous-segments-of-ones-than-zeros.py:24:4: C0103: Method name "checkZeroOnes" doesn't conform to snake_case naming style (invalid-name)
+1869-longer-contiguous-segments-of-ones-than-zeros.py:24:28: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 5.00/10 (previous run: 0.00/10, +5.00)
+

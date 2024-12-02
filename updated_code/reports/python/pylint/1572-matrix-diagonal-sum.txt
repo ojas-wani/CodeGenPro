@@ -1,0 +1,15 @@
+************* Module 1572-matrix-diagonal-sum
+1572-matrix-diagonal-sum.py:15:0: C0301: Line too long (128/100) (line-too-long)
+1572-matrix-diagonal-sum.py:27:0: C0304: Final newline missing (missing-final-newline)
+1572-matrix-diagonal-sum.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1572-matrix-diagonal-sum.py:1:0: C0103: Module name "1572-matrix-diagonal-sum" doesn't conform to snake_case naming style (invalid-name)
+1572-matrix-diagonal-sum.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1572-matrix-diagonal-sum.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1572-matrix-diagonal-sum.py:10:8: W0107: Unnecessary pass statement (unnecessary-pass)
+1572-matrix-diagonal-sum.py:12:4: C0103: Method name "diagonalSum" doesn't conform to snake_case naming style (invalid-name)
+1572-matrix-diagonal-sum.py:20:8: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+1572-matrix-diagonal-sum.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

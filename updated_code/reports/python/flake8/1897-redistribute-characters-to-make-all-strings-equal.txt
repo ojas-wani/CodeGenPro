@@ -1,0 +1,18 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:1:1: F821 undefined name 'py'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:2:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:4:17: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:5:80: E501 line too long (94 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:5:95: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:8:80: E501 line too long (91 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:8:92: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:14:74: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:15:51: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:21:80: E501 line too long (84 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:29:1: E305 expected 2 blank lines after class or function definition, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:29:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:31:1: F811 redefinition of unused 'Solution' from line 2
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:31:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:34:80: E501 line too long (103 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:48:80: E501 line too long (139 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:49:80: E501 line too long (161 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1897-redistribute-characters-to-make-all-strings-equal.py:51:55: W292 no newline at end of file

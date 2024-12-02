@@ -1,0 +1,19 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:1:	PackageCase:	Package name contains upper case characters
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:6:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:8:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:16:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:16:	ShortVariable:	Avoid variables with short names like k
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:19:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'n'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:26:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:27:	LongVariable:	Avoid excessively long variable names like sumOfDigitsInBaseK
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:27:	LocalVariableCouldBeFinal:	Local variable 'sumOfDigitsInBaseK' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:28:	CloseResource:	Ensure that resources like this Scanner object are closed after use
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:28:	LocalVariableCouldBeFinal:	Local variable 'scanner' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:29:	SystemPrintln:	Usage of System.out/err
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:30:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:30:	LocalVariableCouldBeFinal:	Local variable 'n' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:31:	SystemPrintln:	Usage of System.out/err
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:32:	ShortVariable:	Avoid variables with short names like k
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:32:	LocalVariableCouldBeFinal:	Local variable 'k' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:33:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1837-sum-of-digits-in-base-k.java:34:	SystemPrintln:	Usage of System.out/err

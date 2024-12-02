@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:6:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:14:	ShortVariable:	Avoid variables with short names like s1
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:14:	MethodArgumentCouldBeFinal:	Parameter 's1' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:14:	ShortVariable:	Avoid variables with short names like s2
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:14:	MethodArgumentCouldBeFinal:	Parameter 's2' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:16:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:19:	PrematureDeclaration:	Declaration of 'diff2' can be moved closer to its usages
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:19:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:23:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:30:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

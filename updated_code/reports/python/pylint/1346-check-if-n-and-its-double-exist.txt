@@ -1,0 +1,2 @@
+************* Module 1346-check-if-n-and-its-double-exist
+1346-check-if-n-and-its-double-exist.py:1:5: E0001: Parsing failed: 'invalid syntax (<unknown>, line 1)' (syntax-error)

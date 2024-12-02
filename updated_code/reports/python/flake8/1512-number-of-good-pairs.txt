@@ -1,0 +1,13 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1512-number-of-good-pairs.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1512-number-of-good-pairs.py:2:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1512-number-of-good-pairs.py:4:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1512-number-of-good-pairs.py:7:80: E501 line too long (116 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1512-number-of-good-pairs.py:8:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1512-number-of-good-pairs.py:9:80: E501 line too long (80 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1512-number-of-good-pairs.py:10:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1512-number-of-good-pairs.py:13:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1512-number-of-good-pairs.py:20:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1512-number-of-good-pairs.py:23:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1512-number-of-good-pairs.py:30:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1512-number-of-good-pairs.py:33:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1512-number-of-good-pairs.py:42:21: W292 no newline at end of file

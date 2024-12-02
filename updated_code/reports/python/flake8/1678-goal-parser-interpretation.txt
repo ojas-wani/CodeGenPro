@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1678-goal-parser-interpretation.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1678-goal-parser-interpretation.py:2:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1678-goal-parser-interpretation.py:4:69: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1678-goal-parser-interpretation.py:5:80: E501 line too long (89 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1678-goal-parser-interpretation.py:5:90: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1678-goal-parser-interpretation.py:6:80: E501 line too long (124 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1678-goal-parser-interpretation.py:6:125: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1678-goal-parser-interpretation.py:9:80: E501 line too long (92 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1678-goal-parser-interpretation.py:29:48: W292 no newline at end of file

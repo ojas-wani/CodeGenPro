@@ -1,0 +1,14 @@
+************* Module 1603-design-parking-system
+1603-design-parking-system.py:18:0: C0304: Final newline missing (missing-final-newline)
+1603-design-parking-system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1603-design-parking-system.py:1:0: C0103: Module name "1603-design-parking-system" doesn't conform to snake_case naming style (invalid-name)
+1603-design-parking-system.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1603-design-parking-system.py:8:4: C0116: Missing function or method docstring (missing-function-docstring)
+1603-design-parking-system.py:8:4: C0103: Method name "addCar" doesn't conform to snake_case naming style (invalid-name)
+1603-design-parking-system.py:8:21: C0103: Argument name "carType" doesn't conform to snake_case naming style (invalid-name)
+1603-design-parking-system.py:9:8: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+1603-design-parking-system.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 4.38/10
+

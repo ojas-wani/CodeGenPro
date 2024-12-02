@@ -1,0 +1,19 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:6:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:6:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:14:	CognitiveComplexity:	The method 'reformatNumber(String)' has a cognitive complexity of 15, current threshold is 15
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:14:	CyclomaticComplexity:	The method 'reformatNumber(String)' has a cyclomatic complexity of 10.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:15:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'number'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:16:	ShortVariable:	Avoid variables with short names like sb
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:16:	LocalVariableCouldBeFinal:	Local variable 'sb' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:17:	LocalVariableCouldBeFinal:	Local variable 'blocks' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:18:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:18:	LocalVariableCouldBeFinal:	Local variable 'n' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:20:	LocalVariableCouldBeFinal:	Local variable 'block' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:21:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:22:	UseCollectionIsEmpty:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:26:	AvoidThrowingRawExceptionTypes:	Avoid throwing raw exception types.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:28:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:30:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:31:	AvoidThrowingRawExceptionTypes:	Avoid throwing raw exception types.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:38:	LocalVariableCouldBeFinal:	Local variable 'block' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1694-reformat-phone-number.java:41:	AppendCharacterWithChar:	Avoid appending characters as strings in StringBuffer.append.

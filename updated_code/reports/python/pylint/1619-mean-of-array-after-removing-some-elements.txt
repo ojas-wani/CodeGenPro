@@ -1,0 +1,11 @@
+************* Module 1619-mean-of-array-after-removing-some-elements
+1619-mean-of-array-after-removing-some-elements.py:23:0: C0304: Final newline missing (missing-final-newline)
+1619-mean-of-array-after-removing-some-elements.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1619-mean-of-array-after-removing-some-elements.py:1:0: C0103: Module name "1619-mean-of-array-after-removing-some-elements" doesn't conform to snake_case naming style (invalid-name)
+1619-mean-of-array-after-removing-some-elements.py:12:4: C0415: Import outside toplevel (math) (import-outside-toplevel)
+1619-mean-of-array-after-removing-some-elements.py:15:4: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+1619-mean-of-array-after-removing-some-elements.py:12:4: W0611: Unused import math (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 3.33/10 (previous run: 0.00/10, +3.33)
+

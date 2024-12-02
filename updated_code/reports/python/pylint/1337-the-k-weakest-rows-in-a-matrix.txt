@@ -1,0 +1,19 @@
+************* Module 1337-the-k-weakest-rows-in-a-matrix
+1337-the-k-weakest-rows-in-a-matrix.py:8:0: C0301: Line too long (137/100) (line-too-long)
+1337-the-k-weakest-rows-in-a-matrix.py:14:0: C0301: Line too long (101/100) (line-too-long)
+1337-the-k-weakest-rows-in-a-matrix.py:22:0: C0301: Line too long (104/100) (line-too-long)
+1337-the-k-weakest-rows-in-a-matrix.py:26:0: C0301: Line too long (105/100) (line-too-long)
+1337-the-k-weakest-rows-in-a-matrix.py:30:0: C0301: Line too long (101/100) (line-too-long)
+1337-the-k-weakest-rows-in-a-matrix.py:46:0: C0304: Final newline missing (missing-final-newline)
+1337-the-k-weakest-rows-in-a-matrix.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1337-the-k-weakest-rows-in-a-matrix.py:1:0: C0103: Module name "1337-the-k-weakest-rows-in-a-matrix" doesn't conform to snake_case naming style (invalid-name)
+1337-the-k-weakest-rows-in-a-matrix.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1337-the-k-weakest-rows-in-a-matrix.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1337-the-k-weakest-rows-in-a-matrix.py:2:0: C0413: Import "import heapq" should be placed at the top of the module (wrong-import-position)
+1337-the-k-weakest-rows-in-a-matrix.py:3:0: C0413: Import "from typing import List" should be placed at the top of the module (wrong-import-position)
+1337-the-k-weakest-rows-in-a-matrix.py:18:4: C0103: Method name "kWeakestRows" doesn't conform to snake_case naming style (invalid-name)
+1337-the-k-weakest-rows-in-a-matrix.py:5:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

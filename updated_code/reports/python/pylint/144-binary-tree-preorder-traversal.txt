@@ -1,0 +1,12 @@
+************* Module 144-binary-tree-preorder-traversal
+144-binary-tree-preorder-traversal.py:37:0: C0304: Final newline missing (missing-final-newline)
+144-binary-tree-preorder-traversal.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+144-binary-tree-preorder-traversal.py:1:0: C0103: Module name "144-binary-tree-preorder-traversal" doesn't conform to snake_case naming style (invalid-name)
+144-binary-tree-preorder-traversal.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+144-binary-tree-preorder-traversal.py:3:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+144-binary-tree-preorder-traversal.py:13:4: C0103: Method name "preorderTraversal" doesn't conform to snake_case naming style (invalid-name)
+144-binary-tree-preorder-traversal.py:9:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 6.50/10 (previous run: 0.00/10, +6.50)
+

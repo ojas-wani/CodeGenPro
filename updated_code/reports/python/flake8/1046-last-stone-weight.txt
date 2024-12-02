@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1046-last-stone-weight.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1046-last-stone-weight.py:2:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1046-last-stone-weight.py:3:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1046-last-stone-weight.py:5:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1046-last-stone-weight.py:9:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1046-last-stone-weight.py:12:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1046-last-stone-weight.py:14:80: E501 line too long (91 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1046-last-stone-weight.py:19:80: E501 line too long (82 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1046-last-stone-weight.py:20:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1046-last-stone-weight.py:26:80: E501 line too long (91 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1046-last-stone-weight.py:28:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1046-last-stone-weight.py:30:51: W292 no newline at end of file

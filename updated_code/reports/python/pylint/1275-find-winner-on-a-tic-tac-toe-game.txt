@@ -1,0 +1,10 @@
+************* Module 1275-find-winner-on-a-tic-tac-toe-game
+1275-find-winner-on-a-tic-tac-toe-game.py:13:0: C0301: Line too long (105/100) (line-too-long)
+1275-find-winner-on-a-tic-tac-toe-game.py:16:0: C0301: Line too long (132/100) (line-too-long)
+1275-find-winner-on-a-tic-tac-toe-game.py:54:0: C0304: Final newline missing (missing-final-newline)
+1275-find-winner-on-a-tic-tac-toe-game.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1275-find-winner-on-a-tic-tac-toe-game.py:1:0: C0103: Module name "1275-find-winner-on-a-tic-tac-toe-game" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.08/10 (previous run: 3.20/10, +4.88)
+

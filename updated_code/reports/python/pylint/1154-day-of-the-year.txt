@@ -1,0 +1,16 @@
+************* Module 1154-day-of-the-year
+1154-day-of-the-year.py:4:0: C0301: Line too long (250/100) (line-too-long)
+1154-day-of-the-year.py:11:0: C0301: Line too long (123/100) (line-too-long)
+1154-day-of-the-year.py:15:0: C0301: Line too long (104/100) (line-too-long)
+1154-day-of-the-year.py:30:0: C0304: Final newline missing (missing-final-newline)
+1154-day-of-the-year.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1154-day-of-the-year.py:1:0: C0103: Module name "1154-day-of-the-year" doesn't conform to snake_case naming style (invalid-name)
+1154-day-of-the-year.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1154-day-of-the-year.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1154-day-of-the-year.py:2:0: W0105: String statement has no effect (pointless-string-statement)
+1154-day-of-the-year.py:7:0: C0413: Import "from datetime import datetime" should be placed at the top of the module (wrong-import-position)
+1154-day-of-the-year.py:9:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

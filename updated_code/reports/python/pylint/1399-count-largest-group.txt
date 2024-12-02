@@ -1,0 +1,15 @@
+************* Module 1399-count-largest-group
+1399-count-largest-group.py:15:0: C0303: Trailing whitespace (trailing-whitespace)
+1399-count-largest-group.py:18:0: C0303: Trailing whitespace (trailing-whitespace)
+1399-count-largest-group.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+1399-count-largest-group.py:27:0: C0303: Trailing whitespace (trailing-whitespace)
+1399-count-largest-group.py:28:0: C0304: Final newline missing (missing-final-newline)
+1399-count-largest-group.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1399-count-largest-group.py:1:0: C0103: Module name "1399-count-largest-group" doesn't conform to snake_case naming style (invalid-name)
+1399-count-largest-group.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1399-count-largest-group.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1399-count-largest-group.py:2:24: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.71/10, -0.71)
+

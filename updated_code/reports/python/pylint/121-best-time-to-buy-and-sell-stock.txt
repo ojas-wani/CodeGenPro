@@ -1,0 +1,16 @@
+************* Module 121-best-time-to-buy-and-sell-stock
+121-best-time-to-buy-and-sell-stock.py:6:0: C0301: Line too long (103/100) (line-too-long)
+121-best-time-to-buy-and-sell-stock.py:9:0: C0301: Line too long (103/100) (line-too-long)
+121-best-time-to-buy-and-sell-stock.py:12:0: C0301: Line too long (122/100) (line-too-long)
+121-best-time-to-buy-and-sell-stock.py:42:0: C0304: Final newline missing (missing-final-newline)
+121-best-time-to-buy-and-sell-stock.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+121-best-time-to-buy-and-sell-stock.py:1:0: C0103: Module name "121-best-time-to-buy-and-sell-stock" doesn't conform to snake_case naming style (invalid-name)
+121-best-time-to-buy-and-sell-stock.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+121-best-time-to-buy-and-sell-stock.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+121-best-time-to-buy-and-sell-stock.py:2:0: C0413: Import "from typing import List" should be placed at the top of the module (wrong-import-position)
+121-best-time-to-buy-and-sell-stock.py:20:4: C0103: Method name "maxProfit" doesn't conform to snake_case naming style (invalid-name)
+121-best-time-to-buy-and-sell-stock.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

@@ -1,0 +1,14 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:3:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:5:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'columnNumber'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:13:	ShortClassName:	Avoid short class names like Main
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:13:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:13:	UseUtilityClass:	This utility class has a non-private constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:14:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:15:	LocalVariableCouldBeFinal:	Local variable 'solution' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:16:	SystemPrintln:	Usage of System.out/err
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:17:	SystemPrintln:	Usage of System.out/err
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\168-excel-sheet-column-title.java:18:	SystemPrintln:	Usage of System.out/err

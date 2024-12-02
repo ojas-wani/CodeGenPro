@@ -1,0 +1,13 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1791-find-center-of-star-graph.py:3:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1791-find-center-of-star-graph.py:5:80: E501 line too long (84 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1791-find-center-of-star-graph.py:5:85: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1791-find-center-of-star-graph.py:6:80: E501 line too long (91 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1791-find-center-of-star-graph.py:7:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1791-find-center-of-star-graph.py:9:80: E501 line too long (88 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1791-find-center-of-star-graph.py:9:89: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1791-find-center-of-star-graph.py:17:80: E501 line too long (87 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1791-find-center-of-star-graph.py:17:88: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1791-find-center-of-star-graph.py:21:80: E501 line too long (82 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1791-find-center-of-star-graph.py:21:83: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1791-find-center-of-star-graph.py:27:9: F841 local variable 'n' is assigned to but never used
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1791-find-center-of-star-graph.py:31:31: W292 no newline at end of file

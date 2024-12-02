@@ -1,0 +1,12 @@
+************* Module 119-pascals-triangle-ii
+119-pascals-triangle-ii.py:23:0: C0304: Final newline missing (missing-final-newline)
+119-pascals-triangle-ii.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+119-pascals-triangle-ii.py:1:0: C0103: Module name "119-pascals-triangle-ii" doesn't conform to snake_case naming style (invalid-name)
+119-pascals-triangle-ii.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+119-pascals-triangle-ii.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+119-pascals-triangle-ii.py:2:0: C0413: Import "from typing import List" should be placed at the top of the module (wrong-import-position)
+119-pascals-triangle-ii.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

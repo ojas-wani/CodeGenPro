@@ -1,0 +1,2 @@
+************* Module 1287-element-appearing-more-than-25-in-sorted-array
+1287-element-appearing-more-than-25-in-sorted-array.py:1:11: E0001: Parsing failed: 'invalid syntax (<unknown>, line 1)' (syntax-error)

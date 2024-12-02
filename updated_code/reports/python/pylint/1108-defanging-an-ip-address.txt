@@ -1,0 +1,10 @@
+************* Module 1108-defanging-an-ip-address
+1108-defanging-an-ip-address.py:29:0: C0304: Final newline missing (missing-final-newline)
+1108-defanging-an-ip-address.py:1:0: C0103: Module name "1108-defanging-an-ip-address" doesn't conform to snake_case naming style (invalid-name)
+1108-defanging-an-ip-address.py:15:4: W0105: String statement has no effect (pointless-string-statement)
+1108-defanging-an-ip-address.py:21:4: C0116: Missing function or method docstring (missing-function-docstring)
+1108-defanging-an-ip-address.py:8:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 3.75/10 (previous run: 0.00/10, +3.75)
+

@@ -1,0 +1,4 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1550-three-consecutive-odds.py:3:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1550-three-consecutive-odds.py:5:80: E501 line too long (82 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1550-three-consecutive-odds.py:17:80: E501 line too long (83 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1550-three-consecutive-odds.py:22:21: W292 no newline at end of file

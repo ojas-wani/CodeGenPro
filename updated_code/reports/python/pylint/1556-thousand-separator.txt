@@ -1,0 +1,11 @@
+************* Module 1556-thousand-separator
+1556-thousand-separator.py:15:0: C0301: Line too long (120/100) (line-too-long)
+1556-thousand-separator.py:30:0: C0304: Final newline missing (missing-final-newline)
+1556-thousand-separator.py:1:0: C0103: Module name "1556-thousand-separator" doesn't conform to snake_case naming style (invalid-name)
+1556-thousand-separator.py:21:4: C0116: Missing function or method docstring (missing-function-docstring)
+1556-thousand-separator.py:21:33: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+1556-thousand-separator.py:13:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 3.33/10 (previous run: 1.11/10, +2.22)
+

@@ -1,0 +1,10 @@
+************* Module 013-roman-to-integer
+013-roman-to-integer.py:28:0: C0304: Final newline missing (missing-final-newline)
+013-roman-to-integer.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+013-roman-to-integer.py:1:0: C0103: Module name "013-roman-to-integer" doesn't conform to snake_case naming style (invalid-name)
+013-roman-to-integer.py:11:27: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+013-roman-to-integer.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 5.00/10 (previous run: 5.00/10, +0.00)
+

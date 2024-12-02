@@ -1,0 +1,14 @@
+************* Module 094-binary-tree-inorder-traversal
+094-binary-tree-inorder-traversal.py:24:0: C0303: Trailing whitespace (trailing-whitespace)
+094-binary-tree-inorder-traversal.py:42:0: C0303: Trailing whitespace (trailing-whitespace)
+094-binary-tree-inorder-traversal.py:43:0: C0304: Final newline missing (missing-final-newline)
+094-binary-tree-inorder-traversal.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+094-binary-tree-inorder-traversal.py:1:0: C0103: Module name "094-binary-tree-inorder-traversal" doesn't conform to snake_case naming style (invalid-name)
+094-binary-tree-inorder-traversal.py:5:0: C0115: Missing class docstring (missing-class-docstring)
+094-binary-tree-inorder-traversal.py:5:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+094-binary-tree-inorder-traversal.py:15:4: C0103: Method name "inorderTraversal" doesn't conform to snake_case naming style (invalid-name)
+094-binary-tree-inorder-traversal.py:11:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 6.25/10 (previous run: 6.25/10, +0.00)
+

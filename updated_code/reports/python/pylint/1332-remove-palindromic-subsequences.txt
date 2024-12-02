@@ -1,0 +1,11 @@
+************* Module 1332-remove-palindromic-subsequences
+1332-remove-palindromic-subsequences.py:3:0: C0301: Line too long (103/100) (line-too-long)
+1332-remove-palindromic-subsequences.py:13:0: C0301: Line too long (125/100) (line-too-long)
+1332-remove-palindromic-subsequences.py:18:0: C0304: Final newline missing (missing-final-newline)
+1332-remove-palindromic-subsequences.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1332-remove-palindromic-subsequences.py:1:0: C0103: Module name "1332-remove-palindromic-subsequences" doesn't conform to snake_case naming style (invalid-name)
+1332-remove-palindromic-subsequences.py:1:35: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 1.43/10 (previous run: 0.00/10, +1.43)
+

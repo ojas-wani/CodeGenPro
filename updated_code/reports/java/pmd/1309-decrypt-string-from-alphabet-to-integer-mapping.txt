@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1309-decrypt-string-from-alphabet-to-integer-mapping.java:3:	UnnecessaryImport:	Unused import 'java.util.ArrayList'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1309-decrypt-string-from-alphabet-to-integer-mapping.java:4:	UnnecessaryImport:	Unused import 'java.util.List'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1309-decrypt-string-from-alphabet-to-integer-mapping.java:7:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1309-decrypt-string-from-alphabet-to-integer-mapping.java:9:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1309-decrypt-string-from-alphabet-to-integer-mapping.java:10:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1309-decrypt-string-from-alphabet-to-integer-mapping.java:10:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1309-decrypt-string-from-alphabet-to-integer-mapping.java:10:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1309-decrypt-string-from-alphabet-to-integer-mapping.java:11:	ShortVariable:	Avoid variables with short names like sb
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1309-decrypt-string-from-alphabet-to-integer-mapping.java:11:	LocalVariableCouldBeFinal:	Local variable 'sb' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1309-decrypt-string-from-alphabet-to-integer-mapping.java:12:	ShortVariable:	Avoid variables with short names like i
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1309-decrypt-string-from-alphabet-to-integer-mapping.java:14:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1309-decrypt-string-from-alphabet-to-integer-mapping.java:17:	LiteralsFirstInComparisons:	Position literals first in String comparisons

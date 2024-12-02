@@ -1,0 +1,9 @@
+************* Module 1331-rank-transform-of-an-array
+1331-rank-transform-of-an-array.py:9:0: C0301: Line too long (104/100) (line-too-long)
+1331-rank-transform-of-an-array.py:40:0: C0304: Final newline missing (missing-final-newline)
+1331-rank-transform-of-an-array.py:1:0: C0103: Module name "1331-rank-transform-of-an-array" doesn't conform to snake_case naming style (invalid-name)
+1331-rank-transform-of-an-array.py:14:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 5.56/10 (previous run: 1.11/10, +4.44)
+

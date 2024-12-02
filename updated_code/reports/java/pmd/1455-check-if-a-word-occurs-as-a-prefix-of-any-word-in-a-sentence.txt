@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:6:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:7:	CommentSize:	Comment is too large: Too many lines
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:8:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:9:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:12:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:13:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:16:	LinguisticNaming:	Linguistics Antipattern - The method 'isPrefixOfWord' indicates linguistically it returns a boolean, but it returns 'int'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:16:	MethodArgumentCouldBeFinal:	Parameter 'sentence' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:16:	MethodArgumentCouldBeFinal:	Parameter 'searchWord' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:17:	LocalVariableCouldBeFinal:	Local variable 'words' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:18:	ShortVariable:	Avoid variables with short names like i
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:21:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1013-partition-array-into-three-parts-with-equal-sum.java:2:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1013-partition-array-into-three-parts-with-equal-sum.java:5:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1013-partition-array-into-three-parts-with-equal-sum.java:5:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1013-partition-array-into-three-parts-with-equal-sum.java:7:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1013-partition-array-into-three-parts-with-equal-sum.java:12:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1013-partition-array-into-three-parts-with-equal-sum.java:12:	MethodArgumentCouldBeFinal:	Parameter 'arr' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1013-partition-array-into-three-parts-with-equal-sum.java:14:	ForLoopCanBeForeach:	This for loop can be replaced by a foreach loop
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1013-partition-array-into-three-parts-with-equal-sum.java:18:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1013-partition-array-into-three-parts-with-equal-sum.java:20:	LocalVariableCouldBeFinal:	Local variable 'targetSum' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1013-partition-array-into-three-parts-with-equal-sum.java:23:	ForLoopCanBeForeach:	This for loop can be replaced by a foreach loop

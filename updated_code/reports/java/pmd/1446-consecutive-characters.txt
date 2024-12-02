@@ -1,0 +1,5 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1446-consecutive-characters.java:7:	UnnecessaryImport:	Unused import 'java.util.*'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1446-consecutive-characters.java:9:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1446-consecutive-characters.java:9:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1446-consecutive-characters.java:16:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1446-consecutive-characters.java:16:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final

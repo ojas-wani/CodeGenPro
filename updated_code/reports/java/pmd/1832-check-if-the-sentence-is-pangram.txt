@@ -1,0 +1,8 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1832-check-if-the-sentence-is-pangram.java:4:	UnnecessaryImport:	Unused import 'java.util.Arrays'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1832-check-if-the-sentence-is-pangram.java:9:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1832-check-if-the-sentence-is-pangram.java:15:	MethodArgumentCouldBeFinal:	Parameter 'sentence' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1832-check-if-the-sentence-is-pangram.java:16:	LocalVariableCouldBeFinal:	Local variable 'alphabetExist' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1832-check-if-the-sentence-is-pangram.java:19:	LocalVariableCouldBeFinal:	Local variable 'c' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1832-check-if-the-sentence-is-pangram.java:20:	LocalVariableCouldBeFinal:	Local variable 'index' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1832-check-if-the-sentence-is-pangram.java:28:	LocalVariableCouldBeFinal:	Local variable 'exist' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1832-check-if-the-sentence-is-pangram.java:30:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

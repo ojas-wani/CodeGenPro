@@ -1,0 +1,2 @@
+************* Module 169-majority-element
+169-majority-element.py:1:0: C0103: Module name "169-majority-element" doesn't conform to snake_case naming style (invalid-name)

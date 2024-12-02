@@ -1,0 +1,15 @@
+************* Module 1002-find-common-characters
+1002-find-common-characters.py:4:0: C0301: Line too long (124/100) (line-too-long)
+1002-find-common-characters.py:11:0: C0301: Line too long (101/100) (line-too-long)
+1002-find-common-characters.py:28:0: C0303: Trailing whitespace (trailing-whitespace)
+1002-find-common-characters.py:31:0: C0301: Line too long (115/100) (line-too-long)
+1002-find-common-characters.py:33:0: C0303: Trailing whitespace (trailing-whitespace)
+1002-find-common-characters.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+1002-find-common-characters.py:41:0: C0303: Trailing whitespace (trailing-whitespace)
+1002-find-common-characters.py:43:0: C0304: Final newline missing (missing-final-newline)
+1002-find-common-characters.py:1:0: C0103: Module name "1002-find-common-characters" doesn't conform to snake_case naming style (invalid-name)
+1002-find-common-characters.py:9:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.91/10 (previous run: 0.91/10, +0.00)
+

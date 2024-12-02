@@ -1,0 +1,5 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1189-maximum-number-of-balloons.py:3:80: E501 line too long (87 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1189-maximum-number-of-balloons.py:5:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1189-maximum-number-of-balloons.py:14:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1189-maximum-number-of-balloons.py:25:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1189-maximum-number-of-balloons.py:26:25: W292 no newline at end of file

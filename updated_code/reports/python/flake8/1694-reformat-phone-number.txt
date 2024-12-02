@@ -1,0 +1,6 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1694-reformat-phone-number.py:9:80: E501 line too long (88 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1694-reformat-phone-number.py:10:80: E501 line too long (92 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1694-reformat-phone-number.py:16:80: E501 line too long (89 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1694-reformat-phone-number.py:17:80: E501 line too long (88 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1694-reformat-phone-number.py:40:80: E501 line too long (80 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1694-reformat-phone-number.py:50:32: W292 no newline at end of file

@@ -1,0 +1,25 @@
+************* Module 111-minimum-depth-of-binary-tree
+111-minimum-depth-of-binary-tree.py:14:0: C0301: Line too long (101/100) (line-too-long)
+111-minimum-depth-of-binary-tree.py:18:0: C0301: Line too long (101/100) (line-too-long)
+111-minimum-depth-of-binary-tree.py:20:0: C0303: Trailing whitespace (trailing-whitespace)
+111-minimum-depth-of-binary-tree.py:31:0: C0303: Trailing whitespace (trailing-whitespace)
+111-minimum-depth-of-binary-tree.py:34:0: C0303: Trailing whitespace (trailing-whitespace)
+111-minimum-depth-of-binary-tree.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+111-minimum-depth-of-binary-tree.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+111-minimum-depth-of-binary-tree.py:42:0: C0303: Trailing whitespace (trailing-whitespace)
+111-minimum-depth-of-binary-tree.py:51:0: C0304: Final newline missing (missing-final-newline)
+111-minimum-depth-of-binary-tree.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+111-minimum-depth-of-binary-tree.py:1:0: C0103: Module name "111-minimum-depth-of-binary-tree" doesn't conform to snake_case naming style (invalid-name)
+111-minimum-depth-of-binary-tree.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+111-minimum-depth-of-binary-tree.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+111-minimum-depth-of-binary-tree.py:2:0: C0413: Import "from typing import Optional" should be placed at the top of the module (wrong-import-position)
+111-minimum-depth-of-binary-tree.py:3:0: C0413: Import "from collections import deque" should be placed at the top of the module (wrong-import-position)
+111-minimum-depth-of-binary-tree.py:6:0: C0115: Missing class docstring (missing-class-docstring)
+111-minimum-depth-of-binary-tree.py:6:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+111-minimum-depth-of-binary-tree.py:17:4: W0105: String statement has no effect (pointless-string-statement)
+111-minimum-depth-of-binary-tree.py:21:4: C0103: Method name "minDepth" doesn't conform to snake_case naming style (invalid-name)
+111-minimum-depth-of-binary-tree.py:12:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

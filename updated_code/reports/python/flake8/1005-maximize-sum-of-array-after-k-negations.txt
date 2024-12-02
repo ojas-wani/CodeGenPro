@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1005-maximize-sum-of-array-after-k-negations.py:3:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1005-maximize-sum-of-array-after-k-negations.py:6:80: E501 line too long (81 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1005-maximize-sum-of-array-after-k-negations.py:10:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1005-maximize-sum-of-array-after-k-negations.py:11:80: E501 line too long (86 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1005-maximize-sum-of-array-after-k-negations.py:14:80: E501 line too long (86 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1005-maximize-sum-of-array-after-k-negations.py:15:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1005-maximize-sum-of-array-after-k-negations.py:23:80: E501 line too long (85 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1005-maximize-sum-of-array-after-k-negations.py:25:80: E501 line too long (83 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1005-maximize-sum-of-array-after-k-negations.py:28:57: W292 no newline at end of file

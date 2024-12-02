@@ -1,0 +1,1 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\067-add-binary.java	-	LexException: Lexical error in file 'LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\067-add-binary.java' at line 30, column 37: "\'" (39), after : "\'" (in lexical state DEFAULT)

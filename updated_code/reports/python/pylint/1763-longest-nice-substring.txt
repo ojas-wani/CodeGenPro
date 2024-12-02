@@ -1,0 +1,14 @@
+************* Module 1763-longest-nice-substring
+1763-longest-nice-substring.py:37:0: C0304: Final newline missing (missing-final-newline)
+1763-longest-nice-substring.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1763-longest-nice-substring.py:1:0: C0103: Module name "1763-longest-nice-substring" doesn't conform to snake_case naming style (invalid-name)
+1763-longest-nice-substring.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1763-longest-nice-substring.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1763-longest-nice-substring.py:16:4: C0116: Missing function or method docstring (missing-function-docstring)
+1763-longest-nice-substring.py:16:37: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1763-longest-nice-substring.py:26:16: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+1763-longest-nice-substring.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 3.81/10 (previous run: 2.38/10, +1.43)
+

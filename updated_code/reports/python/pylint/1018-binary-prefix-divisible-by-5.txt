@@ -1,0 +1,12 @@
+************* Module 1018-binary-prefix-divisible-by-5
+1018-binary-prefix-divisible-by-5.py:4:0: C0301: Line too long (204/100) (line-too-long)
+1018-binary-prefix-divisible-by-5.py:15:0: C0301: Line too long (130/100) (line-too-long)
+1018-binary-prefix-divisible-by-5.py:32:0: C0304: Final newline missing (missing-final-newline)
+1018-binary-prefix-divisible-by-5.py:1:0: C0103: Module name "1018-binary-prefix-divisible-by-5" doesn't conform to snake_case naming style (invalid-name)
+1018-binary-prefix-divisible-by-5.py:17:44: E0602: Undefined variable 'List' (undefined-variable)
+1018-binary-prefix-divisible-by-5.py:17:58: E0602: Undefined variable 'List' (undefined-variable)
+1018-binary-prefix-divisible-by-5.py:7:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 2.22/10, -2.22)
+

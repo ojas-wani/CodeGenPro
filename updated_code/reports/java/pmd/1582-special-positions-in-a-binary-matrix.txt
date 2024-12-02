@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1582-special-positions-in-a-binary-matrix.java:10:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1582-special-positions-in-a-binary-matrix.java:12:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1582-special-positions-in-a-binary-matrix.java:12:	CognitiveComplexity:	The method 'numSpecial(int[][])' has a cognitive complexity of 31, current threshold is 15
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1582-special-positions-in-a-binary-matrix.java:12:	CyclomaticComplexity:	The method 'numSpecial(int[][])' has a cyclomatic complexity of 12.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1582-special-positions-in-a-binary-matrix.java:12:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1582-special-positions-in-a-binary-matrix.java:12:	MethodArgumentCouldBeFinal:	Parameter 'mat' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1582-special-positions-in-a-binary-matrix.java:14:	ShortVariable:	Avoid variables with short names like m
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1582-special-positions-in-a-binary-matrix.java:14:	LocalVariableCouldBeFinal:	Local variable 'm' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1582-special-positions-in-a-binary-matrix.java:15:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1582-special-positions-in-a-binary-matrix.java:15:	LocalVariableCouldBeFinal:	Local variable 'n' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1582-special-positions-in-a-binary-matrix.java:21:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1582-special-positions-in-a-binary-matrix.java:32:	LongVariable:	Avoid excessively long variable names like hasOtherOnesInColumn

@@ -1,0 +1,31 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:2:	MethodArgumentCouldBeFinal:	Parameter 'root' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:3:	SimplifyBooleanReturns:	This if statement can be replaced by `return {condition} || {elseBranch};`
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:4:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:9:	ShortVariable:	Avoid variables with short names like t1
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:9:	MethodArgumentCouldBeFinal:	Parameter 't1' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:9:	ShortVariable:	Avoid variables with short names like t2
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:9:	MethodArgumentCouldBeFinal:	Parameter 't2' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:11:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:14:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:16:	LawOfDemeter:	Access to field `val` on foreign value `t1` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:16:	LawOfDemeter:	Access to field `val` on foreign value `t2` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:21:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:22:	LocalVariableCouldBeFinal:	Local variable 'solution' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:23:	LocalVariableCouldBeFinal:	Local variable 'root1' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:24:	LawOfDemeter:	Access to field `left` on foreign value `root1` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:25:	LawOfDemeter:	Access to field `right` on foreign value `root1` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:26:	LawOfDemeter:	Access to field `left` on foreign value `root1` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:27:	LawOfDemeter:	Access to field `left` on foreign value `root1` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:28:	LawOfDemeter:	Access to field `right` on foreign value `root1` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:29:	LawOfDemeter:	Access to field `right` on foreign value `root1` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:31:	SystemPrintln:	Usage of System.out/err
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:33:	LocalVariableCouldBeFinal:	Local variable 'root2' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:34:	LawOfDemeter:	Access to field `left` on foreign value `root2` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:35:	LawOfDemeter:	Access to field `right` on foreign value `root2` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:36:	LawOfDemeter:	Access to field `left` on foreign value `root2` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:37:	LawOfDemeter:	Access to field `right` on foreign value `root2` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\101-symmetric-tree.java:39:	SystemPrintln:	Usage of System.out/err

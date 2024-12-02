@@ -1,0 +1,7 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1175-prime-arrangements.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1175-prime-arrangements.py:2:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1175-prime-arrangements.py:5:80: E501 line too long (124 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1175-prime-arrangements.py:11:80: E501 line too long (125 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1175-prime-arrangements.py:15:80: E501 line too long (107 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1175-prime-arrangements.py:18:9: E306 expected 1 blank line before a nested definition, found 0
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1175-prime-arrangements.py:49:19: W292 no newline at end of file

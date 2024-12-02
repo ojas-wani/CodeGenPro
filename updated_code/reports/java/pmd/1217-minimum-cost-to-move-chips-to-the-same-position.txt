@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1217-minimum-cost-to-move-chips-to-the-same-position.java:3:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1217-minimum-cost-to-move-chips-to-the-same-position.java:9:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1217-minimum-cost-to-move-chips-to-the-same-position.java:11:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1217-minimum-cost-to-move-chips-to-the-same-position.java:14:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1217-minimum-cost-to-move-chips-to-the-same-position.java:16:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1217-minimum-cost-to-move-chips-to-the-same-position.java:18:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1217-minimum-cost-to-move-chips-to-the-same-position.java:18:	MethodArgumentCouldBeFinal:	Parameter 'position' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1217-minimum-cost-to-move-chips-to-the-same-position.java:20:	LocalVariableCouldBeFinal:	Local variable 'counts' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1217-minimum-cost-to-move-chips-to-the-same-position.java:22:	LocalVariableCouldBeFinal:	Local variable 'pos' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1217-minimum-cost-to-move-chips-to-the-same-position.java:26:	CommentSize:	Comment is too large: Line too long

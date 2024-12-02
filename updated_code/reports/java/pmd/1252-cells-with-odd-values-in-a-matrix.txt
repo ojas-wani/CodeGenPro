@@ -1,0 +1,28 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:4:	UnnecessaryImport:	Unused import 'java.util.Arrays'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:7:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:7:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:8:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:8:	MethodArgumentCouldBeFinal:	Parameter 'rows' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:8:	MethodArgumentCouldBeFinal:	Parameter 'cols' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:8:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:8:	MethodArgumentCouldBeFinal:	Parameter 'indices' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:9:	LocalVariableCouldBeFinal:	Local variable 'rowCounts' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:10:	LocalVariableCouldBeFinal:	Local variable 'colCounts' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:13:	LocalVariableCouldBeFinal:	Local variable 'index' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:14:	LocalVariableCouldBeFinal:	Local variable 'row' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:15:	LocalVariableCouldBeFinal:	Local variable 'col' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:23:	LocalVariableCouldBeFinal:	Local variable 'cell' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:34:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:34:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:35:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:35:	MethodArgumentCouldBeFinal:	Parameter 'rows' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:35:	MethodArgumentCouldBeFinal:	Parameter 'cols' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:35:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:35:	MethodArgumentCouldBeFinal:	Parameter 'indices' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:36:	UnusedLocalVariable:	Avoid unused local variables such as 'matrix'.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:39:	LocalVariableCouldBeFinal:	Local variable 'rowCounts' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:40:	LocalVariableCouldBeFinal:	Local variable 'colCounts' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:42:	LocalVariableCouldBeFinal:	Local variable 'index' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:43:	LocalVariableCouldBeFinal:	Local variable 'row' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:44:	LocalVariableCouldBeFinal:	Local variable 'col' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1252-cells-with-odd-values-in-a-matrix.java:51:	LocalVariableCouldBeFinal:	Local variable 'cell' could be declared final

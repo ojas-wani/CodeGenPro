@@ -1,0 +1,14 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:9:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:10:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:11:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:14:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:20:	MethodArgumentCouldBeFinal:	Parameter 'big' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:20:	MethodArgumentCouldBeFinal:	Parameter 'medium' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:20:	MethodArgumentCouldBeFinal:	Parameter 'small' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:27:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:28:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:29:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:34:	MethodArgumentCouldBeFinal:	Parameter 'carType' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:37:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:39:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1603-design-parking-system.java:41:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

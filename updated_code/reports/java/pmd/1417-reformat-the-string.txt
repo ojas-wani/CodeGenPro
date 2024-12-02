@@ -1,0 +1,14 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:5:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:5:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:6:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:6:	CognitiveComplexity:	The method 'reformat(String)' has a cognitive complexity of 15, current threshold is 15
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:6:	CyclomaticComplexity:	The method 'reformat(String)' has a cyclomatic complexity of 10.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:6:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:6:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:10:	LocalVariableCouldBeFinal:	Local variable 'c' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:19:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:20:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:24:	LocalVariableCouldBeFinal:	Local variable 'letters' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:25:	LocalVariableCouldBeFinal:	Local variable 'digits' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:28:	LocalVariableCouldBeFinal:	Local variable 'c' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1417-reformat-the-string.java:37:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final

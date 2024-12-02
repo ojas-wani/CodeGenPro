@@ -1,0 +1,18 @@
+************* Module 1299-replace-elements-with-greatest-element-on-right-side
+1299-replace-elements-with-greatest-element-on-right-side.py:5:0: C0301: Line too long (113/100) (line-too-long)
+1299-replace-elements-with-greatest-element-on-right-side.py:7:0: C0301: Line too long (102/100) (line-too-long)
+1299-replace-elements-with-greatest-element-on-right-side.py:25:0: C0303: Trailing whitespace (trailing-whitespace)
+1299-replace-elements-with-greatest-element-on-right-side.py:28:0: C0303: Trailing whitespace (trailing-whitespace)
+1299-replace-elements-with-greatest-element-on-right-side.py:29:0: C0301: Line too long (103/100) (line-too-long)
+1299-replace-elements-with-greatest-element-on-right-side.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+1299-replace-elements-with-greatest-element-on-right-side.py:37:0: C0304: Final newline missing (missing-final-newline)
+1299-replace-elements-with-greatest-element-on-right-side.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1299-replace-elements-with-greatest-element-on-right-side.py:1:0: C0103: Module name "1299-replace-elements-with-greatest-element-on-right-side" doesn't conform to snake_case naming style (invalid-name)
+1299-replace-elements-with-greatest-element-on-right-side.py:12:4: C0103: Method name "replaceElements" doesn't conform to snake_case naming style (invalid-name)
+1299-replace-elements-with-greatest-element-on-right-side.py:22:8: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+1299-replace-elements-with-greatest-element-on-right-side.py:31:12: W0612: Unused variable 'temp' (unused-variable)
+1299-replace-elements-with-greatest-element-on-right-side.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 1.33/10 (previous run: 0.00/10, +1.33)
+

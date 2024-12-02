@@ -1,0 +1,11 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\112-path-sum.java:3:	UnnecessaryImport:	Unnecessary import from the current package 'solution.TreeNode'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\112-path-sum.java:10:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\112-path-sum.java:12:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\112-path-sum.java:18:	MethodArgumentCouldBeFinal:	Parameter 'root' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\112-path-sum.java:20:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\112-path-sum.java:22:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'targetSum'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\112-path-sum.java:24:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\112-path-sum.java:29:	CollapsibleIfStatements:	This if statement could be combined with its parent
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\112-path-sum.java:30:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\112-path-sum.java:34:	CollapsibleIfStatements:	This if statement could be combined with its parent
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\112-path-sum.java:35:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

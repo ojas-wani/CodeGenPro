@@ -1,0 +1,13 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1880-check-if-word-equals-summation-of-two-words.java:3:	UnnecessaryImport:	Unused import 'java.util.regex.Pattern'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1880-check-if-word-equals-summation-of-two-words.java:5:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1880-check-if-word-equals-summation-of-two-words.java:5:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1880-check-if-word-equals-summation-of-two-words.java:6:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1880-check-if-word-equals-summation-of-two-words.java:6:	MethodArgumentCouldBeFinal:	Parameter 'firstWord' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1880-check-if-word-equals-summation-of-two-words.java:6:	MethodArgumentCouldBeFinal:	Parameter 'secondWord' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1880-check-if-word-equals-summation-of-two-words.java:6:	MethodArgumentCouldBeFinal:	Parameter 'targetWord' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1880-check-if-word-equals-summation-of-two-words.java:8:	LocalVariableCouldBeFinal:	Local variable 'firstValue' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1880-check-if-word-equals-summation-of-two-words.java:9:	LocalVariableCouldBeFinal:	Local variable 'secondValue' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1880-check-if-word-equals-summation-of-two-words.java:10:	LocalVariableCouldBeFinal:	Local variable 'targetValue' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1880-check-if-word-equals-summation-of-two-words.java:12:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1880-check-if-word-equals-summation-of-two-words.java:16:	MethodArgumentCouldBeFinal:	Parameter 'word' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1880-check-if-word-equals-summation-of-two-words.java:19:	UselessParentheses:	Useless parentheses.

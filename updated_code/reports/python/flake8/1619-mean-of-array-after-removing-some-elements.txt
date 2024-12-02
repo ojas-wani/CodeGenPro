@@ -1,0 +1,3 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1619-mean-of-array-after-removing-some-elements.py:3:80: E501 line too long (82 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1619-mean-of-array-after-removing-some-elements.py:12:5: F401 'math' imported but unused
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1619-mean-of-array-after-removing-some-elements.py:23:16: W292 no newline at end of file

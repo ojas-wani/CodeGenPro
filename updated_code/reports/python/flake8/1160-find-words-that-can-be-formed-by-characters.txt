@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1160-find-words-that-can-be-formed-by-characters.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1160-find-words-that-can-be-formed-by-characters.py:2:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1160-find-words-that-can-be-formed-by-characters.py:3:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1160-find-words-that-can-be-formed-by-characters.py:7:80: E501 line too long (88 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1160-find-words-that-can-be-formed-by-characters.py:11:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1160-find-words-that-can-be-formed-by-characters.py:15:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1160-find-words-that-can-be-formed-by-characters.py:18:80: E501 line too long (84 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1160-find-words-that-can-be-formed-by-characters.py:32:80: E501 line too long (81 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1160-find-words-that-can-be-formed-by-characters.py:36:78: W292 no newline at end of file

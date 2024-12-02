@@ -1,0 +1,11 @@
+************* Module 1491-average-salary-excluding-the-minimum-and-maximum-salary
+1491-average-salary-excluding-the-minimum-and-maximum-salary.py:27:0: C0304: Final newline missing (missing-final-newline)
+1491-average-salary-excluding-the-minimum-and-maximum-salary.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1491-average-salary-excluding-the-minimum-and-maximum-salary.py:1:0: C0103: Module name "1491-average-salary-excluding-the-minimum-and-maximum-salary" doesn't conform to snake_case naming style (invalid-name)
+1491-average-salary-excluding-the-minimum-and-maximum-salary.py:9:4: W0105: String statement has no effect (pointless-string-statement)
+1491-average-salary-excluding-the-minimum-and-maximum-salary.py:27:40: R1714: Consider merging these comparisons with 'in' by using 'i not in (mini, maxi)'. Use a set instead if elements are hashable. (consider-using-in)
+1491-average-salary-excluding-the-minimum-and-maximum-salary.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 1.43/10 (previous run: 0.00/10, +1.43)
+

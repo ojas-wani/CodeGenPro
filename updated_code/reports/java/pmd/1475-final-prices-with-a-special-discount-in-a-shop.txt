@@ -1,0 +1,5 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1475-final-prices-with-a-special-discount-in-a-shop.java:5:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1475-final-prices-with-a-special-discount-in-a-shop.java:6:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1475-final-prices-with-a-special-discount-in-a-shop.java:6:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1475-final-prices-with-a-special-discount-in-a-shop.java:6:	MethodArgumentCouldBeFinal:	Parameter 'prices' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1475-final-prices-with-a-special-discount-in-a-shop.java:7:	UnusedAssignment:	The initializer for variable 'res' is never used (overwritten on line 8)

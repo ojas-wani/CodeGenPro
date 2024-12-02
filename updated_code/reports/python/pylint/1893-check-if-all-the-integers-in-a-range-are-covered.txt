@@ -1,0 +1,2 @@
+************* Module 1893-check-if-all-the-integers-in-a-range-are-covered
+1893-check-if-all-the-integers-in-a-range-are-covered.py:1:5: E0001: Parsing failed: 'invalid syntax (<unknown>, line 1)' (syntax-error)

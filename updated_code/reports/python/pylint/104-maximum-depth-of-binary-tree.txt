@@ -1,0 +1,10 @@
+************* Module 104-maximum-depth-of-binary-tree
+104-maximum-depth-of-binary-tree.py:28:0: C0304: Final newline missing (missing-final-newline)
+104-maximum-depth-of-binary-tree.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+104-maximum-depth-of-binary-tree.py:1:0: C0103: Module name "104-maximum-depth-of-binary-tree" doesn't conform to snake_case naming style (invalid-name)
+104-maximum-depth-of-binary-tree.py:23:8: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+104-maximum-depth-of-binary-tree.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 3.75/10 (previous run: 0.00/10, +3.75)
+

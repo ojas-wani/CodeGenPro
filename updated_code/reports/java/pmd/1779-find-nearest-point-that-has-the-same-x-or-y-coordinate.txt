@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.java:3:	UnnecessaryImport:	Unused import 'java.util.Arrays'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.java:5:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.java:5:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.java:6:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.java:6:	ShortVariable:	Avoid variables with short names like x
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.java:6:	MethodArgumentCouldBeFinal:	Parameter 'x' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.java:6:	ShortVariable:	Avoid variables with short names like y
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.java:6:	MethodArgumentCouldBeFinal:	Parameter 'y' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.java:6:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.java:6:	MethodArgumentCouldBeFinal:	Parameter 'points' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.java:10:	LocalVariableCouldBeFinal:	Local variable 'point' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.java:12:	LocalVariableCouldBeFinal:	Local variable 'distance' could be declared final

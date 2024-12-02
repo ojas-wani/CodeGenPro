@@ -1,0 +1,8 @@
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1736-latest-time-by-replacing-hidden-digits.py:3:80: E501 line too long (99 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1736-latest-time-by-replacing-hidden-digits.py:8:80: E501 line too long (113 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1736-latest-time-by-replacing-hidden-digits.py:8:114: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1736-latest-time-by-replacing-hidden-digits.py:10:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1736-latest-time-by-replacing-hidden-digits.py:12:80: E501 line too long (89 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1736-latest-time-by-replacing-hidden-digits.py:13:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1736-latest-time-by-replacing-hidden-digits.py:17:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/updated_code/code/python/1736-latest-time-by-replacing-hidden-digits.py:30:49: W292 no newline at end of file

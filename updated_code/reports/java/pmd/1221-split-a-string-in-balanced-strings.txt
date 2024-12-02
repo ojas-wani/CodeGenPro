@@ -1,0 +1,14 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:8:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:16:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:16:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:19:	LocalVariableNamingConventions:	The final local variable name 'LEFT' doesn't match '[a-z][a-zA-Z0-9]*'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:20:	LocalVariableNamingConventions:	The final local variable name 'RIGHT' doesn't match '[a-z][a-zA-Z0-9]*'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:22:	LocalVariableCouldBeFinal:	Local variable 'c' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:37:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:38:	CloseResource:	Ensure that resources like this Scanner object are closed after use
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:38:	LocalVariableCouldBeFinal:	Local variable 'scanner' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:39:	LocalVariableCouldBeFinal:	Local variable 'solution' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:40:	SystemPrintln:	Usage of System.out/err
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:41:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:41:	LocalVariableCouldBeFinal:	Local variable 's' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1221-split-a-string-in-balanced-strings.java:42:	SystemPrintln:	Usage of System.out/err

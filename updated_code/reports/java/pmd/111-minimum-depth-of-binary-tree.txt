@@ -1,0 +1,24 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:5:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:6:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:6:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'val'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:7:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:7:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'left'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:8:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:8:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'right'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:9:	UncommentedEmptyConstructor:	Document empty constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:9:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'TreeNode()'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:10:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'TreeNode(int)'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:10:	MethodArgumentCouldBeFinal:	Parameter 'val' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:11:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'TreeNode(int, TreeNode, TreeNode)'
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:11:	MethodArgumentCouldBeFinal:	Parameter 'val' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:11:	MethodArgumentCouldBeFinal:	Parameter 'left' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:11:	MethodArgumentCouldBeFinal:	Parameter 'right' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:18:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:18:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:19:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:19:	MethodArgumentCouldBeFinal:	Parameter 'root' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:21:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:24:	LocalVariableCouldBeFinal:	Local variable 'queue' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:30:	LocalVariableCouldBeFinal:	Local variable 'levelSize' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:34:	LocalVariableCouldBeFinal:	Local variable 'node' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\111-minimum-depth-of-binary-tree.java:37:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

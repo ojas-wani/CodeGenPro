@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1047-remove-all-adjacent-duplicates-in-string.java:8:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1047-remove-all-adjacent-duplicates-in-string.java:16:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1047-remove-all-adjacent-duplicates-in-string.java:16:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1047-remove-all-adjacent-duplicates-in-string.java:17:	ShortVariable:	Avoid variables with short names like sb
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1047-remove-all-adjacent-duplicates-in-string.java:17:	LocalVariableCouldBeFinal:	Local variable 'sb' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1047-remove-all-adjacent-duplicates-in-string.java:18:	LocalVariableCouldBeFinal:	Local variable 'c' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1047-remove-all-adjacent-duplicates-in-string.java:28:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1047-remove-all-adjacent-duplicates-in-string.java:29:	LocalVariableCouldBeFinal:	Local variable 'solution' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1047-remove-all-adjacent-duplicates-in-string.java:30:	SystemPrintln:	Usage of System.out/err
+LLM-Improved-Code-Quality\test_data\temp2\updated_code\code\java\1047-remove-all-adjacent-duplicates-in-string.java:31:	SystemPrintln:	Usage of System.out/err
