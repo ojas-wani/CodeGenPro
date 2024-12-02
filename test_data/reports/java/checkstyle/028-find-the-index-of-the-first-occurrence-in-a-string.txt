@@ -1,0 +1,6 @@
+Starting audit...
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\028-find-the-index-of-the-first-occurrence-in-a-string.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\028-find-the-index-of-the-first-occurrence-in-a-string.java:1: Missing package-info.java file. [JavadocPackage]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\028-find-the-index-of-the-first-occurrence-in-a-string.java:2:23: Parameter haystack should be final. [FinalParameters]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\028-find-the-index-of-the-first-occurrence-in-a-string.java:2:40: Parameter needle should be final. [FinalParameters]
+Audit done.

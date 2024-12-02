@@ -1,0 +1,11 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1175-prime-arrangements.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1175-prime-arrangements.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1175-prime-arrangements.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1175-prime-arrangements.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1175-prime-arrangements.java:2:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1175-prime-arrangements.java:2:	MethodArgumentCouldBeFinal:	Parameter 'n' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1175-prime-arrangements.java:3:	LocalVariableCouldBeFinal:	Local variable 'MOD' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1175-prime-arrangements.java:3:	LocalVariableNamingConventions:	The local variable name 'MOD' doesn't match '[a-z][a-zA-Z0-9]*'
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1175-prime-arrangements.java:3:	UseUnderscoresInNumericLiterals:	Number 1000000007 should separate every third digit with an underscore
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1175-prime-arrangements.java:5:	LinguisticNaming:	Linguistics Antipattern - The variable 'isPrime' indicates linguistically it is a boolean, but it is 'boolean[]'
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1175-prime-arrangements.java:5:	LocalVariableCouldBeFinal:	Local variable 'isPrime' could be declared final

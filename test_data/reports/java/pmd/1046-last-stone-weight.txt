@@ -1,0 +1,14 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:3:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:3:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:3:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:4:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:4:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:4:	MethodArgumentCouldBeFinal:	Parameter 'stones' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:5:	LooseCoupling:	Avoid using implementation types like 'PriorityQueue'; use the interface instead
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:5:	ShortVariable:	Avoid variables with short names like pq
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:5:	LocalVariableCouldBeFinal:	Local variable 'pq' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:6:	LocalVariableCouldBeFinal:	Local variable 'stone' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:11:	ShortVariable:	Avoid variables with short names like y
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:11:	LocalVariableCouldBeFinal:	Local variable 'y' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:12:	ShortVariable:	Avoid variables with short names like x
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1046-last-stone-weight.java:12:	LocalVariableCouldBeFinal:	Local variable 'x' could be declared final

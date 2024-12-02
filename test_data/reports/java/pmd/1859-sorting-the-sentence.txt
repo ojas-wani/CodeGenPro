@@ -1,0 +1,11 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1859-sorting-the-sentence.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1859-sorting-the-sentence.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1859-sorting-the-sentence.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1859-sorting-the-sentence.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1859-sorting-the-sentence.java:2:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1859-sorting-the-sentence.java:2:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1859-sorting-the-sentence.java:3:	LocalVariableCouldBeFinal:	Local variable 'words' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1859-sorting-the-sentence.java:4:	ShortVariable:	Avoid variables with short names like sb
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1859-sorting-the-sentence.java:4:	LocalVariableCouldBeFinal:	Local variable 'sb' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1859-sorting-the-sentence.java:6:	LocalVariableCouldBeFinal:	Local variable 'word' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1859-sorting-the-sentence.java:7:	AppendCharacterWithChar:	Avoid appending characters as strings in StringBuffer.append.

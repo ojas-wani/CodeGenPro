@@ -1,0 +1,11 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1022-sum-of-root-to-leaf-binary-numbers.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1022-sum-of-root-to-leaf-binary-numbers.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1022-sum-of-root-to-leaf-binary-numbers.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1022-sum-of-root-to-leaf-binary-numbers.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1022-sum-of-root-to-leaf-binary-numbers.java:2:	MethodArgumentCouldBeFinal:	Parameter 'root' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1022-sum-of-root-to-leaf-binary-numbers.java:6:	MethodArgumentCouldBeFinal:	Parameter 'node' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1022-sum-of-root-to-leaf-binary-numbers.java:7:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1022-sum-of-root-to-leaf-binary-numbers.java:7:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1022-sum-of-root-to-leaf-binary-numbers.java:8:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'sum'
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1022-sum-of-root-to-leaf-binary-numbers.java:8:	LawOfDemeter:	Access to field `val` on foreign value `node` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1022-sum-of-root-to-leaf-binary-numbers.java:10:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

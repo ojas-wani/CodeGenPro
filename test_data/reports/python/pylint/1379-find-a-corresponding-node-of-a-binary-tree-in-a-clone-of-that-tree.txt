@@ -1,0 +1,18 @@
+************* Module 1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:14:0: C0304: Final newline missing (missing-final-newline)
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:1:0: C0103: Module name "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree" doesn't conform to snake_case naming style (invalid-name)
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:2:4: C0103: Method name "getTargetCopy" doesn't conform to snake_case naming style (invalid-name)
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:2:38: E0602: Undefined variable 'TreeNode' (undefined-variable)
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:2:56: E0602: Undefined variable 'TreeNode' (undefined-variable)
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:2:74: E0602: Undefined variable 'TreeNode' (undefined-variable)
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:2:87: E0602: Undefined variable 'TreeNode' (undefined-variable)
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:7:4: C0116: Missing function or method docstring (missing-function-docstring)
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:3:8: W0201: Attribute 'result' defined outside __init__ (attribute-defined-outside-init)
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py:11:12: W0201: Attribute 'result' defined outside __init__ (attribute-defined-outside-init)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

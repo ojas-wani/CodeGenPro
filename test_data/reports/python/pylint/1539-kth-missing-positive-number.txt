@@ -1,0 +1,15 @@
+************* Module 1539-kth-missing-positive-number
+1539-kth-missing-positive-number.py:12:0: C0304: Final newline missing (missing-final-newline)
+1539-kth-missing-positive-number.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1539-kth-missing-positive-number.py:1:0: C0103: Module name "1539-kth-missing-positive-number" doesn't conform to snake_case naming style (invalid-name)
+1539-kth-missing-positive-number.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1539-kth-missing-positive-number.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1539-kth-missing-positive-number.py:2:0: C0115: Missing class docstring (missing-class-docstring)
+1539-kth-missing-positive-number.py:3:4: C0116: Missing function or method docstring (missing-function-docstring)
+1539-kth-missing-positive-number.py:3:4: C0103: Method name "findKthPositive" doesn't conform to snake_case naming style (invalid-name)
+1539-kth-missing-positive-number.py:3:35: E0602: Undefined variable 'List' (undefined-variable)
+1539-kth-missing-positive-number.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

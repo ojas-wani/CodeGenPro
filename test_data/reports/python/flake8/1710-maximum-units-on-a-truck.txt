@@ -1,0 +1,2 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1710-maximum-units-on-a-truck.py:3:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1710-maximum-units-on-a-truck.py:15:26: W292 no newline at end of file

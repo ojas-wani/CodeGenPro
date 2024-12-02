@@ -1,0 +1,8 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1742-maximum-number-of-balls-in-a-box.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1742-maximum-number-of-balls-in-a-box.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1742-maximum-number-of-balls-in-a-box.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1742-maximum-number-of-balls-in-a-box.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1742-maximum-number-of-balls-in-a-box.java:2:	MethodArgumentCouldBeFinal:	Parameter 'lowLimit' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1742-maximum-number-of-balls-in-a-box.java:2:	MethodArgumentCouldBeFinal:	Parameter 'highLimit' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1742-maximum-number-of-balls-in-a-box.java:3:	LocalVariableCouldBeFinal:	Local variable 'count' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1742-maximum-number-of-balls-in-a-box.java:6:	ShortVariable:	Avoid variables with short names like j

@@ -1,0 +1,1 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1678-goal-parser-interpretation.py:15:22: W292 no newline at end of file

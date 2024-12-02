@@ -1,0 +1,13 @@
+************* Module 1331-rank-transform-of-an-array
+1331-rank-transform-of-an-array.py:10:0: C0304: Final newline missing (missing-final-newline)
+1331-rank-transform-of-an-array.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1331-rank-transform-of-an-array.py:1:0: C0103: Module name "1331-rank-transform-of-an-array" doesn't conform to snake_case naming style (invalid-name)
+1331-rank-transform-of-an-array.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1331-rank-transform-of-an-array.py:4:4: C0116: Missing function or method docstring (missing-function-docstring)
+1331-rank-transform-of-an-array.py:4:4: C0103: Method name "arrayRankTransform" doesn't conform to snake_case naming style (invalid-name)
+1331-rank-transform-of-an-array.py:7:12: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+1331-rank-transform-of-an-array.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 1.11/10 (previous run: 0.00/10, +1.11)
+

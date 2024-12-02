@@ -1,0 +1,18 @@
+************* Module 141-linked-list-cycle
+141-linked-list-cycle.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+141-linked-list-cycle.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+141-linked-list-cycle.py:18:0: C0303: Trailing whitespace (trailing-whitespace)
+141-linked-list-cycle.py:21:0: C0303: Trailing whitespace (trailing-whitespace)
+141-linked-list-cycle.py:22:0: C0304: Final newline missing (missing-final-newline)
+141-linked-list-cycle.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+141-linked-list-cycle.py:1:0: C0103: Module name "141-linked-list-cycle" doesn't conform to snake_case naming style (invalid-name)
+141-linked-list-cycle.py:7:0: C0115: Missing class docstring (missing-class-docstring)
+141-linked-list-cycle.py:8:4: C0116: Missing function or method docstring (missing-function-docstring)
+141-linked-list-cycle.py:8:4: C0103: Method name "hasCycle" doesn't conform to snake_case naming style (invalid-name)
+141-linked-list-cycle.py:8:29: E0602: Undefined variable 'Optional' (undefined-variable)
+141-linked-list-cycle.py:8:38: E0602: Undefined variable 'ListNode' (undefined-variable)
+141-linked-list-cycle.py:7:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

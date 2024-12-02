@@ -1,0 +1,5 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1588-sum-of-all-odd-length-subarrays.py:2:42: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1588-sum-of-all-odd-length-subarrays.py:10:1: F811 redefinition of unused 'Solution' from line 1
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1588-sum-of-all-odd-length-subarrays.py:10:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1588-sum-of-all-odd-length-subarrays.py:11:42: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1588-sum-of-all-odd-length-subarrays.py:20:25: W292 no newline at end of file

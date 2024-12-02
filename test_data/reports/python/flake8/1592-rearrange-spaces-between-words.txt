@@ -1,0 +1,7 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1592-rearrange-spaces-between-words.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1592-rearrange-spaces-between-words.py:2:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1592-rearrange-spaces-between-words.py:7:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1592-rearrange-spaces-between-words.py:13:13: F841 local variable 'space_between_words' is assigned to but never used
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1592-rearrange-spaces-between-words.py:14:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1592-rearrange-spaces-between-words.py:18:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1592-rearrange-spaces-between-words.py:19:22: W292 no newline at end of file

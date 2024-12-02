@@ -1,0 +1,6 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1022-sum-of-root-to-leaf-binary-numbers.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1022-sum-of-root-to-leaf-binary-numbers.py:8:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1022-sum-of-root-to-leaf-binary-numbers.py:9:35: F821 undefined name 'Optional'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1022-sum-of-root-to-leaf-binary-numbers.py:9:44: F821 undefined name 'TreeNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1022-sum-of-root-to-leaf-binary-numbers.py:13:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1022-sum-of-root-to-leaf-binary-numbers.py:23:39: W292 no newline at end of file

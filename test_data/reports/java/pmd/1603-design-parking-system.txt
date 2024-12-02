@@ -1,0 +1,14 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:3:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:4:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:5:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:7:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:7:	MethodArgumentCouldBeFinal:	Parameter 'big' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:7:	MethodArgumentCouldBeFinal:	Parameter 'medium' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:7:	MethodArgumentCouldBeFinal:	Parameter 'small' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:13:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:13:	MethodArgumentCouldBeFinal:	Parameter 'carType' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:16:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:18:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1603-design-parking-system.java:20:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

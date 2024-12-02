@@ -1,0 +1,13 @@
+Starting audit...
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1716-calculate-money-in-leetcode-bank.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1716-calculate-money-in-leetcode-bank.java:1: Missing package-info.java file. [JavadocPackage]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1716-calculate-money-in-leetcode-bank.java:2:27: Parameter n should be final. [FinalParameters]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1716-calculate-money-in-leetcode-bank.java:3:25: '7' is a magic number. [MagicNumber]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1716-calculate-money-in-leetcode-bank.java:4:30: '7' is a magic number. [MagicNumber]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1716-calculate-money-in-leetcode-bank.java:6: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1716-calculate-money-in-leetcode-bank.java:8:22: '28' is a magic number. [MagicNumber]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1716-calculate-money-in-leetcode-bank.java:10: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1716-calculate-money-in-leetcode-bank.java:12: Line is longer than 80 characters (found 84). [LineLength]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1716-calculate-money-in-leetcode-bank.java:12:26: '7' is a magic number. [MagicNumber]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1716-calculate-money-in-leetcode-bank.java:14: Line has trailing spaces. [RegexpSingleline]
+Audit done.

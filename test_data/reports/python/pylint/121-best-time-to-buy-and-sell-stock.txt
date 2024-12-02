@@ -1,0 +1,16 @@
+************* Module 121-best-time-to-buy-and-sell-stock
+121-best-time-to-buy-and-sell-stock.py:5:0: C0303: Trailing whitespace (trailing-whitespace)
+121-best-time-to-buy-and-sell-stock.py:8:0: C0303: Trailing whitespace (trailing-whitespace)
+121-best-time-to-buy-and-sell-stock.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+121-best-time-to-buy-and-sell-stock.py:15:0: C0304: Final newline missing (missing-final-newline)
+121-best-time-to-buy-and-sell-stock.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+121-best-time-to-buy-and-sell-stock.py:1:0: C0103: Module name "121-best-time-to-buy-and-sell-stock" doesn't conform to snake_case naming style (invalid-name)
+121-best-time-to-buy-and-sell-stock.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+121-best-time-to-buy-and-sell-stock.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+121-best-time-to-buy-and-sell-stock.py:2:4: C0103: Method name "maxProfit" doesn't conform to snake_case naming style (invalid-name)
+121-best-time-to-buy-and-sell-stock.py:2:32: E0602: Undefined variable 'List' (undefined-variable)
+121-best-time-to-buy-and-sell-stock.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

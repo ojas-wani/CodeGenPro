@@ -1,0 +1,15 @@
+************* Module 104-maximum-depth-of-binary-tree
+104-maximum-depth-of-binary-tree.py:14:0: C0304: Final newline missing (missing-final-newline)
+104-maximum-depth-of-binary-tree.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+104-maximum-depth-of-binary-tree.py:1:0: C0103: Module name "104-maximum-depth-of-binary-tree" doesn't conform to snake_case naming style (invalid-name)
+104-maximum-depth-of-binary-tree.py:7:0: C0115: Missing class docstring (missing-class-docstring)
+104-maximum-depth-of-binary-tree.py:8:4: C0116: Missing function or method docstring (missing-function-docstring)
+104-maximum-depth-of-binary-tree.py:8:4: C0103: Method name "maxDepth" doesn't conform to snake_case naming style (invalid-name)
+104-maximum-depth-of-binary-tree.py:8:29: E0602: Undefined variable 'Optional' (undefined-variable)
+104-maximum-depth-of-binary-tree.py:8:38: E0602: Undefined variable 'TreeNode' (undefined-variable)
+104-maximum-depth-of-binary-tree.py:9:8: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+104-maximum-depth-of-binary-tree.py:7:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

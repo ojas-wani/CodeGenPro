@@ -1,0 +1,15 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:1:	ShortClassName:	Avoid short class names like Foo
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:2:	CommentRequired:	Field comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:2:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:4:	UncommentedEmptyConstructor:	Document empty constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:4:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:8:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:8:	MethodArgumentCouldBeFinal:	Parameter 'printFirst' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:13:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:13:	MethodArgumentCouldBeFinal:	Parameter 'printSecond' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:15:	DoNotUseThreads:	To be compliant to J2EE, a webapp should not use any thread.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:21:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:21:	MethodArgumentCouldBeFinal:	Parameter 'printThird' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1114-print-in-order.java:23:	DoNotUseThreads:	To be compliant to J2EE, a webapp should not use any thread.

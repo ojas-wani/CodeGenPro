@@ -1,0 +1,2 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1323-maximum-69-number.py:2:24: E211 whitespace before '('
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1323-maximum-69-number.py:7:19: W292 no newline at end of file

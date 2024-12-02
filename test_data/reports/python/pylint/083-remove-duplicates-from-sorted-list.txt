@@ -1,0 +1,17 @@
+************* Module 083-remove-duplicates-from-sorted-list
+083-remove-duplicates-from-sorted-list.py:18:0: C0304: Final newline missing (missing-final-newline)
+083-remove-duplicates-from-sorted-list.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+083-remove-duplicates-from-sorted-list.py:1:0: C0103: Module name "083-remove-duplicates-from-sorted-list" doesn't conform to snake_case naming style (invalid-name)
+083-remove-duplicates-from-sorted-list.py:6:0: C0115: Missing class docstring (missing-class-docstring)
+083-remove-duplicates-from-sorted-list.py:7:4: C0116: Missing function or method docstring (missing-function-docstring)
+083-remove-duplicates-from-sorted-list.py:7:4: C0103: Method name "deleteDuplicates" doesn't conform to snake_case naming style (invalid-name)
+083-remove-duplicates-from-sorted-list.py:7:37: E0602: Undefined variable 'Optional' (undefined-variable)
+083-remove-duplicates-from-sorted-list.py:7:46: E0602: Undefined variable 'ListNode' (undefined-variable)
+083-remove-duplicates-from-sorted-list.py:7:60: E0602: Undefined variable 'Optional' (undefined-variable)
+083-remove-duplicates-from-sorted-list.py:7:69: E0602: Undefined variable 'ListNode' (undefined-variable)
+083-remove-duplicates-from-sorted-list.py:8:16: E0602: Undefined variable 'ListNode' (undefined-variable)
+083-remove-duplicates-from-sorted-list.py:6:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

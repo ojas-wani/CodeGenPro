@@ -1,0 +1,18 @@
+************* Module 1399-count-largest-group
+1399-count-largest-group.py:5:0: C0303: Trailing whitespace (trailing-whitespace)
+1399-count-largest-group.py:9:0: C0303: Trailing whitespace (trailing-whitespace)
+1399-count-largest-group.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+1399-count-largest-group.py:20:0: C0303: Trailing whitespace (trailing-whitespace)
+1399-count-largest-group.py:25:0: C0303: Trailing whitespace (trailing-whitespace)
+1399-count-largest-group.py:27:0: C0304: Final newline missing (missing-final-newline)
+1399-count-largest-group.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1399-count-largest-group.py:1:0: C0103: Module name "1399-count-largest-group" doesn't conform to snake_case naming style (invalid-name)
+1399-count-largest-group.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1399-count-largest-group.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1399-count-largest-group.py:2:4: C0103: Method name "countLargestGroup" doesn't conform to snake_case naming style (invalid-name)
+1399-count-largest-group.py:2:32: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+1399-count-largest-group.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.71/10 (previous run: 2.00/10, -1.29)
+

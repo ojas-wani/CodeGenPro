@@ -1,0 +1,13 @@
+************* Module 009-palindrome-number
+009-palindrome-number.py:11:0: C0304: Final newline missing (missing-final-newline)
+009-palindrome-number.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+009-palindrome-number.py:1:0: C0103: Module name "009-palindrome-number" doesn't conform to snake_case naming style (invalid-name)
+009-palindrome-number.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+009-palindrome-number.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+009-palindrome-number.py:2:4: C0103: Method name "isPalindrome" doesn't conform to snake_case naming style (invalid-name)
+009-palindrome-number.py:2:27: C0103: Argument name "x" doesn't conform to snake_case naming style (invalid-name)
+009-palindrome-number.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 2.73/10 (previous run: 2.00/10, +0.73)
+

@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\110-balanced-binary-tree.java:1:	CommentSize:	Comment is too large: Too many lines
+LLM-Improved-Code-Quality\test_data\temp2\code\java\110-balanced-binary-tree.java:16:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\110-balanced-binary-tree.java:16:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\110-balanced-binary-tree.java:17:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\110-balanced-binary-tree.java:17:	MethodArgumentCouldBeFinal:	Parameter 'root' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\110-balanced-binary-tree.java:19:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\110-balanced-binary-tree.java:21:	LocalVariableCouldBeFinal:	Local variable 'leftDepth' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\110-balanced-binary-tree.java:22:	LocalVariableCouldBeFinal:	Local variable 'rightDepth' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\110-balanced-binary-tree.java:23:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\code\java\110-balanced-binary-tree.java:24:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\110-balanced-binary-tree.java:29:	MethodArgumentCouldBeFinal:	Parameter 'node' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\110-balanced-binary-tree.java:31:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

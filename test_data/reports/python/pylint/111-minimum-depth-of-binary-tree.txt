@@ -1,0 +1,16 @@
+************* Module 111-minimum-depth-of-binary-tree
+111-minimum-depth-of-binary-tree.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+111-minimum-depth-of-binary-tree.py:13:0: C0303: Trailing whitespace (trailing-whitespace)
+111-minimum-depth-of-binary-tree.py:21:0: C0304: Final newline missing (missing-final-newline)
+111-minimum-depth-of-binary-tree.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+111-minimum-depth-of-binary-tree.py:1:0: C0103: Module name "111-minimum-depth-of-binary-tree" doesn't conform to snake_case naming style (invalid-name)
+111-minimum-depth-of-binary-tree.py:7:0: C0115: Missing class docstring (missing-class-docstring)
+111-minimum-depth-of-binary-tree.py:8:4: C0116: Missing function or method docstring (missing-function-docstring)
+111-minimum-depth-of-binary-tree.py:8:4: C0103: Method name "minDepth" doesn't conform to snake_case naming style (invalid-name)
+111-minimum-depth-of-binary-tree.py:8:29: E0602: Undefined variable 'Optional' (undefined-variable)
+111-minimum-depth-of-binary-tree.py:8:38: E0602: Undefined variable 'TreeNode' (undefined-variable)
+111-minimum-depth-of-binary-tree.py:7:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

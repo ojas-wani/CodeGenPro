@@ -1,0 +1,5 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1207-unique-number-of-occurrences.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1207-unique-number-of-occurrences.py:2:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1207-unique-number-of-occurrences.py:4:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1207-unique-number-of-occurrences.py:5:38: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1207-unique-number-of-occurrences.py:7:64: W292 no newline at end of file

@@ -1,0 +1,12 @@
+************* Module 118-pascals-triangle
+118-pascals-triangle.py:7:0: C0304: Final newline missing (missing-final-newline)
+118-pascals-triangle.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+118-pascals-triangle.py:1:0: C0103: Module name "118-pascals-triangle" doesn't conform to snake_case naming style (invalid-name)
+118-pascals-triangle.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+118-pascals-triangle.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+118-pascals-triangle.py:2:23: C0103: Argument name "numRows" doesn't conform to snake_case naming style (invalid-name)
+118-pascals-triangle.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

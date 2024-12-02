@@ -1,0 +1,14 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:2:	UnnecessaryImport:	Unused import 'java.util.Arrays'
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:3:	UnnecessaryImport:	Unused import 'java.util.PriorityQueue'
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:5:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:5:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:5:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:6:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:6:	MethodArgumentCouldBeFinal:	Parameter 'mat' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:6:	ShortVariable:	Avoid variables with short names like k
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:6:	MethodArgumentCouldBeFinal:	Parameter 'k' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:7:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:7:	LocalVariableCouldBeFinal:	Local variable 'list' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:12:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:12:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1337-the-k-weakest-rows-in-a-matrix.java:19:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final

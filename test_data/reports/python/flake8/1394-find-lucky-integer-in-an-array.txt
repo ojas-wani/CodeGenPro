@@ -1,0 +1,5 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1394-find-lucky-integer-in-an-array.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1394-find-lucky-integer-in-an-array.py:2:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1394-find-lucky-integer-in-an-array.py:3:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1394-find-lucky-integer-in-an-array.py:4:30: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1394-find-lucky-integer-in-an-array.py:7:59: W292 no newline at end of file

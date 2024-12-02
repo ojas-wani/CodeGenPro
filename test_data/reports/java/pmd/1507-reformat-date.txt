@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1507-reformat-date.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1507-reformat-date.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1507-reformat-date.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1507-reformat-date.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1507-reformat-date.java:2:	MethodArgumentCouldBeFinal:	Parameter 'date' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1507-reformat-date.java:3:	LocalVariableCouldBeFinal:	Local variable 'parts' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1507-reformat-date.java:4:	LocalVariableCouldBeFinal:	Local variable 'day' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1507-reformat-date.java:5:	LocalVariableCouldBeFinal:	Local variable 'month' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1507-reformat-date.java:6:	LocalVariableCouldBeFinal:	Local variable 'year' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1507-reformat-date.java:8:	LocalVariableCouldBeFinal:	Local variable 'months' could be declared final

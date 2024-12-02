@@ -1,0 +1,15 @@
+************* Module 1576-replace-all-s-to-avoid-consecutive-repeating-characters
+1576-replace-all-s-to-avoid-consecutive-repeating-characters.py:11:0: C0304: Final newline missing (missing-final-newline)
+1576-replace-all-s-to-avoid-consecutive-repeating-characters.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1576-replace-all-s-to-avoid-consecutive-repeating-characters.py:1:0: C0103: Module name "1576-replace-all-s-to-avoid-consecutive-repeating-characters" doesn't conform to snake_case naming style (invalid-name)
+1576-replace-all-s-to-avoid-consecutive-repeating-characters.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1576-replace-all-s-to-avoid-consecutive-repeating-characters.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1576-replace-all-s-to-avoid-consecutive-repeating-characters.py:2:4: C0103: Method name "modifyString" doesn't conform to snake_case naming style (invalid-name)
+1576-replace-all-s-to-avoid-consecutive-repeating-characters.py:2:27: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1576-replace-all-s-to-avoid-consecutive-repeating-characters.py:4:8: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+1576-replace-all-s-to-avoid-consecutive-repeating-characters.py:6:20: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+1576-replace-all-s-to-avoid-consecutive-repeating-characters.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.91/10
+

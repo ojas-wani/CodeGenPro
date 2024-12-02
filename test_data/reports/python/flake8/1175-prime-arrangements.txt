@@ -1,0 +1,2 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1175-prime-arrangements.py:4:9: E306 expected 1 blank line before a nested definition, found 0
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1175-prime-arrangements.py:22:19: W292 no newline at end of file

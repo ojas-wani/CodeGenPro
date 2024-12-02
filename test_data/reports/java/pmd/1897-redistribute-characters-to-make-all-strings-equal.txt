@@ -1,0 +1,13 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1897-redistribute-characters-to-make-all-strings-equal.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1897-redistribute-characters-to-make-all-strings-equal.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1897-redistribute-characters-to-make-all-strings-equal.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1897-redistribute-characters-to-make-all-strings-equal.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1897-redistribute-characters-to-make-all-strings-equal.java:2:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1897-redistribute-characters-to-make-all-strings-equal.java:2:	MethodArgumentCouldBeFinal:	Parameter 'words' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1897-redistribute-characters-to-make-all-strings-equal.java:3:	LocalVariableCouldBeFinal:	Local variable 'charCount' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1897-redistribute-characters-to-make-all-strings-equal.java:7:	LocalVariableCouldBeFinal:	Local variable 'word' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1897-redistribute-characters-to-make-all-strings-equal.java:8:	LocalVariableCouldBeFinal:	Local variable 'wordCount' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1897-redistribute-characters-to-make-all-strings-equal.java:8:	AvoidInstantiatingObjectsInLoops:	Avoid instantiating new objects inside loops
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1897-redistribute-characters-to-make-all-strings-equal.java:9:	LocalVariableCouldBeFinal:	Local variable 'c' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1897-redistribute-characters-to-make-all-strings-equal.java:19:	LocalVariableCouldBeFinal:	Local variable 'count' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1897-redistribute-characters-to-make-all-strings-equal.java:21:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

@@ -1,0 +1,16 @@
+************* Module 1694-reformat-phone-number
+1694-reformat-phone-number.py:33:0: C0304: Final newline missing (missing-final-newline)
+1694-reformat-phone-number.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1694-reformat-phone-number.py:1:0: C0103: Module name "1694-reformat-phone-number" doesn't conform to snake_case naming style (invalid-name)
+1694-reformat-phone-number.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1694-reformat-phone-number.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1694-reformat-phone-number.py:2:0: C0115: Missing class docstring (missing-class-docstring)
+1694-reformat-phone-number.py:3:4: C0116: Missing function or method docstring (missing-function-docstring)
+1694-reformat-phone-number.py:3:4: C0103: Method name "reformatNumber" doesn't conform to snake_case naming style (invalid-name)
+1694-reformat-phone-number.py:5:8: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+1694-reformat-phone-number.py:26:20: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+1694-reformat-phone-number.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 4.64/10
+

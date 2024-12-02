@@ -1,0 +1,11 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1365-how-many-numbers-are-smaller-than-the-current-number.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1365-how-many-numbers-are-smaller-than-the-current-number.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1365-how-many-numbers-are-smaller-than-the-current-number.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1365-how-many-numbers-are-smaller-than-the-current-number.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1365-how-many-numbers-are-smaller-than-the-current-number.java:2:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1365-how-many-numbers-are-smaller-than-the-current-number.java:2:	MethodArgumentCouldBeFinal:	Parameter 'nums' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1365-how-many-numbers-are-smaller-than-the-current-number.java:3:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1365-how-many-numbers-are-smaller-than-the-current-number.java:3:	LocalVariableCouldBeFinal:	Local variable 'n' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1365-how-many-numbers-are-smaller-than-the-current-number.java:4:	UnusedLocalVariable:	Avoid unused local variables such as 'count'.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1365-how-many-numbers-are-smaller-than-the-current-number.java:6:	LocalVariableCouldBeFinal:	Local variable 'map' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1365-how-many-numbers-are-smaller-than-the-current-number.java:14:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final

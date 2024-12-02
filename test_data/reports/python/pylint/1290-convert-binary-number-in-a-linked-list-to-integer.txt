@@ -1,0 +1,13 @@
+************* Module 1290-convert-binary-number-in-a-linked-list-to-integer
+1290-convert-binary-number-in-a-linked-list-to-integer.py:7:0: C0304: Final newline missing (missing-final-newline)
+1290-convert-binary-number-in-a-linked-list-to-integer.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1290-convert-binary-number-in-a-linked-list-to-integer.py:1:0: C0103: Module name "1290-convert-binary-number-in-a-linked-list-to-integer" doesn't conform to snake_case naming style (invalid-name)
+1290-convert-binary-number-in-a-linked-list-to-integer.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1290-convert-binary-number-in-a-linked-list-to-integer.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1290-convert-binary-number-in-a-linked-list-to-integer.py:2:4: C0103: Method name "getDecimalValue" doesn't conform to snake_case naming style (invalid-name)
+1290-convert-binary-number-in-a-linked-list-to-integer.py:2:36: E0602: Undefined variable 'ListNode' (undefined-variable)
+1290-convert-binary-number-in-a-linked-list-to-integer.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

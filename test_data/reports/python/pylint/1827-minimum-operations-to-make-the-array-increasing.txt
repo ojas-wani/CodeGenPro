@@ -1,0 +1,12 @@
+************* Module 1827-minimum-operations-to-make-the-array-increasing
+1827-minimum-operations-to-make-the-array-increasing.py:11:0: C0304: Final newline missing (missing-final-newline)
+1827-minimum-operations-to-make-the-array-increasing.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1827-minimum-operations-to-make-the-array-increasing.py:1:0: C0103: Module name "1827-minimum-operations-to-make-the-array-increasing" doesn't conform to snake_case naming style (invalid-name)
+1827-minimum-operations-to-make-the-array-increasing.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1827-minimum-operations-to-make-the-array-increasing.py:4:4: C0116: Missing function or method docstring (missing-function-docstring)
+1827-minimum-operations-to-make-the-array-increasing.py:4:4: C0103: Method name "minOperations" doesn't conform to snake_case naming style (invalid-name)
+1827-minimum-operations-to-make-the-array-increasing.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 2.22/10
+

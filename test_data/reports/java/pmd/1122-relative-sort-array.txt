@@ -1,0 +1,16 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:2:	CognitiveComplexity:	The method 'relativeSortArray(int[], int[])' has a cognitive complexity of 19, current threshold is 15
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:2:	CyclomaticComplexity:	The method 'relativeSortArray(int[], int[])' has a cyclomatic complexity of 10.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:2:	MethodArgumentCouldBeFinal:	Parameter 'arr1' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:2:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:2:	MethodArgumentCouldBeFinal:	Parameter 'arr2' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:3:	LocalVariableCouldBeFinal:	Local variable 'map' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:4:	ForLoopCanBeForeach:	This for loop can be replaced by a foreach loop
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:7:	LocalVariableCouldBeFinal:	Local variable 'list' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:8:	LocalVariableCouldBeFinal:	Local variable 'num' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:14:	LocalVariableCouldBeFinal:	Local variable 'num' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:22:	LocalVariableCouldBeFinal:	Local variable 'n' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1122-relative-sort-array.java:30:	LocalVariableCouldBeFinal:	Local variable 'res' could be declared final

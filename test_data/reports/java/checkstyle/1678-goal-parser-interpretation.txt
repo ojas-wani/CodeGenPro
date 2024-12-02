@@ -1,0 +1,16 @@
+Starting audit...
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:1: Missing package-info.java file. [JavadocPackage]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:2:29: Parameter command should be final. [FinalParameters]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:4:9: 'for' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:4:9: 'for' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:5:13: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:5:13: 'if' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:7:20: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:7:20: 'if' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:9:17: 'while' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:9:17: 'while' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:12: Line is longer than 80 characters (found 88). [LineLength]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:12:17: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:12:17: 'if' is not followed by whitespace. [WhitespaceAround]
+Audit done.

@@ -1,0 +1,19 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:2:	MethodArgumentCouldBeFinal:	Parameter 'text' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:3:	LocalVariableCouldBeFinal:	Local variable 'counts' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:4:	LocalVariableCouldBeFinal:	Local variable 'c' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:4:	UseLocaleWithCaseConversions:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:5:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:5:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:6:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:6:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:7:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:7:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:8:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:8:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:9:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:9:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1189-maximum-number-of-balloons.java:16:	LocalVariableCouldBeFinal:	Local variable 'count' could be declared final

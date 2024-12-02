@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.java:1:	CommentSize:	Comment is too large: Too many lines
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.java:11:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.java:11:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.java:12:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.java:13:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.java:13:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.java:14:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.java:14:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.java:15:	LocalVariableCouldBeFinal:	Local variable 'left' could be declared final

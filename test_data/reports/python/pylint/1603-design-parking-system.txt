@@ -1,0 +1,2 @@
+************* Module 1603-design-parking-system
+1603-design-parking-system.py:1:0: F0010: error while code parsing: Wrong or no encoding specified for C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\python\1603-design-parking-system.py. (parse-error)

@@ -1,0 +1,16 @@
+************* Module 108-convert-sorted-array-to-binary-search-tree
+108-convert-sorted-array-to-binary-search-tree.py:16:0: C0304: Final newline missing (missing-final-newline)
+108-convert-sorted-array-to-binary-search-tree.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+108-convert-sorted-array-to-binary-search-tree.py:1:0: C0103: Module name "108-convert-sorted-array-to-binary-search-tree" doesn't conform to snake_case naming style (invalid-name)
+108-convert-sorted-array-to-binary-search-tree.py:7:0: C0115: Missing class docstring (missing-class-docstring)
+108-convert-sorted-array-to-binary-search-tree.py:8:4: C0116: Missing function or method docstring (missing-function-docstring)
+108-convert-sorted-array-to-binary-search-tree.py:8:4: C0103: Method name "sortedArrayToBST" doesn't conform to snake_case naming style (invalid-name)
+108-convert-sorted-array-to-binary-search-tree.py:8:37: E0602: Undefined variable 'List' (undefined-variable)
+108-convert-sorted-array-to-binary-search-tree.py:8:51: E0602: Undefined variable 'Optional' (undefined-variable)
+108-convert-sorted-array-to-binary-search-tree.py:8:60: E0602: Undefined variable 'TreeNode' (undefined-variable)
+108-convert-sorted-array-to-binary-search-tree.py:13:15: E0602: Undefined variable 'TreeNode' (undefined-variable)
+108-convert-sorted-array-to-binary-search-tree.py:7:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

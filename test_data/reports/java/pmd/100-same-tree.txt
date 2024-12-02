@@ -1,0 +1,13 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\100-same-tree.java:1:	CommentSize:	Comment is too large: Too many lines
+LLM-Improved-Code-Quality\test_data\temp2\code\java\100-same-tree.java:16:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\100-same-tree.java:16:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\100-same-tree.java:17:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\100-same-tree.java:17:	ShortVariable:	Avoid variables with short names like p
+LLM-Improved-Code-Quality\test_data\temp2\code\java\100-same-tree.java:17:	MethodArgumentCouldBeFinal:	Parameter 'p' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\100-same-tree.java:17:	ShortVariable:	Avoid variables with short names like q
+LLM-Improved-Code-Quality\test_data\temp2\code\java\100-same-tree.java:17:	MethodArgumentCouldBeFinal:	Parameter 'q' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\100-same-tree.java:19:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\100-same-tree.java:22:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\100-same-tree.java:24:	LawOfDemeter:	Access to field `val` on foreign value `p` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\code\java\100-same-tree.java:24:	LawOfDemeter:	Access to field `val` on foreign value `q` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\code\java\100-same-tree.java:25:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

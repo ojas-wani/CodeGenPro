@@ -1,0 +1,8 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1005-maximize-sum-of-array-after-k-negations.java:3:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1005-maximize-sum-of-array-after-k-negations.java:3:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1005-maximize-sum-of-array-after-k-negations.java:3:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1005-maximize-sum-of-array-after-k-negations.java:4:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1005-maximize-sum-of-array-after-k-negations.java:4:	MethodArgumentCouldBeFinal:	Parameter 'nums' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1005-maximize-sum-of-array-after-k-negations.java:4:	ShortVariable:	Avoid variables with short names like k
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1005-maximize-sum-of-array-after-k-negations.java:10:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'k'
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1005-maximize-sum-of-array-after-k-negations.java:11:	ControlStatementBraces:	This statement should have braces

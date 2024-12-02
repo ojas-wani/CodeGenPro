@@ -1,0 +1,13 @@
+************* Module 1437-check-if-all-1s-are-at-least-length-k-places-away
+1437-check-if-all-1s-are-at-least-length-k-places-away.py:9:0: C0304: Final newline missing (missing-final-newline)
+1437-check-if-all-1s-are-at-least-length-k-places-away.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1437-check-if-all-1s-are-at-least-length-k-places-away.py:1:0: C0103: Module name "1437-check-if-all-1s-are-at-least-length-k-places-away" doesn't conform to snake_case naming style (invalid-name)
+1437-check-if-all-1s-are-at-least-length-k-places-away.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1437-check-if-all-1s-are-at-least-length-k-places-away.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1437-check-if-all-1s-are-at-least-length-k-places-away.py:2:4: C0103: Method name "kLengthApart" doesn't conform to snake_case naming style (invalid-name)
+1437-check-if-all-1s-are-at-least-length-k-places-away.py:2:33: E0602: Undefined variable 'List' (undefined-variable)
+1437-check-if-all-1s-are-at-least-length-k-places-away.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

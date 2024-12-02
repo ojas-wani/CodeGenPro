@@ -1,0 +1,14 @@
+************* Module 1221-split-a-string-in-balanced-strings
+1221-split-a-string-in-balanced-strings.py:12:0: C0304: Final newline missing (missing-final-newline)
+1221-split-a-string-in-balanced-strings.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1221-split-a-string-in-balanced-strings.py:1:0: C0103: Module name "1221-split-a-string-in-balanced-strings" doesn't conform to snake_case naming style (invalid-name)
+1221-split-a-string-in-balanced-strings.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1221-split-a-string-in-balanced-strings.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1221-split-a-string-in-balanced-strings.py:2:4: C0103: Method name "balancedStringSplit" doesn't conform to snake_case naming style (invalid-name)
+1221-split-a-string-in-balanced-strings.py:2:34: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1221-split-a-string-in-balanced-strings.py:5:12: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+1221-split-a-string-in-balanced-strings.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 1.82/10 (previous run: 0.00/10, +1.82)
+

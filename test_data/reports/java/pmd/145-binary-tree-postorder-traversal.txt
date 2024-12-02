@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\145-binary-tree-postorder-traversal.java:1:	CommentSize:	Comment is too large: Too many lines
+LLM-Improved-Code-Quality\test_data\temp2\code\java\145-binary-tree-postorder-traversal.java:16:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\145-binary-tree-postorder-traversal.java:16:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\145-binary-tree-postorder-traversal.java:17:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\145-binary-tree-postorder-traversal.java:17:	MethodArgumentCouldBeFinal:	Parameter 'root' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\145-binary-tree-postorder-traversal.java:18:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\145-binary-tree-postorder-traversal.java:20:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\145-binary-tree-postorder-traversal.java:23:	LocalVariableCouldBeFinal:	Local variable 'stack' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\145-binary-tree-postorder-traversal.java:26:	LocalVariableCouldBeFinal:	Local variable 'node' could be declared final

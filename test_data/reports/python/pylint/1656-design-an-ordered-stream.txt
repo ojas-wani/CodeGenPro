@@ -1,0 +1,15 @@
+************* Module 1656-design-an-ordered-stream
+1656-design-an-ordered-stream.py:5:0: C0303: Trailing whitespace (trailing-whitespace)
+1656-design-an-ordered-stream.py:13:0: C0304: Final newline missing (missing-final-newline)
+1656-design-an-ordered-stream.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1656-design-an-ordered-stream.py:1:0: C0103: Module name "1656-design-an-ordered-stream" doesn't conform to snake_case naming style (invalid-name)
+1656-design-an-ordered-stream.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1656-design-an-ordered-stream.py:3:23: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+1656-design-an-ordered-stream.py:7:4: C0116: Missing function or method docstring (missing-function-docstring)
+1656-design-an-ordered-stream.py:7:21: C0103: Argument name "idKey" doesn't conform to snake_case naming style (invalid-name)
+1656-design-an-ordered-stream.py:7:48: E0602: Undefined variable 'List' (undefined-variable)
+1656-design-an-ordered-stream.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

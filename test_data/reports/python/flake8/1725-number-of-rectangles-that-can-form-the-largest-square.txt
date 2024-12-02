@@ -1,0 +1,3 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1725-number-of-rectangles-that-can-form-the-largest-square.py:2:47: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1725-number-of-rectangles-that-can-form-the-largest-square.py:2:52: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1725-number-of-rectangles-that-can-form-the-largest-square.py:12:21: W292 no newline at end of file

@@ -1,0 +1,20 @@
+************* Module 112-path-sum
+112-path-sum.py:12:0: C0303: Trailing whitespace (trailing-whitespace)
+112-path-sum.py:15:0: C0303: Trailing whitespace (trailing-whitespace)
+112-path-sum.py:17:0: C0303: Trailing whitespace (trailing-whitespace)
+112-path-sum.py:18:0: C0304: Final newline missing (missing-final-newline)
+112-path-sum.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+112-path-sum.py:1:0: C0103: Module name "112-path-sum" doesn't conform to snake_case naming style (invalid-name)
+112-path-sum.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+112-path-sum.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+112-path-sum.py:8:0: C0115: Missing class docstring (missing-class-docstring)
+112-path-sum.py:9:4: C0116: Missing function or method docstring (missing-function-docstring)
+112-path-sum.py:9:4: C0103: Method name "hasPathSum" doesn't conform to snake_case naming style (invalid-name)
+112-path-sum.py:9:51: C0103: Argument name "targetSum" doesn't conform to snake_case naming style (invalid-name)
+112-path-sum.py:9:31: E0602: Undefined variable 'Optional' (undefined-variable)
+112-path-sum.py:9:40: E0602: Undefined variable 'TreeNode' (undefined-variable)
+112-path-sum.py:8:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

@@ -1,0 +1,15 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:2:	MethodArgumentCouldBeFinal:	Parameter 'text' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:3:	LocalVariableCouldBeFinal:	Local variable 'words' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:4:	LocalVariableCouldBeFinal:	Local variable 'totalSpaces' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:5:	LocalVariableCouldBeFinal:	Local variable 'wordsCount' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:7:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:8:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:11:	LongVariable:	Avoid excessively long variable names like spacesBetweenWords
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:11:	LocalVariableCouldBeFinal:	Local variable 'spacesBetweenWords' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:14:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:15:	LocalVariableCouldBeFinal:	Local variable 'word' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1592-rearrange-spaces-between-words.java:18:	ControlStatementBraces:	This statement should have braces

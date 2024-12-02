@@ -1,0 +1,1 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1603-design-parking-system.py:6:14: E999 SyntaxError: invalid syntax

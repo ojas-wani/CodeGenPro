@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1207-unique-number-of-occurrences.java:4:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1207-unique-number-of-occurrences.java:4:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1207-unique-number-of-occurrences.java:4:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1207-unique-number-of-occurrences.java:5:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1207-unique-number-of-occurrences.java:5:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1207-unique-number-of-occurrences.java:5:	MethodArgumentCouldBeFinal:	Parameter 'arr' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1207-unique-number-of-occurrences.java:6:	UseConcurrentHashMap:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1207-unique-number-of-occurrences.java:6:	LocalVariableCouldBeFinal:	Local variable 'countMap' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1207-unique-number-of-occurrences.java:8:	LocalVariableCouldBeFinal:	Local variable 'num' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1207-unique-number-of-occurrences.java:16:	LocalVariableCouldBeFinal:	Local variable 'entry' could be declared final

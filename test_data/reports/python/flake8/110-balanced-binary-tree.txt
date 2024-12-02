@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/110-balanced-binary-tree.py:2:32: F821 undefined name 'Optional'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/110-balanced-binary-tree.py:2:41: F821 undefined name 'TreeNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/110-balanced-binary-tree.py:5:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/110-balanced-binary-tree.py:9:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/110-balanced-binary-tree.py:13:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/110-balanced-binary-tree.py:17:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/110-balanced-binary-tree.py:20:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/110-balanced-binary-tree.py:22:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/110-balanced-binary-tree.py:23:39: W292 no newline at end of file

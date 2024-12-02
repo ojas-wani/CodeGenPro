@@ -1,0 +1,13 @@
+************* Module 020-valid-parentheses
+020-valid-parentheses.py:15:0: C0304: Final newline missing (missing-final-newline)
+020-valid-parentheses.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+020-valid-parentheses.py:1:0: C0103: Module name "020-valid-parentheses" doesn't conform to snake_case naming style (invalid-name)
+020-valid-parentheses.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+020-valid-parentheses.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+020-valid-parentheses.py:2:4: C0103: Method name "isValid" doesn't conform to snake_case naming style (invalid-name)
+020-valid-parentheses.py:2:22: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+020-valid-parentheses.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 3.85/10 (previous run: 2.00/10, +1.85)
+

@@ -1,0 +1,14 @@
+************* Module 1652-defuse-the-bomb
+1652-defuse-the-bomb.py:4:0: C0304: Final newline missing (missing-final-newline)
+1652-defuse-the-bomb.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1652-defuse-the-bomb.py:1:0: C0103: Module name "1652-defuse-the-bomb" doesn't conform to snake_case naming style (invalid-name)
+1652-defuse-the-bomb.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1652-defuse-the-bomb.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1652-defuse-the-bomb.py:2:28: E0602: Undefined variable 'List' (undefined-variable)
+1652-defuse-the-bomb.py:2:50: E0602: Undefined variable 'List' (undefined-variable)
+1652-defuse-the-bomb.py:3:8: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+1652-defuse-the-bomb.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

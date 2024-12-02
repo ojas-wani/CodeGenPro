@@ -1,0 +1,11 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:2:	MethodArgumentCouldBeFinal:	Parameter 'command' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:3:	LocalVariableCouldBeFinal:	Local variable 'res' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:5:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:7:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:8:	ShortVariable:	Avoid variables with short names like j
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:12:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1678-goal-parser-interpretation.java:14:	AvoidReassigningLoopVariables:	Avoid reassigning the loop control variable 'i'

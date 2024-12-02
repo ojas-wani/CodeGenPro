@@ -1,0 +1,3 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1880-check-if-word-equals-summation-of-two-words.py:2:80: E501 line too long (83 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1880-check-if-word-equals-summation-of-two-words.py:6:80: E501 line too long (114 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1880-check-if-word-equals-summation-of-two-words.py:6:115: W292 no newline at end of file

@@ -1,0 +1,8 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1812-determine-color-of-a-chessboard-square.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1812-determine-color-of-a-chessboard-square.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1812-determine-color-of-a-chessboard-square.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1812-determine-color-of-a-chessboard-square.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1812-determine-color-of-a-chessboard-square.java:2:	MethodArgumentCouldBeFinal:	Parameter 'coordinates' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1812-determine-color-of-a-chessboard-square.java:3:	LocalVariableCouldBeFinal:	Local variable 'col' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1812-determine-color-of-a-chessboard-square.java:4:	LocalVariableCouldBeFinal:	Local variable 'row' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1812-determine-color-of-a-chessboard-square.java:4:	AddEmptyString:	Do not add empty strings

@@ -1,0 +1,24 @@
+************* Module 160-intersection-of-two-linked-lists
+160-intersection-of-two-linked-lists.py:20:0: C0304: Final newline missing (missing-final-newline)
+160-intersection-of-two-linked-lists.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+160-intersection-of-two-linked-lists.py:1:0: C0103: Module name "160-intersection-of-two-linked-lists" doesn't conform to snake_case naming style (invalid-name)
+160-intersection-of-two-linked-lists.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+160-intersection-of-two-linked-lists.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+160-intersection-of-two-linked-lists.py:2:4: C0103: Method name "getIntersectionNode" doesn't conform to snake_case naming style (invalid-name)
+160-intersection-of-two-linked-lists.py:2:34: C0103: Argument name "headA" doesn't conform to snake_case naming style (invalid-name)
+160-intersection-of-two-linked-lists.py:2:51: C0103: Argument name "headB" doesn't conform to snake_case naming style (invalid-name)
+160-intersection-of-two-linked-lists.py:2:41: E0602: Undefined variable 'ListNode' (undefined-variable)
+160-intersection-of-two-linked-lists.py:2:58: E0602: Undefined variable 'ListNode' (undefined-variable)
+160-intersection-of-two-linked-lists.py:2:71: E0602: Undefined variable 'Optional' (undefined-variable)
+160-intersection-of-two-linked-lists.py:2:80: E0602: Undefined variable 'ListNode' (undefined-variable)
+160-intersection-of-two-linked-lists.py:6:8: C0103: Variable name "pA" doesn't conform to snake_case naming style (invalid-name)
+160-intersection-of-two-linked-lists.py:7:8: C0103: Variable name "pB" doesn't conform to snake_case naming style (invalid-name)
+160-intersection-of-two-linked-lists.py:11:16: C0103: Variable name "pA" doesn't conform to snake_case naming style (invalid-name)
+160-intersection-of-two-linked-lists.py:13:16: C0103: Variable name "pA" doesn't conform to snake_case naming style (invalid-name)
+160-intersection-of-two-linked-lists.py:16:16: C0103: Variable name "pB" doesn't conform to snake_case naming style (invalid-name)
+160-intersection-of-two-linked-lists.py:18:16: C0103: Variable name "pB" doesn't conform to snake_case naming style (invalid-name)
+160-intersection-of-two-linked-lists.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

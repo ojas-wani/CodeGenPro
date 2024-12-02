@@ -1,0 +1,4 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1848-minimum-distance-to-the-target-element.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1848-minimum-distance-to-the-target-element.py:2:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1848-minimum-distance-to-the-target-element.py:3:36: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1848-minimum-distance-to-the-target-element.py:8:22: W292 no newline at end of file

@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1652-defuse-the-bomb.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1652-defuse-the-bomb.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1652-defuse-the-bomb.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1652-defuse-the-bomb.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1652-defuse-the-bomb.java:2:	MethodArgumentCouldBeFinal:	Parameter 'code' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1652-defuse-the-bomb.java:2:	ShortVariable:	Avoid variables with short names like k
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1652-defuse-the-bomb.java:2:	MethodArgumentCouldBeFinal:	Parameter 'k' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1652-defuse-the-bomb.java:3:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1652-defuse-the-bomb.java:3:	LocalVariableCouldBeFinal:	Local variable 'n' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1652-defuse-the-bomb.java:4:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final

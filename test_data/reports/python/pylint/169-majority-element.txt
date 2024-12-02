@@ -1,0 +1,13 @@
+************* Module 169-majority-element
+169-majority-element.py:13:0: C0304: Final newline missing (missing-final-newline)
+169-majority-element.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+169-majority-element.py:1:0: C0103: Module name "169-majority-element" doesn't conform to snake_case naming style (invalid-name)
+169-majority-element.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+169-majority-element.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+169-majority-element.py:2:4: C0103: Method name "majorityElement" doesn't conform to snake_case naming style (invalid-name)
+169-majority-element.py:2:36: E0602: Undefined variable 'List' (undefined-variable)
+169-majority-element.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

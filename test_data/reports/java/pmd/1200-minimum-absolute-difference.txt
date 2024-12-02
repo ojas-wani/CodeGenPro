@@ -1,0 +1,8 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1200-minimum-absolute-difference.java:3:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1200-minimum-absolute-difference.java:3:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1200-minimum-absolute-difference.java:3:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1200-minimum-absolute-difference.java:4:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1200-minimum-absolute-difference.java:4:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1200-minimum-absolute-difference.java:4:	MethodArgumentCouldBeFinal:	Parameter 'arr' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1200-minimum-absolute-difference.java:6:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1200-minimum-absolute-difference.java:9:	LocalVariableCouldBeFinal:	Local variable 'diff' could be declared final

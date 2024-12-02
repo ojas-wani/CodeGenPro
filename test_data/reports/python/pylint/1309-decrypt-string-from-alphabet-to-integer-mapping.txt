@@ -1,0 +1,13 @@
+************* Module 1309-decrypt-string-from-alphabet-to-integer-mapping
+1309-decrypt-string-from-alphabet-to-integer-mapping.py:12:0: C0304: Final newline missing (missing-final-newline)
+1309-decrypt-string-from-alphabet-to-integer-mapping.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1309-decrypt-string-from-alphabet-to-integer-mapping.py:1:0: C0103: Module name "1309-decrypt-string-from-alphabet-to-integer-mapping" doesn't conform to snake_case naming style (invalid-name)
+1309-decrypt-string-from-alphabet-to-integer-mapping.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1309-decrypt-string-from-alphabet-to-integer-mapping.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1309-decrypt-string-from-alphabet-to-integer-mapping.py:2:4: C0103: Method name "freqAlphabets" doesn't conform to snake_case naming style (invalid-name)
+1309-decrypt-string-from-alphabet-to-integer-mapping.py:2:28: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1309-decrypt-string-from-alphabet-to-integer-mapping.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 2.73/10 (previous run: 1.00/10, +1.73)
+

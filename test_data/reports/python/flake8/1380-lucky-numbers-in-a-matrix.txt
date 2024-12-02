@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1380-lucky-numbers-in-a-matrix.py:3:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1380-lucky-numbers-in-a-matrix.py:4:21: E211 whitespace before '('
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1380-lucky-numbers-in-a-matrix.py:7:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1380-lucky-numbers-in-a-matrix.py:10:13: F841 local variable 'min_idx' is assigned to but never used
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1380-lucky-numbers-in-a-matrix.py:11:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1380-lucky-numbers-in-a-matrix.py:13:80: E501 line too long (81 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1380-lucky-numbers-in-a-matrix.py:16:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1380-lucky-numbers-in-a-matrix.py:19:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1380-lucky-numbers-in-a-matrix.py:20:38: W292 no newline at end of file

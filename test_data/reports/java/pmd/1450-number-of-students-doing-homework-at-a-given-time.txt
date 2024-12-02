@@ -1,0 +1,7 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:2:	MethodArgumentCouldBeFinal:	Parameter 'startTime' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:2:	MethodArgumentCouldBeFinal:	Parameter 'endTime' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1450-number-of-students-doing-homework-at-a-given-time.java:2:	MethodArgumentCouldBeFinal:	Parameter 'queryTime' is not assigned and could be declared final

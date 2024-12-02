@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\118-pascals-triangle.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\118-pascals-triangle.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\118-pascals-triangle.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\118-pascals-triangle.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\118-pascals-triangle.java:2:	MethodArgumentCouldBeFinal:	Parameter 'numRows' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\118-pascals-triangle.java:3:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\118-pascals-triangle.java:5:	LocalVariableCouldBeFinal:	Local variable 'row' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\118-pascals-triangle.java:5:	AvoidInstantiatingObjectsInLoops:	Avoid instantiating new objects inside loops
+LLM-Improved-Code-Quality\test_data\temp2\code\java\118-pascals-triangle.java:8:	LocalVariableCouldBeFinal:	Local variable 'prevRow' could be declared final

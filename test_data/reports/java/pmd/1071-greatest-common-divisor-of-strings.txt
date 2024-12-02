@@ -1,0 +1,13 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1071-greatest-common-divisor-of-strings.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1071-greatest-common-divisor-of-strings.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1071-greatest-common-divisor-of-strings.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1071-greatest-common-divisor-of-strings.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1071-greatest-common-divisor-of-strings.java:2:	MethodArgumentCouldBeFinal:	Parameter 'str1' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1071-greatest-common-divisor-of-strings.java:2:	MethodArgumentCouldBeFinal:	Parameter 'str2' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1071-greatest-common-divisor-of-strings.java:4:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1071-greatest-common-divisor-of-strings.java:6:	LocalVariableCouldBeFinal:	Local variable 'gcd' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1071-greatest-common-divisor-of-strings.java:10:	ShortVariable:	Avoid variables with short names like a
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1071-greatest-common-divisor-of-strings.java:10:	MethodArgumentCouldBeFinal:	Parameter 'a' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1071-greatest-common-divisor-of-strings.java:10:	ShortVariable:	Avoid variables with short names like b
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1071-greatest-common-divisor-of-strings.java:10:	MethodArgumentCouldBeFinal:	Parameter 'b' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1071-greatest-common-divisor-of-strings.java:12:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

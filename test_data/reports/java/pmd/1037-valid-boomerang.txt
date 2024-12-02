@@ -1,0 +1,22 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:2:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:2:	MethodArgumentCouldBeFinal:	Parameter 'points' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:3:	ShortVariable:	Avoid variables with short names like x1
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:3:	LocalVariableCouldBeFinal:	Local variable 'x1' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:4:	ShortVariable:	Avoid variables with short names like y1
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:4:	LocalVariableCouldBeFinal:	Local variable 'y1' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:5:	ShortVariable:	Avoid variables with short names like x2
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:5:	LocalVariableCouldBeFinal:	Local variable 'x2' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:6:	ShortVariable:	Avoid variables with short names like y2
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:6:	LocalVariableCouldBeFinal:	Local variable 'y2' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:7:	ShortVariable:	Avoid variables with short names like x3
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:7:	LocalVariableCouldBeFinal:	Local variable 'x3' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:8:	ShortVariable:	Avoid variables with short names like y3
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:8:	LocalVariableCouldBeFinal:	Local variable 'y3' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:12:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:16:	SimplifyBooleanReturns:	This if statement can be replaced by `return !{condition};`
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:16:	UselessParentheses:	Useless parentheses.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1037-valid-boomerang.java:17:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

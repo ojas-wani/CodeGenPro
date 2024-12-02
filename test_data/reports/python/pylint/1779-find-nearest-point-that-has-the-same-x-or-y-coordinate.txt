@@ -1,0 +1,16 @@
+************* Module 1779-find-nearest-point-that-has-the-same-x-or-y-coordinate
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:13:0: C0304: Final newline missing (missing-final-newline)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:1:0: C0103: Module name "1779-find-nearest-point-that-has-the-same-x-or-y-coordinate" doesn't conform to snake_case naming style (invalid-name)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:4:4: C0116: Missing function or method docstring (missing-function-docstring)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:4:4: C0103: Method name "nearestValidPoint" doesn't conform to snake_case naming style (invalid-name)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:4:32: C0103: Argument name "x" doesn't conform to snake_case naming style (invalid-name)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:4:40: C0103: Argument name "y" doesn't conform to snake_case naming style (invalid-name)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:7:16: C0103: Variable name "px" doesn't conform to snake_case naming style (invalid-name)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:7:20: C0103: Variable name "py" doesn't conform to snake_case naming style (invalid-name)
+1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.83/10
+

@@ -1,0 +1,16 @@
+************* Module 088-merge-sorted-array
+088-merge-sorted-array.py:9:0: C0303: Trailing whitespace (trailing-whitespace)
+088-merge-sorted-array.py:18:0: C0303: Trailing whitespace (trailing-whitespace)
+088-merge-sorted-array.py:22:0: C0304: Final newline missing (missing-final-newline)
+088-merge-sorted-array.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+088-merge-sorted-array.py:1:0: C0103: Module name "088-merge-sorted-array" doesn't conform to snake_case naming style (invalid-name)
+088-merge-sorted-array.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+088-merge-sorted-array.py:2:38: C0103: Argument name "m" doesn't conform to snake_case naming style (invalid-name)
+088-merge-sorted-array.py:2:64: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+088-merge-sorted-array.py:2:27: E0602: Undefined variable 'List' (undefined-variable)
+088-merge-sorted-array.py:2:53: E0602: Undefined variable 'List' (undefined-variable)
+088-merge-sorted-array.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

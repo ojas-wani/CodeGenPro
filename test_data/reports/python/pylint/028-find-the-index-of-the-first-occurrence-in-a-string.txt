@@ -1,0 +1,14 @@
+************* Module 028-find-the-index-of-the-first-occurrence-in-a-string
+028-find-the-index-of-the-first-occurrence-in-a-string.py:8:0: C0304: Final newline missing (missing-final-newline)
+028-find-the-index-of-the-first-occurrence-in-a-string.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+028-find-the-index-of-the-first-occurrence-in-a-string.py:1:0: C0103: Module name "028-find-the-index-of-the-first-occurrence-in-a-string" doesn't conform to snake_case naming style (invalid-name)
+028-find-the-index-of-the-first-occurrence-in-a-string.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+028-find-the-index-of-the-first-occurrence-in-a-string.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+028-find-the-index-of-the-first-occurrence-in-a-string.py:2:0: C0115: Missing class docstring (missing-class-docstring)
+028-find-the-index-of-the-first-occurrence-in-a-string.py:3:4: C0116: Missing function or method docstring (missing-function-docstring)
+028-find-the-index-of-the-first-occurrence-in-a-string.py:3:4: C0103: Method name "strStr" doesn't conform to snake_case naming style (invalid-name)
+028-find-the-index-of-the-first-occurrence-in-a-string.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

@@ -1,0 +1,13 @@
+************* Module 136-single-number
+136-single-number.py:6:0: C0304: Final newline missing (missing-final-newline)
+136-single-number.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+136-single-number.py:1:0: C0103: Module name "136-single-number" doesn't conform to snake_case naming style (invalid-name)
+136-single-number.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+136-single-number.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+136-single-number.py:2:4: C0103: Method name "singleNumber" doesn't conform to snake_case naming style (invalid-name)
+136-single-number.py:2:33: E0602: Undefined variable 'List' (undefined-variable)
+136-single-number.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

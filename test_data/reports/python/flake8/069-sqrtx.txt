@@ -1,0 +1,3 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/069-sqrtx.py:5:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/069-sqrtx.py:15:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/069-sqrtx.py:16:19: W292 no newline at end of file

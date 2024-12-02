@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\191-number-of-1-bits.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\191-number-of-1-bits.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\191-number-of-1-bits.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\191-number-of-1-bits.java:3:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\191-number-of-1-bits.java:3:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\code\java\191-number-of-1-bits.java:3:	MethodArgumentCouldBeFinal:	Parameter 'n' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\191-number-of-1-bits.java:4:	LocalVariableCouldBeFinal:	Local variable 'binary' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\191-number-of-1-bits.java:6:	LocalVariableCouldBeFinal:	Local variable 'c' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\191-number-of-1-bits.java:7:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements

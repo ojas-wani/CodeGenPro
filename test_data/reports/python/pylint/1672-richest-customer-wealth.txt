@@ -1,0 +1,14 @@
+************* Module 1672-richest-customer-wealth
+1672-richest-customer-wealth.py:7:0: C0304: Final newline missing (missing-final-newline)
+1672-richest-customer-wealth.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1672-richest-customer-wealth.py:1:0: C0103: Module name "1672-richest-customer-wealth" doesn't conform to snake_case naming style (invalid-name)
+1672-richest-customer-wealth.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1672-richest-customer-wealth.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1672-richest-customer-wealth.py:2:4: C0103: Method name "maximumWealth" doesn't conform to snake_case naming style (invalid-name)
+1672-richest-customer-wealth.py:2:38: E0602: Undefined variable 'List' (undefined-variable)
+1672-richest-customer-wealth.py:2:43: E0602: Undefined variable 'List' (undefined-variable)
+1672-richest-customer-wealth.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

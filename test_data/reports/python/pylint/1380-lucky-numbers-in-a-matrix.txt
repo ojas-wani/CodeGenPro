@@ -1,0 +1,19 @@
+************* Module 1380-lucky-numbers-in-a-matrix
+1380-lucky-numbers-in-a-matrix.py:7:0: C0303: Trailing whitespace (trailing-whitespace)
+1380-lucky-numbers-in-a-matrix.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+1380-lucky-numbers-in-a-matrix.py:16:0: C0303: Trailing whitespace (trailing-whitespace)
+1380-lucky-numbers-in-a-matrix.py:20:0: C0304: Final newline missing (missing-final-newline)
+1380-lucky-numbers-in-a-matrix.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1380-lucky-numbers-in-a-matrix.py:1:0: C0103: Module name "1380-lucky-numbers-in-a-matrix" doesn't conform to snake_case naming style (invalid-name)
+1380-lucky-numbers-in-a-matrix.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1380-lucky-numbers-in-a-matrix.py:4:4: C0116: Missing function or method docstring (missing-function-docstring)
+1380-lucky-numbers-in-a-matrix.py:4:4: C0103: Method name "luckyNumbers" doesn't conform to snake_case naming style (invalid-name)
+1380-lucky-numbers-in-a-matrix.py:5:8: C0103: Variable name "m" doesn't conform to snake_case naming style (invalid-name)
+1380-lucky-numbers-in-a-matrix.py:5:11: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+1380-lucky-numbers-in-a-matrix.py:10:12: W0612: Unused variable 'min_idx' (unused-variable)
+1380-lucky-numbers-in-a-matrix.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+1380-lucky-numbers-in-a-matrix.py:19:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 0.67/10
+

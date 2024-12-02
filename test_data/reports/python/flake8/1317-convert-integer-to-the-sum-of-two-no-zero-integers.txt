@@ -1,0 +1,2 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1317-convert-integer-to-the-sum-of-two-no-zero-integers.py:2:44: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1317-convert-integer-to-the-sum-of-two-no-zero-integers.py:5:34: W292 no newline at end of file

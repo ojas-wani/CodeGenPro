@@ -1,0 +1,19 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:2:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:2:	MethodArgumentCouldBeFinal:	Parameter 'coordinates' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:3:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:3:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:3:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:4:	ShortVariable:	Avoid variables with short names like dx
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:4:	LocalVariableCouldBeFinal:	Local variable 'dx' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:5:	ShortVariable:	Avoid variables with short names like dy
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:5:	LocalVariableCouldBeFinal:	Local variable 'dy' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:7:	ShortVariable:	Avoid variables with short names like nx
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:7:	LocalVariableCouldBeFinal:	Local variable 'nx' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:8:	ShortVariable:	Avoid variables with short names like ny
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:8:	LocalVariableCouldBeFinal:	Local variable 'ny' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:9:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1232-check-if-it-is-a-straight-line.java:9:	ControlStatementBraces:	This statement should have braces

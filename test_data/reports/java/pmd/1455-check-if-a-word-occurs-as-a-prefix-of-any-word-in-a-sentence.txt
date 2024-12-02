@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:2:	LinguisticNaming:	Linguistics Antipattern - The method 'isPrefixOfWord' indicates linguistically it returns a boolean, but it returns 'int'
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:2:	MethodArgumentCouldBeFinal:	Parameter 'sentence' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:2:	MethodArgumentCouldBeFinal:	Parameter 'searchWord' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:3:	LocalVariableCouldBeFinal:	Local variable 'words' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.java:6:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method

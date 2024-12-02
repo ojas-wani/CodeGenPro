@@ -1,0 +1,19 @@
+************* Module 1710-maximum-units-on-a-truck
+1710-maximum-units-on-a-truck.py:15:0: C0304: Final newline missing (missing-final-newline)
+1710-maximum-units-on-a-truck.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1710-maximum-units-on-a-truck.py:1:0: C0103: Module name "1710-maximum-units-on-a-truck" doesn't conform to snake_case naming style (invalid-name)
+1710-maximum-units-on-a-truck.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1710-maximum-units-on-a-truck.py:4:4: C0116: Missing function or method docstring (missing-function-docstring)
+1710-maximum-units-on-a-truck.py:4:4: C0103: Method name "maximumUnits" doesn't conform to snake_case naming style (invalid-name)
+1710-maximum-units-on-a-truck.py:4:27: C0103: Argument name "boxTypes" doesn't conform to snake_case naming style (invalid-name)
+1710-maximum-units-on-a-truck.py:4:54: C0103: Argument name "truckSize" doesn't conform to snake_case naming style (invalid-name)
+1710-maximum-units-on-a-truck.py:6:8: C0103: Variable name "totalUnits" doesn't conform to snake_case naming style (invalid-name)
+1710-maximum-units-on-a-truck.py:7:12: C0103: Variable name "numBoxes" doesn't conform to snake_case naming style (invalid-name)
+1710-maximum-units-on-a-truck.py:7:22: C0103: Variable name "numUnits" doesn't conform to snake_case naming style (invalid-name)
+1710-maximum-units-on-a-truck.py:9:16: C0103: Variable name "totalUnits" doesn't conform to snake_case naming style (invalid-name)
+1710-maximum-units-on-a-truck.py:12:16: C0103: Variable name "totalUnits" doesn't conform to snake_case naming style (invalid-name)
+1710-maximum-units-on-a-truck.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

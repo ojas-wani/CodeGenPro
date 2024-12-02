@@ -1,0 +1,17 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:3:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:3:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:3:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:4:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:4:	CognitiveComplexity:	The method 'mostVisited(int, int[])' has a cognitive complexity of 27, current threshold is 15
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:4:	CyclomaticComplexity:	The method 'mostVisited(int, int[])' has a cyclomatic complexity of 12.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:4:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:4:	MethodArgumentCouldBeFinal:	Parameter 'n' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:4:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:4:	MethodArgumentCouldBeFinal:	Parameter 'rounds' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:5:	LocalVariableCouldBeFinal:	Local variable 'res' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:9:	LocalVariableCouldBeFinal:	Local variable 'count' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:14:	LocalVariableCouldBeFinal:	Local variable 'start' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:15:	LocalVariableCouldBeFinal:	Local variable 'end' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:17:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:26:	CommentSize:	Comment is too large: Line too long
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1560-most-visited-sector-in-a-circular-track.java:35:	CommentSize:	Comment is too large: Line too long

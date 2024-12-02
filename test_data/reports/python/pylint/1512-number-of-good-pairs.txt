@@ -1,0 +1,13 @@
+************* Module 1512-number-of-good-pairs
+1512-number-of-good-pairs.py:10:0: C0304: Final newline missing (missing-final-newline)
+1512-number-of-good-pairs.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1512-number-of-good-pairs.py:1:0: C0103: Module name "1512-number-of-good-pairs" doesn't conform to snake_case naming style (invalid-name)
+1512-number-of-good-pairs.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1512-number-of-good-pairs.py:4:4: C0116: Missing function or method docstring (missing-function-docstring)
+1512-number-of-good-pairs.py:4:4: C0103: Method name "numIdenticalPairs" doesn't conform to snake_case naming style (invalid-name)
+1512-number-of-good-pairs.py:6:8: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+1512-number-of-good-pairs.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 1.11/10
+

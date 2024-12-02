@@ -1,0 +1,14 @@
+************* Module 1370-increasing-decreasing-string
+1370-increasing-decreasing-string.py:13:0: C0303: Trailing whitespace (trailing-whitespace)
+1370-increasing-decreasing-string.py:20:0: C0304: Final newline missing (missing-final-newline)
+1370-increasing-decreasing-string.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1370-increasing-decreasing-string.py:1:0: C0103: Module name "1370-increasing-decreasing-string" doesn't conform to snake_case naming style (invalid-name)
+1370-increasing-decreasing-string.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1370-increasing-decreasing-string.py:4:4: C0116: Missing function or method docstring (missing-function-docstring)
+1370-increasing-decreasing-string.py:4:4: C0103: Method name "sortString" doesn't conform to snake_case naming style (invalid-name)
+1370-increasing-decreasing-string.py:4:25: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1370-increasing-decreasing-string.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 4.00/10 (previous run: 2.86/10, +1.14)
+

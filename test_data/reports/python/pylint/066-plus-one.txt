@@ -1,0 +1,17 @@
+************* Module 066-plus-one
+066-plus-one.py:10:0: C0304: Final newline missing (missing-final-newline)
+066-plus-one.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+066-plus-one.py:1:0: C0103: Module name "066-plus-one" doesn't conform to snake_case naming style (invalid-name)
+066-plus-one.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+066-plus-one.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+066-plus-one.py:2:0: C0115: Missing class docstring (missing-class-docstring)
+066-plus-one.py:3:4: C0116: Missing function or method docstring (missing-function-docstring)
+066-plus-one.py:3:4: C0103: Method name "plusOne" doesn't conform to snake_case naming style (invalid-name)
+066-plus-one.py:3:30: E0602: Undefined variable 'List' (undefined-variable)
+066-plus-one.py:3:44: E0602: Undefined variable 'List' (undefined-variable)
+066-plus-one.py:5:12: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+066-plus-one.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

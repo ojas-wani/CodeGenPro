@@ -1,0 +1,20 @@
+************* Module 1299-replace-elements-with-greatest-element-on-right-side
+1299-replace-elements-with-greatest-element-on-right-side.py:7:0: C0303: Trailing whitespace (trailing-whitespace)
+1299-replace-elements-with-greatest-element-on-right-side.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+1299-replace-elements-with-greatest-element-on-right-side.py:15:0: C0304: Final newline missing (missing-final-newline)
+1299-replace-elements-with-greatest-element-on-right-side.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1299-replace-elements-with-greatest-element-on-right-side.py:1:0: C0103: Module name "1299-replace-elements-with-greatest-element-on-right-side" doesn't conform to snake_case naming style (invalid-name)
+1299-replace-elements-with-greatest-element-on-right-side.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1299-replace-elements-with-greatest-element-on-right-side.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1299-replace-elements-with-greatest-element-on-right-side.py:2:0: C0115: Missing class docstring (missing-class-docstring)
+1299-replace-elements-with-greatest-element-on-right-side.py:3:4: C0116: Missing function or method docstring (missing-function-docstring)
+1299-replace-elements-with-greatest-element-on-right-side.py:3:4: C0103: Method name "replaceElements" doesn't conform to snake_case naming style (invalid-name)
+1299-replace-elements-with-greatest-element-on-right-side.py:3:35: E0602: Undefined variable 'List' (undefined-variable)
+1299-replace-elements-with-greatest-element-on-right-side.py:3:49: E0602: Undefined variable 'List' (undefined-variable)
+1299-replace-elements-with-greatest-element-on-right-side.py:4:8: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+1299-replace-elements-with-greatest-element-on-right-side.py:9:12: W0612: Unused variable 'temp' (unused-variable)
+1299-replace-elements-with-greatest-element-on-right-side.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

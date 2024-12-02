@@ -1,0 +1,15 @@
+************* Module 014-longest-common-prefix
+014-longest-common-prefix.py:5:0: C0303: Trailing whitespace (trailing-whitespace)
+014-longest-common-prefix.py:12:0: C0303: Trailing whitespace (trailing-whitespace)
+014-longest-common-prefix.py:17:0: C0304: Final newline missing (missing-final-newline)
+014-longest-common-prefix.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+014-longest-common-prefix.py:1:0: C0103: Module name "014-longest-common-prefix" doesn't conform to snake_case naming style (invalid-name)
+014-longest-common-prefix.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+014-longest-common-prefix.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+014-longest-common-prefix.py:2:4: C0103: Method name "longestCommonPrefix" doesn't conform to snake_case naming style (invalid-name)
+014-longest-common-prefix.py:2:40: E0602: Undefined variable 'List' (undefined-variable)
+014-longest-common-prefix.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

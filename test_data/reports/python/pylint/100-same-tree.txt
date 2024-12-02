@@ -1,0 +1,18 @@
+************* Module 100-same-tree
+100-same-tree.py:16:0: C0304: Final newline missing (missing-final-newline)
+100-same-tree.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+100-same-tree.py:1:0: C0103: Module name "100-same-tree" doesn't conform to snake_case naming style (invalid-name)
+100-same-tree.py:8:0: C0115: Missing class docstring (missing-class-docstring)
+100-same-tree.py:9:4: C0116: Missing function or method docstring (missing-function-docstring)
+100-same-tree.py:9:4: C0103: Method name "isSameTree" doesn't conform to snake_case naming style (invalid-name)
+100-same-tree.py:9:25: C0103: Argument name "p" doesn't conform to snake_case naming style (invalid-name)
+100-same-tree.py:9:48: C0103: Argument name "q" doesn't conform to snake_case naming style (invalid-name)
+100-same-tree.py:9:28: E0602: Undefined variable 'Optional' (undefined-variable)
+100-same-tree.py:9:37: E0602: Undefined variable 'TreeNode' (undefined-variable)
+100-same-tree.py:9:51: E0602: Undefined variable 'Optional' (undefined-variable)
+100-same-tree.py:9:60: E0602: Undefined variable 'TreeNode' (undefined-variable)
+100-same-tree.py:8:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

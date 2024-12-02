@@ -1,0 +1,18 @@
+************* Module 1252-cells-with-odd-values-in-a-matrix
+1252-cells-with-odd-values-in-a-matrix.py:13:0: C0304: Final newline missing (missing-final-newline)
+1252-cells-with-odd-values-in-a-matrix.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1252-cells-with-odd-values-in-a-matrix.py:1:0: C0103: Module name "1252-cells-with-odd-values-in-a-matrix" doesn't conform to snake_case naming style (invalid-name)
+1252-cells-with-odd-values-in-a-matrix.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1252-cells-with-odd-values-in-a-matrix.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1252-cells-with-odd-values-in-a-matrix.py:2:4: C0103: Method name "oddCells" doesn't conform to snake_case naming style (invalid-name)
+1252-cells-with-odd-values-in-a-matrix.py:2:23: C0103: Argument name "m" doesn't conform to snake_case naming style (invalid-name)
+1252-cells-with-odd-values-in-a-matrix.py:2:31: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+1252-cells-with-odd-values-in-a-matrix.py:2:48: E0602: Undefined variable 'List' (undefined-variable)
+1252-cells-with-odd-values-in-a-matrix.py:2:53: E0602: Undefined variable 'List' (undefined-variable)
+1252-cells-with-odd-values-in-a-matrix.py:5:12: C0103: Variable name "r" doesn't conform to snake_case naming style (invalid-name)
+1252-cells-with-odd-values-in-a-matrix.py:5:15: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+1252-cells-with-odd-values-in-a-matrix.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

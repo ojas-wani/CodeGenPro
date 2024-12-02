@@ -1,0 +1,4 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1502-can-make-arithmetic-progression-from-sequence.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1502-can-make-arithmetic-progression-from-sequence.py:2:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1502-can-make-arithmetic-progression-from-sequence.py:4:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1502-can-make-arithmetic-progression-from-sequence.py:11:20: W292 no newline at end of file

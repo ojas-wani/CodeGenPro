@@ -1,0 +1,2 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1290-convert-binary-number-in-a-linked-list-to-integer.py:2:37: F821 undefined name 'ListNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1290-convert-binary-number-in-a-linked-list-to-integer.py:7:22: W292 no newline at end of file

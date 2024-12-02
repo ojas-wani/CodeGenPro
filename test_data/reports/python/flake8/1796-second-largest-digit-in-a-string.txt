@@ -1,0 +1,1 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1796-second-largest-digit-in-a-string.py:10:25: W292 no newline at end of file

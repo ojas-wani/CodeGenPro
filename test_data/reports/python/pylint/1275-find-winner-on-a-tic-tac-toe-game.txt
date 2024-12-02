@@ -1,0 +1,14 @@
+************* Module 1275-find-winner-on-a-tic-tac-toe-game
+1275-find-winner-on-a-tic-tac-toe-game.py:13:0: C0303: Trailing whitespace (trailing-whitespace)
+1275-find-winner-on-a-tic-tac-toe-game.py:27:0: C0304: Final newline missing (missing-final-newline)
+1275-find-winner-on-a-tic-tac-toe-game.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1275-find-winner-on-a-tic-tac-toe-game.py:1:0: C0103: Module name "1275-find-winner-on-a-tic-tac-toe-game" doesn't conform to snake_case naming style (invalid-name)
+1275-find-winner-on-a-tic-tac-toe-game.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1275-find-winner-on-a-tic-tac-toe-game.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1275-find-winner-on-a-tic-tac-toe-game.py:2:31: E0602: Undefined variable 'List' (undefined-variable)
+1275-find-winner-on-a-tic-tac-toe-game.py:2:36: E0602: Undefined variable 'List' (undefined-variable)
+1275-find-winner-on-a-tic-tac-toe-game.py:16:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 3.20/10
+

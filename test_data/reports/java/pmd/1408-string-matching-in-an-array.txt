@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1408-string-matching-in-an-array.java:3:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1408-string-matching-in-an-array.java:3:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1408-string-matching-in-an-array.java:3:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1408-string-matching-in-an-array.java:4:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1408-string-matching-in-an-array.java:4:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1408-string-matching-in-an-array.java:4:	MethodArgumentCouldBeFinal:	Parameter 'words' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1408-string-matching-in-an-array.java:5:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1408-string-matching-in-an-array.java:6:	LocalVariableCouldBeFinal:	Local variable 'word1' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1408-string-matching-in-an-array.java:7:	LocalVariableCouldBeFinal:	Local variable 'word2' could be declared final

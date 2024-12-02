@@ -1,0 +1,17 @@
+************* Module 1582-special-positions-in-a-binary-matrix
+1582-special-positions-in-a-binary-matrix.py:19:0: C0304: Final newline missing (missing-final-newline)
+1582-special-positions-in-a-binary-matrix.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1582-special-positions-in-a-binary-matrix.py:1:0: C0103: Module name "1582-special-positions-in-a-binary-matrix" doesn't conform to snake_case naming style (invalid-name)
+1582-special-positions-in-a-binary-matrix.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1582-special-positions-in-a-binary-matrix.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1582-special-positions-in-a-binary-matrix.py:2:4: C0103: Method name "numSpecial" doesn't conform to snake_case naming style (invalid-name)
+1582-special-positions-in-a-binary-matrix.py:2:30: E0602: Undefined variable 'List' (undefined-variable)
+1582-special-positions-in-a-binary-matrix.py:2:35: E0602: Undefined variable 'List' (undefined-variable)
+1582-special-positions-in-a-binary-matrix.py:3:8: C0103: Variable name "m" doesn't conform to snake_case naming style (invalid-name)
+1582-special-positions-in-a-binary-matrix.py:3:11: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+1582-special-positions-in-a-binary-matrix.py:17:16: W0612: Unused variable 'item' (unused-variable)
+1582-special-positions-in-a-binary-matrix.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

@@ -1,0 +1,11 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1773-count-items-matching-a-rule.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1773-count-items-matching-a-rule.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1773-count-items-matching-a-rule.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1773-count-items-matching-a-rule.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1773-count-items-matching-a-rule.java:2:	MethodArgumentCouldBeFinal:	Parameter 'items' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1773-count-items-matching-a-rule.java:2:	MethodArgumentCouldBeFinal:	Parameter 'ruleKey' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1773-count-items-matching-a-rule.java:2:	MethodArgumentCouldBeFinal:	Parameter 'ruleValue' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1773-count-items-matching-a-rule.java:4:	LocalVariableCouldBeFinal:	Local variable 'item' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1773-count-items-matching-a-rule.java:5:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1773-count-items-matching-a-rule.java:7:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1773-count-items-matching-a-rule.java:9:	LiteralsFirstInComparisons:	Position literals first in String comparisons

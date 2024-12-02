@@ -1,0 +1,2 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1331-rank-transform-of-an-array.py:3:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1331-rank-transform-of-an-array.py:10:38: W292 no newline at end of file

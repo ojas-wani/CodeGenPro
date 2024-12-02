@@ -1,0 +1,6 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/083-remove-duplicates-from-sorted-list.py:7:38: F821 undefined name 'Optional'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/083-remove-duplicates-from-sorted-list.py:7:47: F821 undefined name 'ListNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/083-remove-duplicates-from-sorted-list.py:7:61: F821 undefined name 'Optional'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/083-remove-duplicates-from-sorted-list.py:7:70: F821 undefined name 'ListNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/083-remove-duplicates-from-sorted-list.py:8:17: F821 undefined name 'ListNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/083-remove-duplicates-from-sorted-list.py:18:26: W292 no newline at end of file

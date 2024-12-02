@@ -1,0 +1,5 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/111-minimum-depth-of-binary-tree.py:8:30: F821 undefined name 'Optional'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/111-minimum-depth-of-binary-tree.py:8:39: F821 undefined name 'TreeNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/111-minimum-depth-of-binary-tree.py:11:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/111-minimum-depth-of-binary-tree.py:13:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/111-minimum-depth-of-binary-tree.py:21:54: W292 no newline at end of file

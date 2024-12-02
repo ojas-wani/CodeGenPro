@@ -1,0 +1,1 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1784-check-if-binary-string-has-at-most-one-segment-of-ones.py:9:20: W292 no newline at end of file

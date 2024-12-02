@@ -1,0 +1,2 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1342-number-of-steps-to-reduce-a-number-to-zero.py:12:1: E305 expected 2 blank lines after class or function definition, found 1
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1342-number-of-steps-to-reduce-a-number-to-zero.py:15:49: W292 no newline at end of file

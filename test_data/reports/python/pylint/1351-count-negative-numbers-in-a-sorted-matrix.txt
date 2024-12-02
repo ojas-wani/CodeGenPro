@@ -1,0 +1,16 @@
+************* Module 1351-count-negative-numbers-in-a-sorted-matrix
+1351-count-negative-numbers-in-a-sorted-matrix.py:12:0: C0304: Final newline missing (missing-final-newline)
+1351-count-negative-numbers-in-a-sorted-matrix.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1351-count-negative-numbers-in-a-sorted-matrix.py:1:0: C0103: Module name "1351-count-negative-numbers-in-a-sorted-matrix" doesn't conform to snake_case naming style (invalid-name)
+1351-count-negative-numbers-in-a-sorted-matrix.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1351-count-negative-numbers-in-a-sorted-matrix.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1351-count-negative-numbers-in-a-sorted-matrix.py:2:4: C0103: Method name "countNegatives" doesn't conform to snake_case naming style (invalid-name)
+1351-count-negative-numbers-in-a-sorted-matrix.py:2:35: E0602: Undefined variable 'List' (undefined-variable)
+1351-count-negative-numbers-in-a-sorted-matrix.py:2:40: E0602: Undefined variable 'List' (undefined-variable)
+1351-count-negative-numbers-in-a-sorted-matrix.py:3:8: C0103: Variable name "m" doesn't conform to snake_case naming style (invalid-name)
+1351-count-negative-numbers-in-a-sorted-matrix.py:3:11: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+1351-count-negative-numbers-in-a-sorted-matrix.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

@@ -1,0 +1,14 @@
+************* Module 1480-running-sum-of-1d-array
+1480-running-sum-of-1d-array.py:8:0: C0304: Final newline missing (missing-final-newline)
+1480-running-sum-of-1d-array.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1480-running-sum-of-1d-array.py:1:0: C0103: Module name "1480-running-sum-of-1d-array" doesn't conform to snake_case naming style (invalid-name)
+1480-running-sum-of-1d-array.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1480-running-sum-of-1d-array.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1480-running-sum-of-1d-array.py:2:4: C0103: Method name "runningSum" doesn't conform to snake_case naming style (invalid-name)
+1480-running-sum-of-1d-array.py:2:31: E0602: Undefined variable 'List' (undefined-variable)
+1480-running-sum-of-1d-array.py:2:45: E0602: Undefined variable 'List' (undefined-variable)
+1480-running-sum-of-1d-array.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

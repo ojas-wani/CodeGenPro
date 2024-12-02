@@ -1,0 +1,14 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:2:	ShortVariable:	Avoid variables with short names like a
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:2:	MethodArgumentCouldBeFinal:	Parameter 'a' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:2:	ShortVariable:	Avoid variables with short names like b
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:2:	MethodArgumentCouldBeFinal:	Parameter 'b' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:3:	ShortVariable:	Avoid variables with short names like i
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:3:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:3:	ShortVariable:	Avoid variables with short names like j
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:4:	LocalVariableCouldBeFinal:	Local variable 'res' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:8:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\067-add-binary.java:9:	ControlStatementBraces:	This statement should have braces

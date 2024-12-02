@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1725-number-of-rectangles-that-can-form-the-largest-square.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1725-number-of-rectangles-that-can-form-the-largest-square.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1725-number-of-rectangles-that-can-form-the-largest-square.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1725-number-of-rectangles-that-can-form-the-largest-square.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1725-number-of-rectangles-that-can-form-the-largest-square.java:2:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1725-number-of-rectangles-that-can-form-the-largest-square.java:2:	MethodArgumentCouldBeFinal:	Parameter 'rectangles' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1725-number-of-rectangles-that-can-form-the-largest-square.java:3:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1725-number-of-rectangles-that-can-form-the-largest-square.java:4:	LocalVariableCouldBeFinal:	Local variable 'rectangle' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1725-number-of-rectangles-that-can-form-the-largest-square.java:5:	LocalVariableCouldBeFinal:	Local variable 'length' could be declared final

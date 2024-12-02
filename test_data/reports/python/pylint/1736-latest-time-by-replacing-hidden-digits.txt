@@ -1,0 +1,13 @@
+************* Module 1736-latest-time-by-replacing-hidden-digits
+1736-latest-time-by-replacing-hidden-digits.py:14:0: C0304: Final newline missing (missing-final-newline)
+1736-latest-time-by-replacing-hidden-digits.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1736-latest-time-by-replacing-hidden-digits.py:1:0: C0103: Module name "1736-latest-time-by-replacing-hidden-digits" doesn't conform to snake_case naming style (invalid-name)
+1736-latest-time-by-replacing-hidden-digits.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1736-latest-time-by-replacing-hidden-digits.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1736-latest-time-by-replacing-hidden-digits.py:2:4: C0103: Method name "maximumTime" doesn't conform to snake_case naming style (invalid-name)
+1736-latest-time-by-replacing-hidden-digits.py:4:15: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+1736-latest-time-by-replacing-hidden-digits.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 3.85/10
+

@@ -1,0 +1,7 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1491-average-salary-excluding-the-minimum-and-maximum-salary.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1491-average-salary-excluding-the-minimum-and-maximum-salary.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1491-average-salary-excluding-the-minimum-and-maximum-salary.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1491-average-salary-excluding-the-minimum-and-maximum-salary.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1491-average-salary-excluding-the-minimum-and-maximum-salary.java:2:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1491-average-salary-excluding-the-minimum-and-maximum-salary.java:2:	MethodArgumentCouldBeFinal:	Parameter 'salary' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1491-average-salary-excluding-the-minimum-and-maximum-salary.java:8:	LocalVariableCouldBeFinal:	Local variable 'i' could be declared final

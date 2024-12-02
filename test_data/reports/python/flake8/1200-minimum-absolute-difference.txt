@@ -1,0 +1,4 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1200-minimum-absolute-difference.py:3:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1200-minimum-absolute-difference.py:8:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1200-minimum-absolute-difference.py:16:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1200-minimum-absolute-difference.py:17:22: W292 no newline at end of file

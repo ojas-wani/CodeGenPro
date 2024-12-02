@@ -1,0 +1,6 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/101-symmetric-tree.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/101-symmetric-tree.py:8:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/code/python/101-symmetric-tree.py:9:33: F821 undefined name 'Optional'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/101-symmetric-tree.py:9:42: F821 undefined name 'TreeNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/101-symmetric-tree.py:30:80: E501 line too long (103 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/code/python/101-symmetric-tree.py:31:49: W292 no newline at end of file

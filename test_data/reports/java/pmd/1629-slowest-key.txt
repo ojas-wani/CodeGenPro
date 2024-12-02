@@ -1,0 +1,7 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1629-slowest-key.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1629-slowest-key.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1629-slowest-key.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1629-slowest-key.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1629-slowest-key.java:2:	MethodArgumentCouldBeFinal:	Parameter 'releaseTimes' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1629-slowest-key.java:2:	MethodArgumentCouldBeFinal:	Parameter 'keysPressed' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1629-slowest-key.java:6:	LocalVariableCouldBeFinal:	Local variable 'duration' could be declared final

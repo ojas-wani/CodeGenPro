@@ -1,0 +1,14 @@
+************* Module 1720-decode-xored-array
+1720-decode-xored-array.py:6:0: C0304: Final newline missing (missing-final-newline)
+1720-decode-xored-array.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1720-decode-xored-array.py:1:0: C0103: Module name "1720-decode-xored-array" doesn't conform to snake_case naming style (invalid-name)
+1720-decode-xored-array.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1720-decode-xored-array.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1720-decode-xored-array.py:2:30: E0602: Undefined variable 'List' (undefined-variable)
+1720-decode-xored-array.py:2:56: E0602: Undefined variable 'List' (undefined-variable)
+1720-decode-xored-array.py:4:12: C0103: Variable name "e" doesn't conform to snake_case naming style (invalid-name)
+1720-decode-xored-array.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

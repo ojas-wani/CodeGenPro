@@ -1,0 +1,1 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1816-truncate-sentence.py:4:35: W292 no newline at end of file

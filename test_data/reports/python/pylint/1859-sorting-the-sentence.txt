@@ -1,0 +1,15 @@
+************* Module 1859-sorting-the-sentence
+1859-sorting-the-sentence.py:9:0: C0325: Unnecessary parens after '=' keyword (superfluous-parens)
+1859-sorting-the-sentence.py:12:0: C0304: Final newline missing (missing-final-newline)
+1859-sorting-the-sentence.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1859-sorting-the-sentence.py:1:0: C0103: Module name "1859-sorting-the-sentence" doesn't conform to snake_case naming style (invalid-name)
+1859-sorting-the-sentence.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1859-sorting-the-sentence.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1859-sorting-the-sentence.py:2:4: C0103: Method name "sortSentence" doesn't conform to snake_case naming style (invalid-name)
+1859-sorting-the-sentence.py:2:27: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1859-sorting-the-sentence.py:4:15: R1721: Unnecessary use of a comprehension, use list(s.split(' ')) instead. (unnecessary-comprehension)
+1859-sorting-the-sentence.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.91/10
+

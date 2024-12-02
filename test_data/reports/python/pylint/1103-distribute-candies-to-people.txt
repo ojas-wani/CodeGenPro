@@ -1,0 +1,15 @@
+************* Module 1103-distribute-candies-to-people
+1103-distribute-candies-to-people.py:20:0: C0304: Final newline missing (missing-final-newline)
+1103-distribute-candies-to-people.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1103-distribute-candies-to-people.py:1:0: C0103: Module name "1103-distribute-candies-to-people" doesn't conform to snake_case naming style (invalid-name)
+1103-distribute-candies-to-people.py:4:0: C0115: Missing class docstring (missing-class-docstring)
+1103-distribute-candies-to-people.py:5:4: C0116: Missing function or method docstring (missing-function-docstring)
+1103-distribute-candies-to-people.py:5:4: C0103: Method name "distributeCandies" doesn't conform to snake_case naming style (invalid-name)
+1103-distribute-candies-to-people.py:7:8: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+1103-distribute-candies-to-people.py:12:16: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+1103-distribute-candies-to-people.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+1103-distribute-candies-to-people.py:1:0: W0611: Unused inf imported from math (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 4.12/10 (previous run: 0.77/10, +3.35)
+

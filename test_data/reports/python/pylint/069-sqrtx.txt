@@ -1,0 +1,16 @@
+************* Module 069-sqrtx
+069-sqrtx.py:5:0: C0303: Trailing whitespace (trailing-whitespace)
+069-sqrtx.py:15:0: C0303: Trailing whitespace (trailing-whitespace)
+069-sqrtx.py:16:0: C0304: Final newline missing (missing-final-newline)
+069-sqrtx.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+069-sqrtx.py:1:0: C0103: Module name "069-sqrtx" doesn't conform to snake_case naming style (invalid-name)
+069-sqrtx.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+069-sqrtx.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+069-sqrtx.py:2:4: C0103: Method name "mySqrt" doesn't conform to snake_case naming style (invalid-name)
+069-sqrtx.py:2:21: C0103: Argument name "x" doesn't conform to snake_case naming style (invalid-name)
+069-sqrtx.py:9:12: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+069-sqrtx.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 1.54/10 (previous run: 1.54/10, +0.00)
+

@@ -1,0 +1,16 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:2:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:5:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:7:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'mat'
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:8:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:15:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:15:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:15:	MethodArgumentCouldBeFinal:	Parameter 'mat' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:16:	LocalVariableCouldBeFinal:	Local variable 'rotated' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:25:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:25:	UseVarargs:	Consider using varargs for methods or constructors which take an array the last parameter.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:25:	MethodArgumentCouldBeFinal:	Parameter 'mat' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1886-determine-whether-matrix-can-be-obtained-by-rotation.java:26:	LocalVariableCouldBeFinal:	Local variable 'transposed' could be declared final

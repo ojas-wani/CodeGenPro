@@ -1,0 +1,12 @@
+************* Module 1160-find-words-that-can-be-formed-by-characters
+1160-find-words-that-can-be-formed-by-characters.py:12:0: C0304: Final newline missing (missing-final-newline)
+1160-find-words-that-can-be-formed-by-characters.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1160-find-words-that-can-be-formed-by-characters.py:1:0: C0103: Module name "1160-find-words-that-can-be-formed-by-characters" doesn't conform to snake_case naming style (invalid-name)
+1160-find-words-that-can-be-formed-by-characters.py:4:0: C0115: Missing class docstring (missing-class-docstring)
+1160-find-words-that-can-be-formed-by-characters.py:5:4: C0116: Missing function or method docstring (missing-function-docstring)
+1160-find-words-that-can-be-formed-by-characters.py:5:4: C0103: Method name "countCharacters" doesn't conform to snake_case naming style (invalid-name)
+1160-find-words-that-can-be-formed-by-characters.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 3.64/10
+

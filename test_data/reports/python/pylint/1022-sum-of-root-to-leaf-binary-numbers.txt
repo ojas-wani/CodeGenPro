@@ -1,0 +1,18 @@
+************* Module 1022-sum-of-root-to-leaf-binary-numbers
+1022-sum-of-root-to-leaf-binary-numbers.py:13:0: C0303: Trailing whitespace (trailing-whitespace)
+1022-sum-of-root-to-leaf-binary-numbers.py:23:0: C0304: Final newline missing (missing-final-newline)
+1022-sum-of-root-to-leaf-binary-numbers.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1022-sum-of-root-to-leaf-binary-numbers.py:1:0: C0103: Module name "1022-sum-of-root-to-leaf-binary-numbers" doesn't conform to snake_case naming style (invalid-name)
+1022-sum-of-root-to-leaf-binary-numbers.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1022-sum-of-root-to-leaf-binary-numbers.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1022-sum-of-root-to-leaf-binary-numbers.py:8:0: C0115: Missing class docstring (missing-class-docstring)
+1022-sum-of-root-to-leaf-binary-numbers.py:9:4: C0116: Missing function or method docstring (missing-function-docstring)
+1022-sum-of-root-to-leaf-binary-numbers.py:9:4: C0103: Method name "sumRootToLeaf" doesn't conform to snake_case naming style (invalid-name)
+1022-sum-of-root-to-leaf-binary-numbers.py:9:34: E0602: Undefined variable 'Optional' (undefined-variable)
+1022-sum-of-root-to-leaf-binary-numbers.py:9:43: E0602: Undefined variable 'TreeNode' (undefined-variable)
+1022-sum-of-root-to-leaf-binary-numbers.py:14:4: C0116: Missing function or method docstring (missing-function-docstring)
+1022-sum-of-root-to-leaf-binary-numbers.py:10:8: W0201: Attribute 'total' defined outside __init__ (attribute-defined-outside-init)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

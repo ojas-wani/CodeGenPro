@@ -1,0 +1,13 @@
+************* Module 1816-truncate-sentence
+1816-truncate-sentence.py:4:0: C0304: Final newline missing (missing-final-newline)
+1816-truncate-sentence.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1816-truncate-sentence.py:1:0: C0103: Module name "1816-truncate-sentence" doesn't conform to snake_case naming style (invalid-name)
+1816-truncate-sentence.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1816-truncate-sentence.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1816-truncate-sentence.py:2:4: C0103: Method name "truncateSentence" doesn't conform to snake_case naming style (invalid-name)
+1816-truncate-sentence.py:2:31: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1816-truncate-sentence.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

@@ -1,0 +1,15 @@
+************* Module 1790-check-if-one-string-swap-can-make-strings-equal
+1790-check-if-one-string-swap-can-make-strings-equal.py:16:0: C0304: Final newline missing (missing-final-newline)
+1790-check-if-one-string-swap-can-make-strings-equal.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1790-check-if-one-string-swap-can-make-strings-equal.py:1:0: C0103: Module name "1790-check-if-one-string-swap-can-make-strings-equal" doesn't conform to snake_case naming style (invalid-name)
+1790-check-if-one-string-swap-can-make-strings-equal.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1790-check-if-one-string-swap-can-make-strings-equal.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1790-check-if-one-string-swap-can-make-strings-equal.py:2:4: C0103: Method name "areAlmostEqual" doesn't conform to snake_case naming style (invalid-name)
+1790-check-if-one-string-swap-can-make-strings-equal.py:2:29: C0103: Argument name "s1" doesn't conform to snake_case naming style (invalid-name)
+1790-check-if-one-string-swap-can-make-strings-equal.py:2:38: C0103: Argument name "s2" doesn't conform to snake_case naming style (invalid-name)
+1790-check-if-one-string-swap-can-make-strings-equal.py:9:8: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+1790-check-if-one-string-swap-can-make-strings-equal.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 2.31/10
+

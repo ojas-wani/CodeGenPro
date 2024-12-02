@@ -1,0 +1,14 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:2:	CognitiveComplexity:	The method 'modifyString(String)' has a cognitive complexity of 28, current threshold is 15
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:2:	CyclomaticComplexity:	The method 'modifyString(String)' has a cyclomatic complexity of 12.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:2:	NPathComplexity:	The method 'modifyString(String)' has an NPath complexity of 218, current threshold is 200
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:2:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:2:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:3:	LocalVariableCouldBeFinal:	Local variable 'arr' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:5:	AvoidLiteralsInIfCondition:	Avoid using literals in if statements
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:6:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:15:	UnnecessaryCast:	Unnecessary cast (char)
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1576-replace-all-s-to-avoid-consecutive-repeating-characters.java:19:	UnnecessaryCast:	Unnecessary cast (char)

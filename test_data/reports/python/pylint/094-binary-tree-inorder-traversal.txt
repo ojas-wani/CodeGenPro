@@ -1,0 +1,17 @@
+************* Module 094-binary-tree-inorder-traversal
+094-binary-tree-inorder-traversal.py:17:0: C0304: Final newline missing (missing-final-newline)
+094-binary-tree-inorder-traversal.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+094-binary-tree-inorder-traversal.py:1:0: C0103: Module name "094-binary-tree-inorder-traversal" doesn't conform to snake_case naming style (invalid-name)
+094-binary-tree-inorder-traversal.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+094-binary-tree-inorder-traversal.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+094-binary-tree-inorder-traversal.py:8:0: C0115: Missing class docstring (missing-class-docstring)
+094-binary-tree-inorder-traversal.py:9:4: C0116: Missing function or method docstring (missing-function-docstring)
+094-binary-tree-inorder-traversal.py:9:4: C0103: Method name "inorderTraversal" doesn't conform to snake_case naming style (invalid-name)
+094-binary-tree-inorder-traversal.py:9:37: E0602: Undefined variable 'Optional' (undefined-variable)
+094-binary-tree-inorder-traversal.py:9:46: E0602: Undefined variable 'TreeNode' (undefined-variable)
+094-binary-tree-inorder-traversal.py:9:60: E0602: Undefined variable 'List' (undefined-variable)
+094-binary-tree-inorder-traversal.py:8:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

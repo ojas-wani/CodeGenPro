@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\094-binary-tree-inorder-traversal.java:1:	CommentSize:	Comment is too large: Too many lines
+LLM-Improved-Code-Quality\test_data\temp2\code\java\094-binary-tree-inorder-traversal.java:16:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\094-binary-tree-inorder-traversal.java:16:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\094-binary-tree-inorder-traversal.java:17:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\094-binary-tree-inorder-traversal.java:17:	MethodArgumentCouldBeFinal:	Parameter 'root' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\094-binary-tree-inorder-traversal.java:18:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\094-binary-tree-inorder-traversal.java:19:	LocalVariableCouldBeFinal:	Local variable 'stack' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\094-binary-tree-inorder-traversal.java:25:	LawOfDemeter:	Access to field `left` on foreign value `current` (degree 2)
+LLM-Improved-Code-Quality\test_data\temp2\code\java\094-binary-tree-inorder-traversal.java:29:	LawOfDemeter:	Access to field `right` on foreign value `current` (degree 1)

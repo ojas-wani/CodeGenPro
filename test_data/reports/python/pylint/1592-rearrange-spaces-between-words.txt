@@ -1,0 +1,18 @@
+************* Module 1592-rearrange-spaces-between-words
+1592-rearrange-spaces-between-words.py:7:0: C0303: Trailing whitespace (trailing-whitespace)
+1592-rearrange-spaces-between-words.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+1592-rearrange-spaces-between-words.py:18:0: C0303: Trailing whitespace (trailing-whitespace)
+1592-rearrange-spaces-between-words.py:19:0: C0304: Final newline missing (missing-final-newline)
+1592-rearrange-spaces-between-words.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1592-rearrange-spaces-between-words.py:1:0: C0103: Module name "1592-rearrange-spaces-between-words" doesn't conform to snake_case naming style (invalid-name)
+1592-rearrange-spaces-between-words.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1592-rearrange-spaces-between-words.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1592-rearrange-spaces-between-words.py:2:0: C0115: Missing class docstring (missing-class-docstring)
+1592-rearrange-spaces-between-words.py:3:4: C0116: Missing function or method docstring (missing-function-docstring)
+1592-rearrange-spaces-between-words.py:3:4: C0103: Method name "reorderSpaces" doesn't conform to snake_case naming style (invalid-name)
+1592-rearrange-spaces-between-words.py:10:12: W0612: Unused variable 'space_between_words' (unused-variable)
+1592-rearrange-spaces-between-words.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

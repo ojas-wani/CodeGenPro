@@ -1,0 +1,6 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1114-print-in-order.py:2:1: F401 'functools' imported but unused
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1114-print-in-order.py:4:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1114-print-in-order.py:10:33: F821 undefined name 'Callable'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1114-print-in-order.py:15:35: F821 undefined name 'Callable'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1114-print-in-order.py:22:33: F821 undefined name 'Callable'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1114-print-in-order.py:27:29: W292 no newline at end of file

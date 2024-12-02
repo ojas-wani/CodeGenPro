@@ -1,0 +1,12 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1370-increasing-decreasing-string.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1370-increasing-decreasing-string.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1370-increasing-decreasing-string.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1370-increasing-decreasing-string.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1370-increasing-decreasing-string.java:2:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1370-increasing-decreasing-string.java:2:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1370-increasing-decreasing-string.java:3:	LocalVariableCouldBeFinal:	Local variable 'arr' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1370-increasing-decreasing-string.java:6:	ShortVariable:	Avoid variables with short names like sb
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1370-increasing-decreasing-string.java:6:	LocalVariableCouldBeFinal:	Local variable 'sb' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1370-increasing-decreasing-string.java:7:	ShortVariable:	Avoid variables with short names like i
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1370-increasing-decreasing-string.java:7:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1370-increasing-decreasing-string.java:7:	ShortVariable:	Avoid variables with short names like j

@@ -1,0 +1,5 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1232-check-if-it-is-a-straight-line.py:2:46: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1232-check-if-it-is-a-straight-line.py:2:51: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1232-check-if-it-is-a-straight-line.py:5:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1232-check-if-it-is-a-straight-line.py:8:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1232-check-if-it-is-a-straight-line.py:13:20: W292 no newline at end of file

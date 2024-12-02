@@ -1,0 +1,7 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/141-linked-list-cycle.py:8:30: F821 undefined name 'Optional'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/141-linked-list-cycle.py:8:39: F821 undefined name 'ListNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/141-linked-list-cycle.py:11:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/141-linked-list-cycle.py:14:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/141-linked-list-cycle.py:18:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/141-linked-list-cycle.py:21:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/141-linked-list-cycle.py:22:20: W292 no newline at end of file

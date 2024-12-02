@@ -1,0 +1,8 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/145-binary-tree-postorder-traversal.py:8:40: F821 undefined name 'Optional'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/145-binary-tree-postorder-traversal.py:8:49: F821 undefined name 'TreeNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/145-binary-tree-postorder-traversal.py:8:63: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/145-binary-tree-postorder-traversal.py:11:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/145-binary-tree-postorder-traversal.py:14:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/145-binary-tree-postorder-traversal.py:18:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/145-binary-tree-postorder-traversal.py:23:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/145-binary-tree-postorder-traversal.py:24:28: W292 no newline at end of file

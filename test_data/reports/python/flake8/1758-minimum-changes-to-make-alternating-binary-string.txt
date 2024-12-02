@@ -1,0 +1,1 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1758-minimum-changes-to-make-alternating-binary-string.py:8:19: W292 no newline at end of file

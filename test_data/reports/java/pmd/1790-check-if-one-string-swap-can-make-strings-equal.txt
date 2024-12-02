@@ -1,0 +1,19 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:2:	CognitiveComplexity:	The method 'areAlmostEqual(String, String)' has a cognitive complexity of 15, current threshold is 15
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:2:	ShortVariable:	Avoid variables with short names like s1
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:2:	MethodArgumentCouldBeFinal:	Parameter 's1' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:2:	ShortVariable:	Avoid variables with short names like s2
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:2:	MethodArgumentCouldBeFinal:	Parameter 's2' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:3:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:3:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:4:	PrematureDeclaration:	Declaration of 'diff2' can be moved closer to its usages
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:4:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:7:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:7:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:11:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:11:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:14:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1790-check-if-one-string-swap-can-make-strings-equal.java:14:	ControlStatementBraces:	This statement should have braces

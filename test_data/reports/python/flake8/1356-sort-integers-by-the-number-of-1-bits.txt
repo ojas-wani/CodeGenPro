@@ -1,0 +1,3 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1356-sort-integers-by-the-number-of-1-bits.py:2:31: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1356-sort-integers-by-the-number-of-1-bits.py:2:45: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1356-sort-integers-by-the-number-of-1-bits.py:4:19: W292 no newline at end of file

@@ -1,0 +1,17 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:2:	CognitiveComplexity:	The method 'longestNiceSubstring(String)' has a cognitive complexity of 22, current threshold is 15
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:2:	ShortVariable:	Avoid variables with short names like s
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:2:	MethodArgumentCouldBeFinal:	Parameter 's' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:3:	ShortVariable:	Avoid variables with short names like n
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:3:	LocalVariableCouldBeFinal:	Local variable 'n' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:4:	ShortVariable:	Avoid variables with short names like ca
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:4:	LocalVariableCouldBeFinal:	Local variable 'ca' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:5:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:9:	LocalVariableCouldBeFinal:	Local variable 'pos' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:10:	ControlStatementBraces:	This statement should have braces
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:11:	AssignmentInOperand:	Avoid assignments in operands
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:16:	ConfusingTernary:	Avoid if (x != y) ..; else ..;
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1763-longest-nice-substring.java:21:	AvoidReassigningLoopVariables:	Avoid reassigning the loop control variable 'i'

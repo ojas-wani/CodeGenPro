@@ -1,0 +1,21 @@
+************* Module 1037-valid-boomerang
+1037-valid-boomerang.py:8:0: C0303: Trailing whitespace (trailing-whitespace)
+1037-valid-boomerang.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+1037-valid-boomerang.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+1037-valid-boomerang.py:15:0: C0304: Final newline missing (missing-final-newline)
+1037-valid-boomerang.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1037-valid-boomerang.py:1:0: C0103: Module name "1037-valid-boomerang" doesn't conform to snake_case naming style (invalid-name)
+1037-valid-boomerang.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1037-valid-boomerang.py:4:4: C0116: Missing function or method docstring (missing-function-docstring)
+1037-valid-boomerang.py:4:4: C0103: Method name "isBoomerang" doesn't conform to snake_case naming style (invalid-name)
+1037-valid-boomerang.py:5:8: C0103: Variable name "x1" doesn't conform to snake_case naming style (invalid-name)
+1037-valid-boomerang.py:5:12: C0103: Variable name "y1" doesn't conform to snake_case naming style (invalid-name)
+1037-valid-boomerang.py:6:8: C0103: Variable name "x2" doesn't conform to snake_case naming style (invalid-name)
+1037-valid-boomerang.py:6:12: C0103: Variable name "y2" doesn't conform to snake_case naming style (invalid-name)
+1037-valid-boomerang.py:7:8: C0103: Variable name "x3" doesn't conform to snake_case naming style (invalid-name)
+1037-valid-boomerang.py:7:12: C0103: Variable name "y3" doesn't conform to snake_case naming style (invalid-name)
+1037-valid-boomerang.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

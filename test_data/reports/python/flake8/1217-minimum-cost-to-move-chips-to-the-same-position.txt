@@ -1,0 +1,2 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1217-minimum-cost-to-move-chips-to-the-same-position.py:2:44: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1217-minimum-cost-to-move-chips-to-the-same-position.py:8:45: W292 no newline at end of file

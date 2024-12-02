@@ -1,0 +1,14 @@
+Starting audit...
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1572-matrix-diagonal-sum.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1572-matrix-diagonal-sum.java:1: Missing package-info.java file. [JavadocPackage]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1572-matrix-diagonal-sum.java:2:28: Parameter mat should be final. [FinalParameters]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1572-matrix-diagonal-sum.java:5:9: 'for' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1572-matrix-diagonal-sum.java:5:9: 'for' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1572-matrix-diagonal-sum.java:7:28: '-' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1572-matrix-diagonal-sum.java:7:28: '-' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1572-matrix-diagonal-sum.java:7:30: '-' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1572-matrix-diagonal-sum.java:7:30: '-' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1572-matrix-diagonal-sum.java:9:9: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1572-matrix-diagonal-sum.java:9:9: 'if' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\wanio\OneDrive\Desktop\CSULB_things\Sem 3\Software Maintainance\Code\LLM-Improved-Code-Quality\test_data\temp2\code\java\1572-matrix-diagonal-sum.java:10: Line is longer than 80 characters (found 97). [LineLength]
+Audit done.

@@ -1,0 +1,15 @@
+************* Module 1791-find-center-of-star-graph
+1791-find-center-of-star-graph.py:5:0: C0304: Final newline missing (missing-final-newline)
+1791-find-center-of-star-graph.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1791-find-center-of-star-graph.py:1:0: C0103: Module name "1791-find-center-of-star-graph" doesn't conform to snake_case naming style (invalid-name)
+1791-find-center-of-star-graph.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1791-find-center-of-star-graph.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1791-find-center-of-star-graph.py:2:4: C0103: Method name "findCenter" doesn't conform to snake_case naming style (invalid-name)
+1791-find-center-of-star-graph.py:2:32: E0602: Undefined variable 'List' (undefined-variable)
+1791-find-center-of-star-graph.py:2:37: E0602: Undefined variable 'List' (undefined-variable)
+1791-find-center-of-star-graph.py:2:4: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+1791-find-center-of-star-graph.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

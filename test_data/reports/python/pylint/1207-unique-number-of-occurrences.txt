@@ -1,0 +1,16 @@
+************* Module 1207-unique-number-of-occurrences
+1207-unique-number-of-occurrences.py:7:0: C0304: Final newline missing (missing-final-newline)
+1207-unique-number-of-occurrences.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1207-unique-number-of-occurrences.py:1:0: C0103: Module name "1207-unique-number-of-occurrences" doesn't conform to snake_case naming style (invalid-name)
+1207-unique-number-of-occurrences.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1207-unique-number-of-occurrences.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1207-unique-number-of-occurrences.py:2:0: C0413: Import "from collections import Counter" should be placed at the top of the module (wrong-import-position)
+1207-unique-number-of-occurrences.py:4:0: C0115: Missing class docstring (missing-class-docstring)
+1207-unique-number-of-occurrences.py:5:4: C0116: Missing function or method docstring (missing-function-docstring)
+1207-unique-number-of-occurrences.py:5:4: C0103: Method name "uniqueOccurrences" doesn't conform to snake_case naming style (invalid-name)
+1207-unique-number-of-occurrences.py:5:37: E0602: Undefined variable 'List' (undefined-variable)
+1207-unique-number-of-occurrences.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

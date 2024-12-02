@@ -1,0 +1,4 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1800-maximum-ascending-subarray-sum.py:2:37: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1800-maximum-ascending-subarray-sum.py:4:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1800-maximum-ascending-subarray-sum.py:11:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1800-maximum-ascending-subarray-sum.py:12:23: W292 no newline at end of file

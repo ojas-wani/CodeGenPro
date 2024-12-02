@@ -1,0 +1,2 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1287-element-appearing-more-than-25-in-sorted-array.py:2:39: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1287-element-appearing-more-than-25-in-sorted-array.py:8:27: W292 no newline at end of file

@@ -1,0 +1,2 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1089-duplicate-zeros.py:2:35: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1089-duplicate-zeros.py:16:23: W292 no newline at end of file

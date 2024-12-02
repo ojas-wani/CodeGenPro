@@ -1,0 +1,13 @@
+************* Module 1021-remove-outermost-parentheses
+1021-remove-outermost-parentheses.py:14:0: C0304: Final newline missing (missing-final-newline)
+1021-remove-outermost-parentheses.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1021-remove-outermost-parentheses.py:1:0: C0103: Module name "1021-remove-outermost-parentheses" doesn't conform to snake_case naming style (invalid-name)
+1021-remove-outermost-parentheses.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1021-remove-outermost-parentheses.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1021-remove-outermost-parentheses.py:2:4: C0103: Method name "removeOuterParentheses" doesn't conform to snake_case naming style (invalid-name)
+1021-remove-outermost-parentheses.py:2:37: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1021-remove-outermost-parentheses.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 4.29/10 (previous run: 0.83/10, +3.45)
+

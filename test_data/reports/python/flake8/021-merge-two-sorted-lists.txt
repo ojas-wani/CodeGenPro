@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/021-merge-two-sorted-lists.py:7:36: F821 undefined name 'Optional'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/021-merge-two-sorted-lists.py:7:45: F821 undefined name 'ListNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/021-merge-two-sorted-lists.py:7:63: F821 undefined name 'Optional'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/021-merge-two-sorted-lists.py:7:72: F821 undefined name 'ListNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/021-merge-two-sorted-lists.py:7:80: E501 line too long (104 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/code/python/021-merge-two-sorted-lists.py:7:86: F821 undefined name 'Optional'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/021-merge-two-sorted-lists.py:7:95: F821 undefined name 'ListNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/021-merge-two-sorted-lists.py:12:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/021-merge-two-sorted-lists.py:18:25: W292 no newline at end of file

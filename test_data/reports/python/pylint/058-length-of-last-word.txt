@@ -1,0 +1,15 @@
+************* Module 058-length-of-last-word
+058-length-of-last-word.py:6:0: C0304: Final newline missing (missing-final-newline)
+058-length-of-last-word.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+058-length-of-last-word.py:1:0: C0103: Module name "058-length-of-last-word" doesn't conform to snake_case naming style (invalid-name)
+058-length-of-last-word.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+058-length-of-last-word.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+058-length-of-last-word.py:2:0: C0115: Missing class docstring (missing-class-docstring)
+058-length-of-last-word.py:3:4: C0116: Missing function or method docstring (missing-function-docstring)
+058-length-of-last-word.py:3:4: C0103: Method name "lengthOfLastWord" doesn't conform to snake_case naming style (invalid-name)
+058-length-of-last-word.py:3:31: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+058-length-of-last-word.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

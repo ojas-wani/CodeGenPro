@@ -1,0 +1,18 @@
+************* Module 1704-determine-if-string-halves-are-alike
+1704-determine-if-string-halves-are-alike.py:4:0: C0303: Trailing whitespace (trailing-whitespace)
+1704-determine-if-string-halves-are-alike.py:6:0: C0303: Trailing whitespace (trailing-whitespace)
+1704-determine-if-string-halves-are-alike.py:9:0: C0303: Trailing whitespace (trailing-whitespace)
+1704-determine-if-string-halves-are-alike.py:10:0: C0304: Final newline missing (missing-final-newline)
+1704-determine-if-string-halves-are-alike.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1704-determine-if-string-halves-are-alike.py:1:0: C0103: Module name "1704-determine-if-string-halves-are-alike" doesn't conform to snake_case naming style (invalid-name)
+1704-determine-if-string-halves-are-alike.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1704-determine-if-string-halves-are-alike.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1704-determine-if-string-halves-are-alike.py:2:4: C0103: Method name "halvesAreAlike" doesn't conform to snake_case naming style (invalid-name)
+1704-determine-if-string-halves-are-alike.py:2:29: C0103: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+1704-determine-if-string-halves-are-alike.py:7:8: C0103: Variable name "a" doesn't conform to snake_case naming style (invalid-name)
+1704-determine-if-string-halves-are-alike.py:8:8: C0103: Variable name "b" doesn't conform to snake_case naming style (invalid-name)
+1704-determine-if-string-halves-are-alike.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

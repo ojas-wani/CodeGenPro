@@ -1,0 +1,21 @@
+************* Module 1496-path-crossing
+1496-path-crossing.py:18:0: C0304: Final newline missing (missing-final-newline)
+1496-path-crossing.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1496-path-crossing.py:1:0: C0103: Module name "1496-path-crossing" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+1496-path-crossing.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+1496-path-crossing.py:2:0: C0115: Missing class docstring (missing-class-docstring)
+1496-path-crossing.py:3:4: C0116: Missing function or method docstring (missing-function-docstring)
+1496-path-crossing.py:3:4: C0103: Method name "isPathCrossing" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:6:12: W0622: Redefining built-in 'dir' (redefined-builtin)
+1496-path-crossing.py:4:8: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:4:11: C0103: Variable name "y" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:8:16: C0103: Variable name "y" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:10:16: C0103: Variable name "y" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:12:16: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:14:16: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+1496-path-crossing.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

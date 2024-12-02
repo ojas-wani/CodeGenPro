@@ -1,0 +1,17 @@
+************* Module 035-search-insert-position
+035-search-insert-position.py:4:0: C0303: Trailing whitespace (trailing-whitespace)
+035-search-insert-position.py:7:0: C0303: Trailing whitespace (trailing-whitespace)
+035-search-insert-position.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+035-search-insert-position.py:15:0: C0304: Final newline missing (missing-final-newline)
+035-search-insert-position.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+035-search-insert-position.py:1:0: C0103: Module name "035-search-insert-position" doesn't conform to snake_case naming style (invalid-name)
+035-search-insert-position.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+035-search-insert-position.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+035-search-insert-position.py:2:4: C0103: Method name "searchInsert" doesn't conform to snake_case naming style (invalid-name)
+035-search-insert-position.py:2:33: E0602: Undefined variable 'List' (undefined-variable)
+035-search-insert-position.py:8:12: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+035-search-insert-position.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

@@ -1,0 +1,15 @@
+************* Module 1619-mean-of-array-after-removing-some-elements
+1619-mean-of-array-after-removing-some-elements.py:9:0: C0304: Final newline missing (missing-final-newline)
+1619-mean-of-array-after-removing-some-elements.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1619-mean-of-array-after-removing-some-elements.py:1:0: C0103: Module name "1619-mean-of-array-after-removing-some-elements" doesn't conform to snake_case naming style (invalid-name)
+1619-mean-of-array-after-removing-some-elements.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1619-mean-of-array-after-removing-some-elements.py:4:4: C0116: Missing function or method docstring (missing-function-docstring)
+1619-mean-of-array-after-removing-some-elements.py:4:4: C0103: Method name "trimMean" doesn't conform to snake_case naming style (invalid-name)
+1619-mean-of-array-after-removing-some-elements.py:6:8: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+1619-mean-of-array-after-removing-some-elements.py:8:21: E1136: Value '20' is unsubscriptable (unsubscriptable-object)
+1619-mean-of-array-after-removing-some-elements.py:8:32: E1136: Value '20' is unsubscriptable (unsubscriptable-object)
+1619-mean-of-array-after-removing-some-elements.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

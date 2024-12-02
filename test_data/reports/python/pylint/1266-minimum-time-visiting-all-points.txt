@@ -1,0 +1,16 @@
+************* Module 1266-minimum-time-visiting-all-points
+1266-minimum-time-visiting-all-points.py:11:0: C0304: Final newline missing (missing-final-newline)
+1266-minimum-time-visiting-all-points.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1266-minimum-time-visiting-all-points.py:1:0: C0103: Module name "1266-minimum-time-visiting-all-points" doesn't conform to snake_case naming style (invalid-name)
+1266-minimum-time-visiting-all-points.py:3:0: C0115: Missing class docstring (missing-class-docstring)
+1266-minimum-time-visiting-all-points.py:4:4: C0116: Missing function or method docstring (missing-function-docstring)
+1266-minimum-time-visiting-all-points.py:4:4: C0103: Method name "minTimeToVisitAllPoints" doesn't conform to snake_case naming style (invalid-name)
+1266-minimum-time-visiting-all-points.py:4:46: E0602: Undefined variable 'List' (undefined-variable)
+1266-minimum-time-visiting-all-points.py:4:51: E0602: Undefined variable 'List' (undefined-variable)
+1266-minimum-time-visiting-all-points.py:7:12: C0103: Variable name "dx" doesn't conform to snake_case naming style (invalid-name)
+1266-minimum-time-visiting-all-points.py:8:12: C0103: Variable name "dy" doesn't conform to snake_case naming style (invalid-name)
+1266-minimum-time-visiting-all-points.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

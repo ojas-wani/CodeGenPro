@@ -1,0 +1,4 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1275-find-winner-on-a-tic-tac-toe-game.py:2:32: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1275-find-winner-on-a-tic-tac-toe-game.py:2:37: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1275-find-winner-on-a-tic-tac-toe-game.py:13:1: W293 blank line contains whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1275-find-winner-on-a-tic-tac-toe-game.py:27:21: W292 no newline at end of file

@@ -1,0 +1,15 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:3:	LocalVariableCouldBeFinal:	Local variable 'dummy' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:4:	LawOfDemeter:	Access to field `next` on foreign value `dummy` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:7:	LawOfDemeter:	Access to field `val` on foreign value `head` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:7:	LawOfDemeter:	Access to field `next` on foreign value `head` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:8:	LawOfDemeter:	Access to field `val` on foreign value `head` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:8:	LawOfDemeter:	Access to field `next` on foreign value `head` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:9:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'head'
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:9:	LawOfDemeter:	Access to field `next` on foreign value `head` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:11:	LawOfDemeter:	Access to field `next` on foreign value `head` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:13:	LawOfDemeter:	Access to field `next` on foreign value `prev` (degree 1)
+LLM-Improved-Code-Quality\test_data\temp2\code\java\083-remove-duplicates-from-sorted-list.java:15:	LawOfDemeter:	Access to field `next` on foreign value `head` (degree 1)

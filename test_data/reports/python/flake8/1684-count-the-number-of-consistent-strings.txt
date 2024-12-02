@@ -1,0 +1,4 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1684-count-the-number-of-consistent-strings.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1684-count-the-number-of-consistent-strings.py:2:1: E302 expected 2 blank lines, found 0
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1684-count-the-number-of-consistent-strings.py:3:59: F821 undefined name 'List'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1684-count-the-number-of-consistent-strings.py:8:21: W292 no newline at end of file

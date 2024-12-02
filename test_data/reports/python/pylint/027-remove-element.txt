@@ -1,0 +1,15 @@
+************* Module 027-remove-element
+027-remove-element.py:9:0: C0304: Final newline missing (missing-final-newline)
+027-remove-element.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+027-remove-element.py:1:0: C0103: Module name "027-remove-element" doesn't conform to snake_case naming style (invalid-name)
+027-remove-element.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+027-remove-element.py:1:0: E0602: Undefined variable 'Python' (undefined-variable)
+027-remove-element.py:2:0: C0115: Missing class docstring (missing-class-docstring)
+027-remove-element.py:3:4: C0116: Missing function or method docstring (missing-function-docstring)
+027-remove-element.py:3:4: C0103: Method name "removeElement" doesn't conform to snake_case naming style (invalid-name)
+027-remove-element.py:3:34: E0602: Undefined variable 'List' (undefined-variable)
+027-remove-element.py:2:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

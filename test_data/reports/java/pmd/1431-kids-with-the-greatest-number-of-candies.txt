@@ -1,0 +1,9 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1431-kids-with-the-greatest-number-of-candies.java:4:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1431-kids-with-the-greatest-number-of-candies.java:4:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1431-kids-with-the-greatest-number-of-candies.java:4:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1431-kids-with-the-greatest-number-of-candies.java:5:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1431-kids-with-the-greatest-number-of-candies.java:5:	MethodArgumentCouldBeFinal:	Parameter 'candies' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1431-kids-with-the-greatest-number-of-candies.java:5:	MethodArgumentCouldBeFinal:	Parameter 'extraCandies' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1431-kids-with-the-greatest-number-of-candies.java:6:	LocalVariableCouldBeFinal:	Local variable 'result' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1431-kids-with-the-greatest-number-of-candies.java:7:	LocalVariableCouldBeFinal:	Local variable 'maxCandies' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1431-kids-with-the-greatest-number-of-candies.java:9:	LocalVariableCouldBeFinal:	Local variable 'candy' could be declared final

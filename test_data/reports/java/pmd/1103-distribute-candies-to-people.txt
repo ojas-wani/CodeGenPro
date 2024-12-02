@@ -1,0 +1,10 @@
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1103-distribute-candies-to-people.java:1:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1103-distribute-candies-to-people.java:1:	CommentRequired:	Class comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1103-distribute-candies-to-people.java:1:	AtLeastOneConstructor:	Each class should declare at least one constructor
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1103-distribute-candies-to-people.java:2:	CommentRequired:	Public method and constructor comments are required
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1103-distribute-candies-to-people.java:2:	MethodArgumentCouldBeFinal:	Parameter 'num_people' is not assigned and could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1103-distribute-candies-to-people.java:2:	FormalParameterNamingConventions:	The method parameter name 'num_people' doesn't match '[a-z][a-zA-Z0-9]*'
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1103-distribute-candies-to-people.java:3:	LocalVariableCouldBeFinal:	Local variable 'ans' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1103-distribute-candies-to-people.java:5:	UnusedLocalVariable:	Avoid unused local variables such as 'given'.
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1103-distribute-candies-to-people.java:8:	LocalVariableCouldBeFinal:	Local variable 'toGive' could be declared final
+LLM-Improved-Code-Quality\test_data\temp2\code\java\1103-distribute-candies-to-people.java:10:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'candies'

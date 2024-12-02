@@ -1,0 +1,19 @@
+************* Module 145-binary-tree-postorder-traversal
+145-binary-tree-postorder-traversal.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+145-binary-tree-postorder-traversal.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+145-binary-tree-postorder-traversal.py:18:0: C0303: Trailing whitespace (trailing-whitespace)
+145-binary-tree-postorder-traversal.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+145-binary-tree-postorder-traversal.py:24:0: C0304: Final newline missing (missing-final-newline)
+145-binary-tree-postorder-traversal.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+145-binary-tree-postorder-traversal.py:1:0: C0103: Module name "145-binary-tree-postorder-traversal" doesn't conform to snake_case naming style (invalid-name)
+145-binary-tree-postorder-traversal.py:7:0: C0115: Missing class docstring (missing-class-docstring)
+145-binary-tree-postorder-traversal.py:8:4: C0116: Missing function or method docstring (missing-function-docstring)
+145-binary-tree-postorder-traversal.py:8:4: C0103: Method name "postorderTraversal" doesn't conform to snake_case naming style (invalid-name)
+145-binary-tree-postorder-traversal.py:8:39: E0602: Undefined variable 'Optional' (undefined-variable)
+145-binary-tree-postorder-traversal.py:8:48: E0602: Undefined variable 'TreeNode' (undefined-variable)
+145-binary-tree-postorder-traversal.py:8:62: E0602: Undefined variable 'List' (undefined-variable)
+145-binary-tree-postorder-traversal.py:7:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

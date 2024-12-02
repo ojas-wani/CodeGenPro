@@ -1,0 +1,6 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1636-sort-array-by-increasing-frequency.py:1:1: F821 undefined name 'Python'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1636-sort-array-by-increasing-frequency.py:2:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1636-sort-array-by-increasing-frequency.py:3:1: E402 module level import not at top of file
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1636-sort-array-by-increasing-frequency.py:5:1: E302 expected 2 blank lines, found 1
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1636-sort-array-by-increasing-frequency.py:7:30: W291 trailing whitespace
+LLM-Improved-Code-Quality/test_data/temp2/code/python/1636-sort-array-by-increasing-frequency.py:12:22: W292 no newline at end of file

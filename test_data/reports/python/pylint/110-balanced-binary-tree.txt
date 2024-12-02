@@ -1,0 +1,21 @@
+************* Module 110-balanced-binary-tree
+110-balanced-binary-tree.py:5:0: C0303: Trailing whitespace (trailing-whitespace)
+110-balanced-binary-tree.py:9:0: C0303: Trailing whitespace (trailing-whitespace)
+110-balanced-binary-tree.py:13:0: C0303: Trailing whitespace (trailing-whitespace)
+110-balanced-binary-tree.py:17:0: C0303: Trailing whitespace (trailing-whitespace)
+110-balanced-binary-tree.py:20:0: C0303: Trailing whitespace (trailing-whitespace)
+110-balanced-binary-tree.py:22:0: C0303: Trailing whitespace (trailing-whitespace)
+110-balanced-binary-tree.py:23:0: C0304: Final newline missing (missing-final-newline)
+110-balanced-binary-tree.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+110-balanced-binary-tree.py:1:0: C0103: Module name "110-balanced-binary-tree" doesn't conform to snake_case naming style (invalid-name)
+110-balanced-binary-tree.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+110-balanced-binary-tree.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+110-balanced-binary-tree.py:2:4: C0103: Method name "isBalanced" doesn't conform to snake_case naming style (invalid-name)
+110-balanced-binary-tree.py:2:31: E0602: Undefined variable 'Optional' (undefined-variable)
+110-balanced-binary-tree.py:2:40: E0602: Undefined variable 'TreeNode' (undefined-variable)
+110-balanced-binary-tree.py:6:8: C0103: Function name "checkHeight" doesn't conform to snake_case naming style (invalid-name)
+110-balanced-binary-tree.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

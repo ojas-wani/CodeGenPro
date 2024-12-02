@@ -1,0 +1,16 @@
+************* Module 1880-check-if-word-equals-summation-of-two-words
+1880-check-if-word-equals-summation-of-two-words.py:6:0: C0304: Final newline missing (missing-final-newline)
+1880-check-if-word-equals-summation-of-two-words.py:6:0: C0301: Line too long (114/100) (line-too-long)
+1880-check-if-word-equals-summation-of-two-words.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+1880-check-if-word-equals-summation-of-two-words.py:1:0: C0103: Module name "1880-check-if-word-equals-summation-of-two-words" doesn't conform to snake_case naming style (invalid-name)
+1880-check-if-word-equals-summation-of-two-words.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+1880-check-if-word-equals-summation-of-two-words.py:2:4: C0116: Missing function or method docstring (missing-function-docstring)
+1880-check-if-word-equals-summation-of-two-words.py:2:4: C0103: Method name "isSumEqual" doesn't conform to snake_case naming style (invalid-name)
+1880-check-if-word-equals-summation-of-two-words.py:2:25: C0103: Argument name "firstWord" doesn't conform to snake_case naming style (invalid-name)
+1880-check-if-word-equals-summation-of-two-words.py:2:41: C0103: Argument name "secondWord" doesn't conform to snake_case naming style (invalid-name)
+1880-check-if-word-equals-summation-of-two-words.py:2:58: C0103: Argument name "targetWord" doesn't conform to snake_case naming style (invalid-name)
+1880-check-if-word-equals-summation-of-two-words.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+

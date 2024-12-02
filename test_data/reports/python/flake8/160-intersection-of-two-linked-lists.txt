@@ -1,0 +1,6 @@
+LLM-Improved-Code-Quality/test_data/temp2/code/python/160-intersection-of-two-linked-lists.py:2:42: F821 undefined name 'ListNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/160-intersection-of-two-linked-lists.py:2:59: F821 undefined name 'ListNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/160-intersection-of-two-linked-lists.py:2:72: F821 undefined name 'Optional'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/160-intersection-of-two-linked-lists.py:2:80: E501 line too long (90 > 79 characters)
+LLM-Improved-Code-Quality/test_data/temp2/code/python/160-intersection-of-two-linked-lists.py:2:81: F821 undefined name 'ListNode'
+LLM-Improved-Code-Quality/test_data/temp2/code/python/160-intersection-of-two-linked-lists.py:20:18: W292 no newline at end of file
